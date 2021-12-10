@@ -1,0 +1,176 @@
+{
+  "type": "Collection",
+  "id": "Teso-North",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp09957/img_L1084F00023C01S01952Rp09957.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp09998/img_L1084F00023C01S01952Rp09998.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp00919/img_L1084F00023C01S01952Rp00919.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01102/img_L1084F00023C01S01952Rp01102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01570/img_L1084F00023C01S01952Rp01570.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01813/img_L1084F00023C01S01952Rp01813.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01970/img_L1084F00023C01S01952Rp01970.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp02098/img_L1084F00023C01S01952Rp02098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp02302/img_L1084F00023C01S01952Rp02302.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp02618/img_L1084F00023C01S01952Rp02618.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp03656/img_L1084F00023C01S01952Rp03656.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp03903/img_L1084F00023C01S01952Rp03903.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp04115/img_L1084F00023C01S01952Rp04115.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp06038/img_L1084F00023C01S01952Rp06038.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp09621/img_L1084F00023C01S01952Rp09621.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp09710/img_L1084F00023C01S01952Rp09710.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp09999/img_L1084F00023C01S01952Rp09999.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp09997/img_L1084F00023C01S01952Rp09997.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01086/img_L1084F00023C01S01952Rp01086.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01067/img_L1084F00023C01S01952Rp01067.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01317/img_L1084F00023C01S01952Rp01317.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp02246/img_L1084F00023C01S01952Rp02246.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp01820/img_L1084F00023C01S01952Rp01820.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Rp03666/img_L1084F00023C01S01952Rp03666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1107F00032C01S02795Rp01342/img_L1107F00032C01S02795Rp01342.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          34.216724400000004,
+          0.58702421,
+          34.43462372,
+          0.78020084
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-22T16:27:33Z",
+          "2021-01-13T18:58:40Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

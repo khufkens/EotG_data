@@ -1,0 +1,101 @@
+{
+  "type": "Collection",
+  "id": "Tongaren",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00027C01S00380Rp01751/img_L1116F00027C01S00380Rp01751.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00027C01S00380Rp03105/img_L1116F00027C01S00380Rp03105.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00027C01S00380Rp04456/img_L1116F00027C01S00380Rp04456.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00027C01S00380Rp06359/img_L1116F00027C01S00380Rp06359.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00031C01S00801Rp00486/img_L1116F00031C01S00801Rp00486.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00031C01S00801Rp02812/img_L1116F00031C01S00801Rp02812.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00031C01S00801Rp04346/img_L1116F00031C01S00801Rp04346.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00031C01S00801Rp09002/img_L1116F00031C01S00801Rp09002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00031C01S00801Rp09586/img_L1116F00031C01S00801Rp09586.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/img_L1116F00031C01S00801Rp11471/img_L1116F00031C01S00801Rp11471.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tongaren/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          34.80102539,
+          0.6710723000000001,
+          35.06757355,
+          0.891774
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-19T13:42:23Z",
+          "2021-01-19T15:31:08Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

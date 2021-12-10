@@ -1,0 +1,211 @@
+{
+  "type": "Collection",
+  "id": "Sirisia",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S00154Rp04435/img_L1083F00021C01S00154Rp04435.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S00154Rp04958/img_L1083F00021C01S00154Rp04958.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S00154Rp08105/img_L1083F00021C01S00154Rp08105.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp04487/img_L1083F00021C01S05137Rp04487.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp06987/img_L1083F00021C01S05137Rp06987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp01789/img_L1083F00021C01S05137Rp01789.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp03132/img_L1083F00021C01S05137Rp03132.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp03131/img_L1083F00021C01S05137Rp03131.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp04433/img_L1083F00021C01S05137Rp04433.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00021C01S05137Rp08106/img_L1083F00021C01S05137Rp08106.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp00109/img_L1084F00022C01S00077Rp00109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp00656/img_L1084F00022C01S00077Rp00656.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp01740/img_L1084F00022C01S00077Rp01740.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp03172/img_L1084F00022C01S00077Rp03172.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp06917/img_L1084F00022C01S00077Rp06917.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp04922/img_L1084F00022C01S00077Rp04922.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00022C01S00077Rp07840/img_L1084F00022C01S00077Rp07840.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp05088/img_L1084F00024C01S01386Rp05088.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp01762/img_L1084F00024C01S01386Rp01762.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp00774/img_L1084F00024C01S01386Rp00774.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp03045/img_L1084F00024C01S01386Rp03045.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp00211/img_L1084F00024C01S01386Rp00211.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp11349/img_L1084F00024C01S01386Rp11349.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp06737/img_L1084F00024C01S01386Rp06737.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp07753/img_L1084F00024C01S01386Rp07753.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1084F00024C01S01386Rp08691/img_L1084F00024C01S01386Rp08691.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00025C01S02578Rp02861/img_L1083F00025C01S02578Rp02861.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00026C01S00273Rp00849/img_L1083F00026C01S00273Rp00849.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00026C01S00273Rp02030/img_L1083F00026C01S00273Rp02030.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00026C01S00273Rp03350/img_L1083F00026C01S00273Rp03350.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00026C01S00273Rp04880/img_L1083F00026C01S00273Rp04880.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/img_L1083F00026C01S00273Rp06563/img_L1083F00026C01S00273Rp06563.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Sirisia/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          34.36346436,
+          0.66389889,
+          34.57736206,
+          0.81820542
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-12T11:33:10Z",
+          "2021-01-18T16:44:03Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

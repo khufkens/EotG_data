@@ -1,0 +1,71 @@
+{
+  "type": "Catalog",
+  "id": "EotG_release_v1",
+  "stac_version": "1.0.0",
+  "description": "\n The 'Eyes on the Ground' project is a collaboration between IFPRI/CGIAR,\n the Lacuna Fund to create a large machine learning (ML) dataset of smallholder\n farmer's fields based upon previous work within the Picture Based Insurance \n framework (Ceballos 2019).\n \n Data provided in this dataset is extensively labelled for machine learning and \n modelling purposes. The provided labels include growth stage, damage, damage extent\n as well as matching ancillary remote sensing and climate data.\n ",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "license": "CC-BY-SA-4.0",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          33.90958786,
+          -0.04395609,
+          35.06757355,
+          0.891774
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-11T16:09:53Z",
+          "2021-01-19T15:31:08Z"
+        ]
+      ]
+    }
+  },
+  "providers": [
+    {
+      "name": "LACUNA fund",
+      "roles": [
+        "producer",
+        "processor"
+      ],
+      "url": "https://lacunafund.org/"
+    },
+    {
+      "name": "International Food Policy Research Institute",
+      "roles": [
+        "producer",
+        "processor"
+      ],
+      "url": "http://ifpri.org"
+    },
+    {
+      "name": "BlueGreen Labs (bv)",
+      "roles": [
+        "processor"
+      ],
+      "url": "http://bluegreenlabs.org"
+    }
+  ],
+  "title": "Eyes on the Ground"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "Catalog",
+  "id": "EotG_images",
+  "stac_version": "1.0.0",
+  "description": "\n Picture based insurance images, sorted by administrative region\n ",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Alego-Usonga/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Budalangi/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Bumula/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Butula/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Kanduyi/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Lugari/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Matayos/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Matungu/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Nambale/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sirisia/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Teso-North/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Tongaren/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Ugenya/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "license": "CC-BY-SA-4.0",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          33.90958786,
+          -0.04395609,
+          35.06757355,
+          0.891774
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-11T16:09:53Z",
+          "2021-01-19T15:31:08Z"
+        ]
+      ]
+    }
+  },
+  "providers": [
+    {
+      "name": "LACUNA fund",
+      "roles": [
+        "producer",
+        "processor"
+      ],
+      "url": "https://lacunafund.org/"
+    },
+    {
+      "name": "International Food Policy Research Institute",
+      "roles": [
+        "producer",
+        "processor"
+      ],
+      "url": "http://ifpri.org"
+    },
+    {
+      "name": "BlueGreen Labs (bv)",
+      "roles": [
+        "processor"
+      ],
+      "url": "http://bluegreenlabs.org"
+    }
+  ],
+  "title": "Eyes on the Ground Image data"
+}

@@ -1,0 +1,126 @@
+{
+  "type": "Collection",
+  "id": "Kanduyi",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp01920/img_L1089F00016C01S02476Rp01920.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp00469/img_L1089F00016C01S02476Rp00469.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp00470/img_L1089F00016C01S02476Rp00470.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp08316/img_L1089F00016C01S02476Rp08316.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp05522/img_L1089F00016C01S02476Rp05522.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp06046/img_L1089F00016C01S02476Rp06046.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1089F00016C01S02476Rp07000/img_L1089F00016C01S02476Rp07000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp00437/img_L1102F00034C01S01526Rp00437.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp00873/img_L1102F00034C01S01526Rp00873.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp01944/img_L1102F00034C01S01526Rp01944.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp03300/img_L1102F00034C01S01526Rp03300.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp04604/img_L1102F00034C01S01526Rp04604.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp07490/img_L1102F00034C01S01526Rp07490.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp08389/img_L1102F00034C01S01526Rp08389.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/img_L1102F00034C01S01526Rp09482/img_L1102F00034C01S01526Rp09482.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kanduyi/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          34.49693298,
+          0.42518803,
+          34.68441391,
+          0.70781493
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-15T14:25:53Z",
+          "2021-01-11T08:56:12Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}
