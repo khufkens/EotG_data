@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1153F00040C01S02620Rp09470",
   "properties": {
+    "farmer_unique_id": "BS002",
+    "site_id": 2620,
+    "crop_name": "maize",
+    "sowing_date": "2020-09-10",
+    "expected_yield": 700,
+    "season": "SR2020",
+    "spatial_location": "Budalangi",
+    "spatial_unit": "gadm36",
     "datetime": "2021-01-11T08:11:26Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BS002_2620_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {

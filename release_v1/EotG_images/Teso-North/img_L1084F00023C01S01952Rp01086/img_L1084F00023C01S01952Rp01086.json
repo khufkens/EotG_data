@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1084F00023C01S01952Rp01086",
   "properties": {
+    "farmer_unique_id": "BN020",
+    "site_id": 1952,
+    "crop_name": "maize",
+    "sowing_date": "2020-10-03",
+    "expected_yield": 2,
+    "season": "SR2020",
+    "spatial_location": "Teso North",
+    "spatial_unit": "gadm36",
     "datetime": "2020-11-24T08:47:53Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BN020_1952_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {

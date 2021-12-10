@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1093F00035C01S00165Rp05709",
   "properties": {
+    "farmer_unique_id": "BN033",
+    "site_id": 165,
+    "crop_name": "maize",
+    "sowing_date": "2020-09-04",
+    "expected_yield": 50,
+    "season": "SR2020",
+    "spatial_location": "Bumula",
+    "spatial_unit": "gadm36",
     "datetime": "2020-12-17T15:12:23Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BN033_165_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {

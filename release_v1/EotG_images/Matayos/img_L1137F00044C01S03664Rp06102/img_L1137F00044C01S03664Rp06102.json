@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1137F00044C01S03664Rp06102",
   "properties": {
+    "farmer_unique_id": "BS008",
+    "site_id": 3664,
+    "crop_name": "maize",
+    "sowing_date": "2020-09-15",
+    "expected_yield": 400,
+    "season": "SR2020",
+    "spatial_location": "Matayos",
+    "spatial_unit": "gadm36",
     "datetime": "2020-12-18T18:51:30Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BS008_3664_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {

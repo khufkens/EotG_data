@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1083F00025C01S02578Rp02861",
   "properties": {
+    "farmer_unique_id": "BN022",
+    "site_id": 2578,
+    "crop_name": "maize",
+    "sowing_date": "2020-09-01",
+    "expected_yield": 900,
+    "season": "SR2020",
+    "spatial_location": "Sirisia",
+    "spatial_unit": "gadm36",
     "datetime": "2020-12-04T17:16:54Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BN022_2578_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {

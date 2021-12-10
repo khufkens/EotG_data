@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1153F00041C01S00509Rp03796",
   "properties": {
+    "farmer_unique_id": "BS004",
+    "site_id": 509,
+    "crop_name": "maize",
+    "sowing_date": "2020-09-29",
+    "expected_yield": 360,
+    "season": "SR2020",
+    "spatial_location": "Alego Usonga",
+    "spatial_unit": "gadm36",
     "datetime": "2020-12-10T08:49:41Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BS004_509_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {

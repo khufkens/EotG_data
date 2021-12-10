@@ -3,6 +3,14 @@
   "stac_version": "1.0.0",
   "id": "img_L1115F00029C01S00141Rp07177",
   "properties": {
+    "farmer_unique_id": "BN027",
+    "site_id": 141,
+    "crop_name": "maize",
+    "sowing_date": "2020-09-02",
+    "expected_yield": 2,
+    "season": "SR2020",
+    "spatial_location": "Lugari",
+    "spatial_unit": "gadm36",
     "datetime": "2020-12-25T09:09:28Z"
   },
   "geometry": {
@@ -77,14 +85,6 @@
       "title": "thumbnail",
       "roles": [
         "thumbnail"
-      ]
-    },
-    "metadata": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/site_info/BN027_141_site_info.json",
-      "type": "application/json",
-      "title": "site meta-data",
-      "roles": [
-        "metadata"
       ]
     },
     "sentinel": {
