@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "EotG_release_v1",
   "stac_version": "1.0.0",
-  "description": "\nThe \"Eyes on the Ground\" project (<a href = \"https://lacunafund.org/ag2020awards/\">https://lacunafund.org/ag2020awards/</a>)\nis a collaboration between ACRE Africa, the International Food Policy Research Institute (IFPRI),\nand the Lacuna Fund, to create a large machine learning (ML) dataset of smallholder farmer's\nfields based upon previous work within the Picture Based Insurance framework\n(<a href=\"https://doi.org/10.1016/j.deveng.2019.100042\">Ceballos, Kramer and Robles, 2019</a>). This is a unique dataset of georeferenced crop images\nalong with labels on input use, crop management, phenology, crop damage, and yields, collected across 8 counties in Kenya.\n",
+  "description": "\nThe \"Eyes on the Ground\" project ([lacunafund.org](https://lacunafund.org/ag2020awards/))\nis a collaboration between ACRE Africa, the International Food Policy Research Institute (IFPRI),\nand the Lacuna Fund, to create a large machine learning (ML) dataset of smallholder farmer's\nfields based upon previous work within the Picture Based Insurance framework\n(Ceballos, Kramer and Robles, 2019, [https://doi.org/10.1016/j.deveng.2019.100042](https://doi.org/10.1016/j.deveng.2019.100042)).\nThis is a unique dataset of georeferenced crop images along with labels on input use,\ncrop management, phenology, crop damage, and yields, collected across 8 counties in Kenya.\n",
   "links": [
     {
       "rel": "root",
