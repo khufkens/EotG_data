@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "EotG_release_v1",
   "stac_version": "1.0.0",
-  "description": "\n The 'Eyes on the Ground' project is a collaboration between IFPRI/CGIAR,\n the Lacuna Fund to create a large machine learning (ML) dataset of smallholder\n farmer's fields based upon previous work within the Picture Based Insurance \n framework (Ceballos 2019).\n \n Data provided in this dataset is extensively labelled for machine learning and \n modelling purposes. The provided labels include growth stage, damage, damage extent\n as well as matching ancillary remote sensing and climate data.\n ",
+  "description": "\nThe \"Eyes on the Ground\" project (<a href = \"https://lacunafund.org/ag2020awards/\">https://lacunafund.org/ag2020awards/</a>)\nis a collaboration between ACRE Africa, the International Food Policy Research Institute (IFPRI),\nand the Lacuna Fund, to create a large machine learning (ML) dataset of smallholder farmer's\nfields based upon previous work within the Picture Based Insurance framework\n(<a href=\"https://doi.org/10.1016/j.deveng.2019.100042\">Ceballos, Kramer and Robles, 2019</a>). This is a unique dataset of georeferenced crop images\nalong with labels on input use, crop management, phenology, crop damage, and yields, collected across 8 counties in Kenya.\n",
   "links": [
     {
       "rel": "root",
