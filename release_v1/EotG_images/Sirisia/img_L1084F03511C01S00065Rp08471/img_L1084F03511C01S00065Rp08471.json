@@ -89,7 +89,7 @@
     },
     "sentinel": {
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/675489_65_S2_R.zip",
-      "type": "application/json",
+      "type": "application/zip",
       "title": "Sentinel remote sensing data",
       "roles": [
         "data"
@@ -97,7 +97,7 @@
     },
     "ERA5": {
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/era5/675489_65_ERA5.zip",
-      "type": "application/json",
+      "type": "application/zip",
       "title": "ERA5 climate data",
       "roles": [
         "data"
@@ -105,7 +105,7 @@
     },
     "ARC": {
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/675489_65_ARC.zip",
-      "type": "application/json",
+      "type": "application/zip",
       "title": "ARC precipitation estimates",
       "roles": [
         "data"
@@ -113,7 +113,7 @@
     },
     "TAMSAT": {
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/675489_65_TAMSAT.zip",
-      "type": "application/json",
+      "type": "application/zip",
       "title": "TAMSAT precipitation estimates",
       "roles": [
         "data"
