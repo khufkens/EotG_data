@@ -1,0 +1,131 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "img_159_repeat_2_1473_5960_4309",
+  "properties": {
+    "farmer_unique_id": "MN029",
+    "site_id": 1473,
+    "crop_name": "maize",
+    "sowing_date": "2020-03-11",
+    "expected_yield": 1000,
+    "season": "LR2020",
+    "spatial_location": "Mbooni",
+    "spatial_unit": "gadm36",
+    "datetime": "2020-07-08T14:30:35Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          37.33507919,
+          -1.78532445
+        ],
+        [
+          37.33507919,
+          -1.51516724
+        ],
+        [
+          37.85600662,
+          -1.51516724
+        ],
+        [
+          37.85600662,
+          -1.78532445
+        ],
+        [
+          37.33507919,
+          -1.78532445
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mbooni/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mbooni/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mbooni/img_159_repeat_2_1473_5960_4309/img_159_repeat_2_1473_5960_4309.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mbooni/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/images/159_repeat_2_1473_5960_4309.JPG",
+      "type": "image/jpeg",
+      "title": "3 band RGB",
+      "roles": [
+        "data"
+      ]
+    },
+    "label": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/labels/159_repeat_2_1473_5960_4309.json",
+      "type": "application/json",
+      "title": "ML labels",
+      "roles": [
+        "data"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/thumbs/159_repeat_2_1473_5960_4309.JPG",
+      "type": "image/jpeg",
+      "title": "thumbnail",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "sentinel": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/MN029_1473_S2_R.zip",
+      "type": "application/json",
+      "title": "Sentinel remote sensing data",
+      "roles": [
+        "data"
+      ]
+    },
+    "ERA5": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/era5/MN029_1473_ERA5.zip",
+      "type": "application/json",
+      "title": "ERA5 climate data",
+      "roles": [
+        "data"
+      ]
+    },
+    "ARC": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/MN029_1473_ARC.zip",
+      "type": "application/json",
+      "title": "ARC precipitation estimates",
+      "roles": [
+        "data"
+      ]
+    },
+    "TAMSAT": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/MN029_1473_TAMSAT.zip",
+      "type": "application/json",
+      "title": "TAMSAT precipitation estimates",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    37.33507919,
+    -1.78532445,
+    37.85600662,
+    -1.51516724
+  ],
+  "stac_extensions": [],
+  "collection": "Mbooni"
+}

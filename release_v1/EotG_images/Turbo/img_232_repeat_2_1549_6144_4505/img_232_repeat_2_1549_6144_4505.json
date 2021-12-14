@@ -1,0 +1,131 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "img_232_repeat_2_1549_6144_4505",
+  "properties": {
+    "farmer_unique_id": "BN028",
+    "site_id": 1549,
+    "crop_name": "maize",
+    "sowing_date": "2020-04-11",
+    "expected_yield": 1800,
+    "season": "LR2020",
+    "spatial_location": "Turbo",
+    "spatial_unit": "gadm36",
+    "datetime": "2020-07-15T07:42:24Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          34.852081299999995,
+          0.51914895
+        ],
+        [
+          34.852081299999995,
+          0.69041151
+        ],
+        [
+          35.28290558,
+          0.69041151
+        ],
+        [
+          35.28290558,
+          0.51914895
+        ],
+        [
+          34.852081299999995,
+          0.51914895
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Turbo/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Turbo/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Turbo/img_232_repeat_2_1549_6144_4505/img_232_repeat_2_1549_6144_4505.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Turbo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/images/232_repeat_2_1549_6144_4505.JPG",
+      "type": "image/jpeg",
+      "title": "3 band RGB",
+      "roles": [
+        "data"
+      ]
+    },
+    "label": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/labels/232_repeat_2_1549_6144_4505.json",
+      "type": "application/json",
+      "title": "ML labels",
+      "roles": [
+        "data"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/thumbs/232_repeat_2_1549_6144_4505.JPG",
+      "type": "image/jpeg",
+      "title": "thumbnail",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "sentinel": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/BN028_1549_S2_R.zip",
+      "type": "application/json",
+      "title": "Sentinel remote sensing data",
+      "roles": [
+        "data"
+      ]
+    },
+    "ERA5": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/era5/BN028_1549_ERA5.zip",
+      "type": "application/json",
+      "title": "ERA5 climate data",
+      "roles": [
+        "data"
+      ]
+    },
+    "ARC": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/BN028_1549_ARC.zip",
+      "type": "application/json",
+      "title": "ARC precipitation estimates",
+      "roles": [
+        "data"
+      ]
+    },
+    "TAMSAT": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/BN028_1549_TAMSAT.zip",
+      "type": "application/json",
+      "title": "TAMSAT precipitation estimates",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    34.852081299999995,
+    0.51914895,
+    35.28290558,
+    0.69041151
+  ],
+  "stac_extensions": [],
+  "collection": "Turbo"
+}

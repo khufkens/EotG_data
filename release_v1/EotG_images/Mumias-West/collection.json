@@ -1,0 +1,101 @@
+{
+  "type": "Collection",
+  "id": "Mumias-West",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_447_318/img_189_repeat_2_1526_447_318.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_1313_1019/img_189_repeat_2_1526_1313_1019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_2620_1649/img_189_repeat_2_1526_2620_1649.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_3151_1982/img_189_repeat_2_1526_3151_1982.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_4086_2651/img_189_repeat_2_1526_4086_2651.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_4815_3190/img_189_repeat_2_1526_4815_3190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_5264_3623/img_189_repeat_2_1526_5264_3623.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_5700_4076/img_189_repeat_2_1526_5700_4076.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_repeat_2_1526_6070_4438/img_189_repeat_2_1526_6070_4438.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/img_189_initial_1_1526_1526/img_189_initial_1_1526_1526.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mumias-West/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          34.38359451,
+          0.18314023,
+          34.52204895,
+          0.38128194
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-30T00:00:00Z",
+          "2020-07-12T18:01:50Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

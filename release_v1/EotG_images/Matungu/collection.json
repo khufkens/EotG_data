@@ -25,6 +25,56 @@
       "type": "application/json"
     },
     {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_223_repeat_2_3284_4829_3201/img_223_repeat_2_3284_4829_3201.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_223_repeat_2_3284_5815_4196/img_223_repeat_2_3284_5815_4196.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_223_repeat_2_3284_6191_4555/img_223_repeat_2_3284_6191_4555.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_225_repeat_2_1334_472_335/img_225_repeat_2_1334_472_335.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_L1094F00036C01S00071Ip/img_L1094F00036C01S00071Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_L1089F00469C01S00294Ip/img_L1089F00469C01S00294Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_223_initial_1_3284_3284/img_223_initial_1_3284_3284.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_225_initial_1_1334_1334/img_225_initial_1_1334_1334.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_225_initial_1_1338_1338/img_225_initial_1_1338_1338.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/img_227_initial_1_1790_1790/img_227_initial_1_1790_1790.json",
+      "type": "application/json"
+    },
+    {
       "rel": "self",
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Matungu/collection.json",
       "type": "application/json"
@@ -50,7 +100,7 @@
     "temporal": {
       "interval": [
         [
-          "2020-11-29T17:31:20Z",
+          "2020-04-27T00:00:00Z",
           "2021-01-01T14:35:30Z"
         ]
       ]

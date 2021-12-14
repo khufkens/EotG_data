@@ -1,0 +1,2616 @@
+{
+  "type": "Collection",
+  "id": "Tigania-East",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp03346/img_L322F00149C01S01445Rp03346.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp00637/img_L322F00149C01S01445Rp00637.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp05961/img_L322F00149C01S01445Rp05961.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp07847/img_L322F00149C01S01445Rp07847.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp08793/img_L322F00149C01S01445Rp08793.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp10536/img_L322F00149C01S01445Rp10536.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp11717/img_L322F00149C01S01445Rp11717.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp12311/img_L322F00149C01S01445Rp12311.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp13124/img_L322F00149C01S01445Rp13124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp13472/img_L322F00149C01S01445Rp13472.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Rp14914/img_L322F00149C01S01445Rp14914.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp00171/img_L354F00181C01S00963Rp00171.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp12057/img_L354F00181C01S00963Rp12057.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp02712/img_L354F00181C01S00963Rp02712.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp08367/img_L354F00181C01S00963Rp08367.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp09622/img_L354F00181C01S00963Rp09622.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp11014/img_L354F00181C01S00963Rp11014.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp00748/img_L354F00181C01S00963Rp00748.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp01853/img_L354F00181C01S00963Rp01853.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp13442/img_L354F00181C01S00963Rp13442.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp13872/img_L354F00181C01S00963Rp13872.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp13874/img_L354F00181C01S00963Rp13874.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp14488/img_L354F00181C01S00963Rp14488.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp14985/img_L354F00181C01S00963Rp14985.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp15010/img_L354F00181C01S00963Rp15010.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Rp15017/img_L354F00181C01S00963Rp15017.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00182C01S01550Rp00295/img_L354F00182C01S01550Rp00295.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00182C01S01550Rp07067/img_L354F00182C01S01550Rp07067.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00182C01S01550Rp05912/img_L354F00182C01S01550Rp05912.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp01173/img_L355F00184C02S02787Rp01173.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp06574/img_L355F00184C02S02787Rp06574.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp06956/img_L355F00184C02S02787Rp06956.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp06955/img_L355F00184C02S02787Rp06955.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp09984/img_L355F00184C02S02787Rp09984.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp11124/img_L355F00184C02S02787Rp11124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp09628/img_L355F00184C02S02787Rp09628.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp11423/img_L355F00184C02S02787Rp11423.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp12921/img_L355F00184C02S02787Rp12921.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Rp13400/img_L355F00184C02S02787Rp13400.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00451C01S00315Rp01446/img_L323F00451C01S00315Rp01446.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00451C01S00315Rp07593/img_L323F00451C01S00315Rp07593.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00451C01S00315Rp12091/img_L323F00451C01S00315Rp12091.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L232F00478C02S04584Rp05341/img_L232F00478C02S04584Rp05341.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L232F00478C02S04584Rp05347/img_L232F00478C02S04584Rp05347.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L232F00478C02S04584Rp11020/img_L232F00478C02S04584Rp11020.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L232F00478C02S04584Rp11021/img_L232F00478C02S04584Rp11021.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F00525C01S00282Rp04228/img_L325F00525C01S00282Rp04228.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F00525C01S00282Rp09495/img_L325F00525C01S00282Rp09495.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F00525C01S00282Rp13314/img_L325F00525C01S00282Rp13314.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F00525C01S00282Rp00127/img_L325F00525C01S00282Rp00127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00895C01S03535Rp09864/img_L322F00895C01S03535Rp09864.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00895C01S03535Rp13819/img_L322F00895C01S03535Rp13819.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00968C01S01308Rp05474/img_L323F00968C01S01308Rp05474.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00968C01S01308Rp11360/img_L323F00968C01S01308Rp11360.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00968C01S01308Rp14165/img_L323F00968C01S01308Rp14165.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01204C01S03680Rp05308/img_L353F01204C01S03680Rp05308.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01204C01S03680Rp10870/img_L353F01204C01S03680Rp10870.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01260C01S03679Rp06706/img_L353F01260C01S03679Rp06706.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01260C01S03679Rp10863/img_L353F01260C01S03679Rp10863.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01260C01S03679Rp14703/img_L353F01260C01S03679Rp14703.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp00610/img_L322F01326C01S01514Rp00610.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp02768/img_L322F01326C01S01514Rp02768.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp04554/img_L322F01326C01S01514Rp04554.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp07738/img_L322F01326C01S01514Rp07738.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp09403/img_L322F01326C01S01514Rp09403.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp12024/img_L322F01326C01S01514Rp12024.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp12767/img_L322F01326C01S01514Rp12767.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp13651/img_L322F01326C01S01514Rp13651.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Rp14944/img_L322F01326C01S01514Rp14944.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F01514C01S04320Rp04787/img_L323F01514C01S04320Rp04787.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F01514C01S04320Rp11332/img_L323F01514C01S04320Rp11332.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F01514C01S04320Rp14238/img_L323F01514C01S04320Rp14238.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01557C01S03546Rp03526/img_L322F01557C01S03546Rp03526.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01557C01S03546Rp09405/img_L322F01557C01S03546Rp09405.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01557C01S03546Rp13654/img_L322F01557C01S03546Rp13654.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01863C01S03644Rp06685/img_L353F01863C01S03644Rp06685.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01863C01S03644Rp10848/img_L353F01863C01S03644Rp10848.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01878C01S03707Rp05335/img_L353F01878C01S03707Rp05335.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01878C01S03707Rp10839/img_L353F01878C01S03707Rp10839.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01878C01S03707Rp10843/img_L353F01878C01S03707Rp10843.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01878C01S03707Rp14362/img_L353F01878C01S03707Rp14362.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L326F01985C01S04233Rp05448/img_L326F01985C01S04233Rp05448.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L326F01985C01S04233Rp11305/img_L326F01985C01S04233Rp11305.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L326F01985C01S04233Rp14834/img_L326F01985C01S04233Rp14834.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L326F01985C01S04233Rp13987/img_L326F01985C01S04233Rp13987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F02042C01S03549Rp03528/img_L322F02042C01S03549Rp03528.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F02042C01S03549Rp09899/img_L322F02042C01S03549Rp09899.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F02042C01S03549Rp13830/img_L322F02042C01S03549Rp13830.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02072C01S00307Rp13320/img_L325F02072C01S00307Rp13320.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02072C01S00307Rp04238/img_L325F02072C01S00307Rp04238.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02072C01S00307Rp09505/img_L325F02072C01S00307Rp09505.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02072C01S00307Rp00141/img_L325F02072C01S00307Rp00141.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp01179/img_L355F02270C01S05302Rp01179.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp06450/img_L355F02270C01S05302Rp06450.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp09629/img_L355F02270C01S05302Rp09629.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp10425/img_L355F02270C01S05302Rp10425.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp11518/img_L355F02270C01S05302Rp11518.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp09986/img_L355F02270C01S05302Rp09986.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp12922/img_L355F02270C01S05302Rp12922.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Rp13397/img_L355F02270C01S05302Rp13397.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp01181/img_L355F02271C02S02788Rp01181.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp06958/img_L355F02271C02S02788Rp06958.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp06960/img_L355F02271C02S02788Rp06960.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp06605/img_L355F02271C02S02788Rp06605.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp09634/img_L355F02271C02S02788Rp09634.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp11120/img_L355F02271C02S02788Rp11120.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp12929/img_L355F02271C02S02788Rp12929.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Rp13395/img_L355F02271C02S02788Rp13395.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp01177/img_L355F02278C01S05301Rp01177.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp06454/img_L355F02278C01S05301Rp06454.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp09987/img_L355F02278C01S05301Rp09987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp09631/img_L355F02278C01S05301Rp09631.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp11517/img_L355F02278C01S05301Rp11517.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp12923/img_L355F02278C01S05301Rp12923.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Rp13396/img_L355F02278C01S05301Rp13396.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp07010/img_L355F02282C01S02790Rp07010.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp07011/img_L355F02282C01S02790Rp07011.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp07007/img_L355F02282C01S02790Rp07007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp07008/img_L355F02282C01S02790Rp07008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp09642/img_L355F02282C01S02790Rp09642.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp01187/img_L355F02282C01S02790Rp01187.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp11135/img_L355F02282C01S02790Rp11135.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp12954/img_L355F02282C01S02790Rp12954.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Rp13666/img_L355F02282C01S02790Rp13666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp01185/img_L355F02285C01S05300Rp01185.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp06617/img_L355F02285C01S05300Rp06617.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp09641/img_L355F02285C01S05300Rp09641.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp07009/img_L355F02285C01S05300Rp07009.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp10432/img_L355F02285C01S05300Rp10432.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp11133/img_L355F02285C01S05300Rp11133.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp11134/img_L355F02285C01S05300Rp11134.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp12956/img_L355F02285C01S05300Rp12956.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Rp13668/img_L355F02285C01S05300Rp13668.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02312C01S00313Rp04247/img_L325F02312C01S00313Rp04247.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02312C01S00313Rp09557/img_L325F02312C01S00313Rp09557.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02312C01S00313Rp13331/img_L325F02312C01S00313Rp13331.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02312C01S00313Rp00148/img_L325F02312C01S00313Rp00148.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F02935C01S03677Rp05223/img_L353F02935C01S03677Rp05223.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F02935C01S03677Rp10858/img_L353F02935C01S03677Rp10858.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F02935C01S03677Rp14700/img_L353F02935C01S03677Rp14700.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F03308C01S04234Rp02770/img_L322F03308C01S04234Rp02770.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F03308C01S04234Rp08346/img_L322F03308C01S04234Rp08346.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F03308C01S04234Rp13116/img_L322F03308C01S04234Rp13116.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F03474C01S03647Rp06697/img_L353F03474C01S03647Rp06697.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F03474C01S03647Rp10853/img_L353F03474C01S03647Rp10853.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F03474C01S03647Rp14699/img_L353F03474C01S03647Rp14699.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03906C01S01553Rp00299/img_L354F03906C01S01553Rp00299.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03906C01S01553Rp05919/img_L354F03906C01S01553Rp05919.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03907C01S01554Rp05923/img_L354F03907C01S01554Rp05923.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03907C01S01554Rp00300/img_L354F03907C01S01554Rp00300.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03911C01S02420Rp06026/img_L354F03911C01S02420Rp06026.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03912C01S03574Rp07074/img_L354F03912C01S03574Rp07074.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03912C01S03574Rp05913/img_L354F03912C01S03574Rp05913.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03913C01S02421Rp09409/img_L354F03913C01S02421Rp09409.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03913C01S02421Rp06023/img_L354F03913C01S02421Rp06023.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03914C01S02249Rp06033/img_L354F03914C01S02249Rp06033.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03915C01S02240Rp06039/img_L354F03915C01S02240Rp06039.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03917C01S02245Rp06036/img_L354F03917C01S02245Rp06036.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03928C01S03579Rp05915/img_L354F03928C01S03579Rp05915.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03929C01S03570Rp05911/img_L354F03929C01S03570Rp05911.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03932C01S02424Rp06024/img_L354F03932C01S02424Rp06024.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03933C01S01567Rp00446/img_L354F03933C01S01567Rp00446.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03933C01S01567Rp05955/img_L354F03933C01S01567Rp05955.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03934C01S01552Rp07069/img_L354F03934C01S01552Rp07069.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03934C01S01552Rp00297/img_L354F03934C01S01552Rp00297.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03934C01S01552Rp05917/img_L354F03934C01S01552Rp05917.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03936C01S02635Rp06025/img_L354F03936C01S02635Rp06025.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03937C01S03120Rp04779/img_L354F03937C01S03120Rp04779.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03937C01S03120Rp09624/img_L354F03937C01S03120Rp09624.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03937C01S03120Rp10918/img_L354F03937C01S03120Rp10918.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03937C01S03120Rp14449/img_L354F03937C01S03120Rp14449.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03979C01S03095Rp04729/img_L354F03979C01S03095Rp04729.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03979C01S03095Rp10916/img_L354F03979C01S03095Rp10916.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03979C01S03095Rp14446/img_L354F03979C01S03095Rp14446.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03979C01S03095Rp15008/img_L354F03979C01S03095Rp15008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03980C01S03037Rp04774/img_L354F03980C01S03037Rp04774.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03980C01S03037Rp11017/img_L354F03980C01S03037Rp11017.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03980C01S03037Rp14477/img_L354F03980C01S03037Rp14477.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03981C01S03087Rp11028/img_L354F03981C01S03087Rp11028.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03981C01S03087Rp14456/img_L354F03981C01S03087Rp14456.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03982C01S03123Rp04783/img_L354F03982C01S03123Rp04783.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03983C01S03091Rp04665/img_L354F03983C01S03091Rp04665.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03983C01S03091Rp10885/img_L354F03983C01S03091Rp10885.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03984C01S03053Rp11035/img_L354F03984C01S03053Rp11035.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03984C01S03053Rp04762/img_L354F03984C01S03053Rp04762.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03984C01S03053Rp14483/img_L354F03984C01S03053Rp14483.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03984C01S03053Rp14485/img_L354F03984C01S03053Rp14485.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03985C01S03089Rp04695/img_L354F03985C01S03089Rp04695.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03985C01S03089Rp10876/img_L354F03985C01S03089Rp10876.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03985C01S03089Rp14307/img_L354F03985C01S03089Rp14307.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp00161/img_L354F03986C01S01036Rp00161.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp12073/img_L354F03986C01S01036Rp12073.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp00739/img_L354F03986C01S01036Rp00739.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp12137/img_L354F03986C01S01036Rp12137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp02694/img_L354F03986C01S01036Rp02694.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp03929/img_L354F03986C01S01036Rp03929.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp04617/img_L354F03986C01S01036Rp04617.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp08363/img_L354F03986C01S01036Rp08363.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp09428/img_L354F03986C01S01036Rp09428.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp09766/img_L354F03986C01S01036Rp09766.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp10865/img_L354F03986C01S01036Rp10865.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp01505/img_L354F03986C01S01036Rp01505.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp13418/img_L354F03986C01S01036Rp13418.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp13864/img_L354F03986C01S01036Rp13864.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp14726/img_L354F03986C01S01036Rp14726.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp14974/img_L354F03986C01S01036Rp14974.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Rp14993/img_L354F03986C01S01036Rp14993.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03987C01S03088Rp04646/img_L354F03987C01S03088Rp04646.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03987C01S03088Rp10881/img_L354F03987C01S03088Rp10881.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03987C01S03088Rp14311/img_L354F03987C01S03088Rp14311.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp00174/img_L354F03988C01S00966Rp00174.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp02718/img_L354F03988C01S00966Rp02718.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp04767/img_L354F03988C01S00966Rp04767.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp09623/img_L354F03988C01S00966Rp09623.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp11015/img_L354F03988C01S00966Rp11015.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp00752/img_L354F03988C01S00966Rp00752.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp01852/img_L354F03988C01S00966Rp01852.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp12146/img_L354F03988C01S00966Rp12146.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp13445/img_L354F03988C01S00966Rp13445.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp14473/img_L354F03988C01S00966Rp14473.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp14475/img_L354F03988C01S00966Rp14475.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp14987/img_L354F03988C01S00966Rp14987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp15012/img_L354F03988C01S00966Rp15012.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Rp13882/img_L354F03988C01S00966Rp13882.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03989C01S03094Rp04650/img_L354F03989C01S03094Rp04650.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03989C01S03094Rp10913/img_L354F03989C01S03094Rp10913.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03989C01S03094Rp14298/img_L354F03989C01S03094Rp14298.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03990C01S03051Rp04755/img_L354F03990C01S03051Rp04755.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03990C01S03051Rp11034/img_L354F03990C01S03051Rp11034.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03990C01S03051Rp14481/img_L354F03990C01S03051Rp14481.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03991C01S03124Rp14465/img_L354F03991C01S03124Rp14465.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03992C01S03055Rp04770/img_L354F03992C01S03055Rp04770.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03992C01S03055Rp11016/img_L354F03992C01S03055Rp11016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03992C01S03055Rp14479/img_L354F03992C01S03055Rp14479.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03992C01S03055Rp15014/img_L354F03992C01S03055Rp15014.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp00186/img_L354F03993C01S01042Rp00186.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp02706/img_L354F03993C01S01042Rp02706.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp03923/img_L354F03993C01S01042Rp03923.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp04629/img_L354F03993C01S01042Rp04629.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp08366/img_L354F03993C01S01042Rp08366.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp09436/img_L354F03993C01S01042Rp09436.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp09633/img_L354F03993C01S01042Rp09633.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp10872/img_L354F03993C01S01042Rp10872.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp01518/img_L354F03993C01S01042Rp01518.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp00744/img_L354F03993C01S01042Rp00744.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp12141/img_L354F03993C01S01042Rp12141.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp13427/img_L354F03993C01S01042Rp13427.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp13868/img_L354F03993C01S01042Rp13868.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp13870/img_L354F03993C01S01042Rp13870.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp14408/img_L354F03993C01S01042Rp14408.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp14722/img_L354F03993C01S01042Rp14722.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp14978/img_L354F03993C01S01042Rp14978.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp14989/img_L354F03993C01S01042Rp14989.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Rp15007/img_L354F03993C01S01042Rp15007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp00163/img_L354F03994C01S01040Rp00163.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp12139/img_L354F03994C01S01040Rp12139.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp02699/img_L354F03994C01S01040Rp02699.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp03925/img_L354F03994C01S01040Rp03925.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp04623/img_L354F03994C01S01040Rp04623.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp08364/img_L354F03994C01S01040Rp08364.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp09430/img_L354F03994C01S01040Rp09430.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp09768/img_L354F03994C01S01040Rp09768.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp10867/img_L354F03994C01S01040Rp10867.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp00740/img_L354F03994C01S01040Rp00740.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp01507/img_L354F03994C01S01040Rp01507.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp13422/img_L354F03994C01S01040Rp13422.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp13866/img_L354F03994C01S01040Rp13866.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp14410/img_L354F03994C01S01040Rp14410.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp14412/img_L354F03994C01S01040Rp14412.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp14724/img_L354F03994C01S01040Rp14724.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp14976/img_L354F03994C01S01040Rp14976.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Rp14991/img_L354F03994C01S01040Rp14991.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03995C01S03130Rp04801/img_L354F03995C01S03130Rp04801.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03995C01S03130Rp11026/img_L354F03995C01S03130Rp11026.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03995C01S03130Rp11027/img_L354F03995C01S03130Rp11027.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03995C01S03130Rp14463/img_L354F03995C01S03130Rp14463.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_991_666/img_9_repeat_2_1341_991_666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_1238_941/img_9_repeat_2_1341_1238_941.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_2478_1504/img_9_repeat_2_1341_2478_1504.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_3370_2190/img_9_repeat_2_1341_3370_2190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_3726_2414/img_9_repeat_2_1341_3726_2414.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_4581_2969/img_9_repeat_2_1341_4581_2969.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_4980_3349/img_9_repeat_2_1341_4980_3349.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1341_5448_3831/img_9_repeat_2_1341_5448_3831.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_1013_687/img_9_repeat_2_1342_1013_687.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_1240_943/img_9_repeat_2_1342_1240_943.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_2485_1508/img_9_repeat_2_1342_2485_1508.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_3371_2191/img_9_repeat_2_1342_3371_2191.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_3728_2415/img_9_repeat_2_1342_3728_2415.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_4582_2970/img_9_repeat_2_1342_4582_2970.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_4981_3350/img_9_repeat_2_1342_4981_3350.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_repeat_2_1342_5450_3833/img_9_repeat_2_1342_5450_3833.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_2683_1677/img_11_repeat_2_2416_2683_1677.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_2774_1742/img_11_repeat_2_2416_2774_1742.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_2849_1813/img_11_repeat_2_2416_2849_1813.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_2894_1855/img_11_repeat_2_2416_2894_1855.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_3409_2202/img_11_repeat_2_2416_3409_2202.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_3477_2221/img_11_repeat_2_2416_3477_2221.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_3546_2284/img_11_repeat_2_2416_3546_2284.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_3579_2327/img_11_repeat_2_2416_3579_2327.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_3659_2402/img_11_repeat_2_2416_3659_2402.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4006_2574/img_11_repeat_2_2416_4006_2574.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4108_2681/img_11_repeat_2_2416_4108_2681.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4148_2727/img_11_repeat_2_2416_4148_2727.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4223_2811/img_11_repeat_2_2416_4223_2811.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4235_2820/img_11_repeat_2_2416_4235_2820.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4258_2840/img_11_repeat_2_2416_4258_2840.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4576_2964/img_11_repeat_2_2416_4576_2964.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4765_3140/img_11_repeat_2_2416_4765_3140.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4805_3176/img_11_repeat_2_2416_4805_3176.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4858_3233/img_11_repeat_2_2416_4858_3233.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4888_3260/img_11_repeat_2_2416_4888_3260.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_4931_3306/img_11_repeat_2_2416_4931_3306.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5161_3483/img_11_repeat_2_2416_5161_3483.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5254_3613/img_11_repeat_2_2416_5254_3613.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5276_3639/img_11_repeat_2_2416_5276_3639.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5338_3703/img_11_repeat_2_2416_5338_3703.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5372_3749/img_11_repeat_2_2416_5372_3749.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5427_3808/img_11_repeat_2_2416_5427_3808.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5601_3946/img_11_repeat_2_2416_5601_3946.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5679_4052/img_11_repeat_2_2416_5679_4052.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5727_4105/img_11_repeat_2_2416_5727_4105.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5760_4134/img_11_repeat_2_2416_5760_4134.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5778_4151/img_11_repeat_2_2416_5778_4151.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5895_4235/img_11_repeat_2_2416_5895_4235.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2416_5991_4352/img_11_repeat_2_2416_5991_4352.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_2686_1679/img_11_repeat_2_2419_2686_1679.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_2775_1743/img_11_repeat_2_2419_2775_1743.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_2814_1789/img_11_repeat_2_2419_2814_1789.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_2850_1814/img_11_repeat_2_2419_2850_1814.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_2895_1856/img_11_repeat_2_2419_2895_1856.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_3416_2204/img_11_repeat_2_2419_3416_2204.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_3480_2224/img_11_repeat_2_2419_3480_2224.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_3522_2263/img_11_repeat_2_2419_3522_2263.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_3547_2285/img_11_repeat_2_2419_3547_2285.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_3580_2328/img_11_repeat_2_2419_3580_2328.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_3661_2403/img_11_repeat_2_2419_3661_2403.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4007_2575/img_11_repeat_2_2419_4007_2575.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4109_2682/img_11_repeat_2_2419_4109_2682.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4149_2728/img_11_repeat_2_2419_4149_2728.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4224_2812/img_11_repeat_2_2419_4224_2812.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4236_2821/img_11_repeat_2_2419_4236_2821.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4259_2841/img_11_repeat_2_2419_4259_2841.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4577_2965/img_11_repeat_2_2419_4577_2965.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4766_3141/img_11_repeat_2_2419_4766_3141.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4806_3177/img_11_repeat_2_2419_4806_3177.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4859_3234/img_11_repeat_2_2419_4859_3234.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4889_3261/img_11_repeat_2_2419_4889_3261.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_4933_3308/img_11_repeat_2_2419_4933_3308.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5058_3388/img_11_repeat_2_2419_5058_3388.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5159_3481/img_11_repeat_2_2419_5159_3481.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5255_3614/img_11_repeat_2_2419_5255_3614.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5280_3643/img_11_repeat_2_2419_5280_3643.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5339_3704/img_11_repeat_2_2419_5339_3704.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5373_3750/img_11_repeat_2_2419_5373_3750.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5429_3810/img_11_repeat_2_2419_5429_3810.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5480_3865/img_11_repeat_2_2419_5480_3865.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5598_3943/img_11_repeat_2_2419_5598_3943.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5674_4051/img_11_repeat_2_2419_5674_4051.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5728_4106/img_11_repeat_2_2419_5728_4106.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5763_4137/img_11_repeat_2_2419_5763_4137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5779_4152/img_11_repeat_2_2419_5779_4152.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5893_4233/img_11_repeat_2_2419_5893_4233.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_repeat_2_2419_5992_4353/img_11_repeat_2_2419_5992_4353.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_993_668/img_21_repeat_2_1355_993_668.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_1619_1206/img_21_repeat_2_1355_1619_1206.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_2498_1521/img_21_repeat_2_1355_2498_1521.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_2837_1806/img_21_repeat_2_1355_2837_1806.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_3493_2236/img_21_repeat_2_1355_3493_2236.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_3535_2274/img_21_repeat_2_1355_3535_2274.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_4123_2699/img_21_repeat_2_1355_4123_2699.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_4739_3104/img_21_repeat_2_1355_4739_3104.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_4878_3253/img_21_repeat_2_1355_4878_3253.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_4880_3255/img_21_repeat_2_1355_4880_3255.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_5218_3572/img_21_repeat_2_1355_5218_3572.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_5354_3724/img_21_repeat_2_1355_5354_3724.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_5793_4168/img_21_repeat_2_1355_5793_4168.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_5795_4170/img_21_repeat_2_1355_5795_4170.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_6010_4371/img_21_repeat_2_1355_6010_4371.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1355_6067_4435/img_21_repeat_2_1355_6067_4435.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_995_670/img_21_repeat_2_1356_995_670.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_1623_1210/img_21_repeat_2_1356_1623_1210.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_2496_1519/img_21_repeat_2_1356_2496_1519.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_2839_1808/img_21_repeat_2_1356_2839_1808.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_3494_2237/img_21_repeat_2_1356_3494_2237.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_3536_2275/img_21_repeat_2_1356_3536_2275.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_4124_2700/img_21_repeat_2_1356_4124_2700.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_4740_3105/img_21_repeat_2_1356_4740_3105.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_4879_3254/img_21_repeat_2_1356_4879_3254.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_5219_3573/img_21_repeat_2_1356_5219_3573.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_5353_3723/img_21_repeat_2_1356_5353_3723.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_5794_4169/img_21_repeat_2_1356_5794_4169.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_6011_4372/img_21_repeat_2_1356_6011_4372.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1356_6068_4436/img_21_repeat_2_1356_6068_4436.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_422_299/img_21_repeat_2_1361_422_299.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_996_671/img_21_repeat_2_1361_996_671.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_1622_1209/img_21_repeat_2_1361_1622_1209.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_2497_1520/img_21_repeat_2_1361_2497_1520.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_2836_1805/img_21_repeat_2_1361_2836_1805.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_3492_2235/img_21_repeat_2_1361_3492_2235.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_3534_2273/img_21_repeat_2_1361_3534_2273.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_4121_2697/img_21_repeat_2_1361_4121_2697.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_4122_2698/img_21_repeat_2_1361_4122_2698.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_4738_3103/img_21_repeat_2_1361_4738_3103.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_4877_3252/img_21_repeat_2_1361_4877_3252.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_5214_3569/img_21_repeat_2_1361_5214_3569.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_5352_3722/img_21_repeat_2_1361_5352_3722.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_5792_4167/img_21_repeat_2_1361_5792_4167.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_6009_4370/img_21_repeat_2_1361_6009_4370.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_repeat_2_1361_6069_4437/img_21_repeat_2_1361_6069_4437.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_200_126/img_28_repeat_2_1354_200_126.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_322_225/img_28_repeat_2_1354_322_225.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_1611_1193/img_28_repeat_2_1354_1611_1193.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_2606_1629/img_28_repeat_2_1354_2606_1629.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_3251_2087/img_28_repeat_2_1354_3251_2087.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_3600_2344/img_28_repeat_2_1354_3600_2344.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_4421_2891/img_28_repeat_2_1354_4421_2891.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_4979_3348/img_28_repeat_2_1354_4979_3348.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_5420_3801/img_28_repeat_2_1354_5420_3801.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_5819_4200/img_28_repeat_2_1354_5819_4200.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_6081_4449/img_28_repeat_2_1354_6081_4449.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_repeat_2_1354_6238_4606/img_28_repeat_2_1354_6238_4606.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2029_1117_813/img_49_repeat_2_2029_1117_813.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2029_1637_1229/img_49_repeat_2_2029_1637_1229.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2029_1691_1261/img_49_repeat_2_2029_1691_1261.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2029_2360_1395/img_49_repeat_2_2029_2360_1395.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2029_3232_2072/img_49_repeat_2_2029_3232_2072.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2427_1705_1275/img_49_repeat_2_2427_1705_1275.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2427_2367_1402/img_49_repeat_2_2427_2367_1402.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_repeat_2_2427_3231_2071/img_49_repeat_2_2427_3231_2071.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00149C01S01445Ip/img_L322F00149C01S01445Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00181C01S00963Ip/img_L354F00181C01S00963Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F00182C01S01550Ip/img_L354F00182C01S01550Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F00184C02S02787Ip/img_L355F00184C02S02787Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00451C01S00315Ip/img_L323F00451C01S00315Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L232F00478C02S04584Ip/img_L232F00478C02S04584Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F00525C01S00282Ip/img_L325F00525C01S00282Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F00895C01S03535Ip/img_L322F00895C01S03535Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F00968C01S01308Ip/img_L323F00968C01S01308Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01204C01S03680Ip/img_L353F01204C01S03680Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01260C01S03679Ip/img_L353F01260C01S03679Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01326C01S01514Ip/img_L322F01326C01S01514Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L323F01514C01S04320Ip/img_L323F01514C01S04320Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F01557C01S03546Ip/img_L322F01557C01S03546Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01863C01S03644Ip/img_L353F01863C01S03644Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F01878C01S03707Ip/img_L353F01878C01S03707Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L326F01985C01S04233Ip/img_L326F01985C01S04233Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F02042C01S03549Ip/img_L322F02042C01S03549Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02072C01S00307Ip/img_L325F02072C01S00307Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02270C01S05302Ip/img_L355F02270C01S05302Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02271C02S02788Ip/img_L355F02271C02S02788Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02278C01S05301Ip/img_L355F02278C01S05301Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02282C01S02790Ip/img_L355F02282C01S02790Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L355F02285C01S05300Ip/img_L355F02285C01S05300Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L325F02312C01S00313Ip/img_L325F02312C01S00313Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F02935C01S03677Ip/img_L353F02935C01S03677Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L322F03308C01S04234Ip/img_L322F03308C01S04234Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L353F03474C01S03647Ip/img_L353F03474C01S03647Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03906C01S01553Ip/img_L354F03906C01S01553Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03907C01S01554Ip/img_L354F03907C01S01554Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03911C01S02420Ip/img_L354F03911C01S02420Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03912C01S03574Ip/img_L354F03912C01S03574Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03913C01S02421Ip/img_L354F03913C01S02421Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03914C01S02249Ip/img_L354F03914C01S02249Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03915C01S02240Ip/img_L354F03915C01S02240Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03917C01S02245Ip/img_L354F03917C01S02245Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03918C01S02373Ip/img_L354F03918C01S02373Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03919C01S02426Ip/img_L354F03919C01S02426Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03928C01S03579Ip/img_L354F03928C01S03579Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03929C01S03570Ip/img_L354F03929C01S03570Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03932C01S02424Ip/img_L354F03932C01S02424Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03933C01S01567Ip/img_L354F03933C01S01567Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03934C01S01552Ip/img_L354F03934C01S01552Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03935C01S02636Ip/img_L354F03935C01S02636Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03936C01S02635Ip/img_L354F03936C01S02635Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03937C01S03120Ip/img_L354F03937C01S03120Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03979C01S03095Ip/img_L354F03979C01S03095Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03980C01S03037Ip/img_L354F03980C01S03037Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03981C01S03087Ip/img_L354F03981C01S03087Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03982C01S03123Ip/img_L354F03982C01S03123Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03983C01S03091Ip/img_L354F03983C01S03091Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03984C01S03053Ip/img_L354F03984C01S03053Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03985C01S03089Ip/img_L354F03985C01S03089Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03986C01S01036Ip/img_L354F03986C01S01036Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03987C01S03088Ip/img_L354F03987C01S03088Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03988C01S00966Ip/img_L354F03988C01S00966Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03989C01S03094Ip/img_L354F03989C01S03094Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03990C01S03051Ip/img_L354F03990C01S03051Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03991C01S03124Ip/img_L354F03991C01S03124Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03992C01S03055Ip/img_L354F03992C01S03055Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03993C01S01042Ip/img_L354F03993C01S01042Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03994C01S01040Ip/img_L354F03994C01S01040Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_L354F03995C01S03130Ip/img_L354F03995C01S03130Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_initial_1_1341_1341/img_9_initial_1_1341_1341.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_9_initial_1_1342_1342/img_9_initial_1_1342_1342.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_1308_1308/img_11_initial_1_1308_1308.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_1306_1306/img_11_initial_1_1306_1306.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_2228_2228/img_11_initial_1_2228_2228.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_2229_2229/img_11_initial_1_2229_2229.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_2644_2644/img_11_initial_1_2644_2644.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_2645_2645/img_11_initial_1_2645_2645.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_2419_2419/img_11_initial_1_2419_2419.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_2416_2416/img_11_initial_1_2416_2416.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_3058_3058/img_11_initial_1_3058_3058.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_11_initial_1_3061_3061/img_11_initial_1_3061_3061.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_initial_1_1355_1355/img_21_initial_1_1355_1355.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_initial_1_1356_1356/img_21_initial_1_1356_1356.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_21_initial_1_1361_1361/img_21_initial_1_1361_1361.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_28_initial_1_1354_1354/img_28_initial_1_1354_1354.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_initial_1_2029_2029/img_49_initial_1_2029_2029.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_49_initial_1_2427_2427/img_49_initial_1_2427_2427.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_163_initial_1_18_18/img_163_initial_1_18_18.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/img_163_initial_1_19_19/img_163_initial_1_19_19.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Tigania-East/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.58111572,
+          0.01147461,
+          37.98571777,
+          0.52770996
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-20T00:00:00Z",
+          "2021-03-10T07:00:37Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

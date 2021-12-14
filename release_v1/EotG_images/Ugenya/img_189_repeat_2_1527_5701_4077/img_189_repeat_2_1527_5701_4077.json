@@ -1,0 +1,131 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "img_189_repeat_2_1527_5701_4077",
+  "properties": {
+    "farmer_unique_id": "BS005",
+    "site_id": 1527,
+    "crop_name": "maize",
+    "sowing_date": "2020-04-29",
+    "expected_yield": 5,
+    "season": "LR2020",
+    "spatial_location": "Ugenya",
+    "spatial_unit": "gadm36",
+    "datetime": "2020-07-02T17:46:48Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          34.1019516,
+          0.12472123
+        ],
+        [
+          34.1019516,
+          0.31758764
+        ],
+        [
+          34.39584732,
+          0.31758764
+        ],
+        [
+          34.39584732,
+          0.12472123
+        ],
+        [
+          34.1019516,
+          0.12472123
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Ugenya/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Ugenya/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Ugenya/img_189_repeat_2_1527_5701_4077/img_189_repeat_2_1527_5701_4077.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Ugenya/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/images/189_repeat_2_1527_5701_4077.JPG",
+      "type": "image/jpeg",
+      "title": "3 band RGB",
+      "roles": [
+        "data"
+      ]
+    },
+    "label": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/labels/189_repeat_2_1527_5701_4077.json",
+      "type": "application/json",
+      "title": "ML labels",
+      "roles": [
+        "data"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/thumbs/189_repeat_2_1527_5701_4077.JPG",
+      "type": "image/jpeg",
+      "title": "thumbnail",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "sentinel": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/BS005_1527_S2_R.zip",
+      "type": "application/json",
+      "title": "Sentinel remote sensing data",
+      "roles": [
+        "data"
+      ]
+    },
+    "ERA5": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/ancillary_data/era5/BS005_1527_ERA5.zip",
+      "type": "application/json",
+      "title": "ERA5 climate data",
+      "roles": [
+        "data"
+      ]
+    },
+    "ARC": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/BS005_1527_ARC.zip",
+      "type": "application/json",
+      "title": "ARC precipitation estimates",
+      "roles": [
+        "data"
+      ]
+    },
+    "TAMSAT": {
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/BS005_1527_TAMSAT.zip",
+      "type": "application/json",
+      "title": "TAMSAT precipitation estimates",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    34.1019516,
+    0.12472123,
+    34.39584732,
+    0.31758764
+  ],
+  "stac_extensions": [],
+  "collection": "Ugenya"
+}

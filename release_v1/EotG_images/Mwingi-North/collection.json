@@ -1,0 +1,81 @@
+{
+  "type": "Collection",
+  "id": "Mwingi-North",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/img_L231F00513C03S01471Rp09009/img_L231F00513C03S01471Rp09009.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/img_L231F00513C03S01471Rp02574/img_L231F00513C03S01471Rp02574.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/img_L231F02687C03S01433Rp02211/img_L231F02687C03S01433Rp02211.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/img_L231F02687C03S01433Rp09008/img_L231F02687C03S01433Rp09008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/img_L231F00513C03S01471Ip/img_L231F00513C03S01471Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/img_L231F02687C03S01433Ip/img_L231F02687C03S01433Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mwingi-North/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.88241959,
+          -0.76013237,
+          38.7868576,
+          -0.05186278
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-07T00:00:00Z",
+          "2021-01-07T18:12:07Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

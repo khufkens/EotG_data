@@ -1,0 +1,361 @@
+{
+  "type": "Collection",
+  "id": "Maragwa",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F00693C01S05255Rp06399/img_L133F00693C01S05255Rp06399.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F00693C01S05255Rp10629/img_L133F00693C01S05255Rp10629.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F00693C01S05255Rp14071/img_L133F00693C01S05255Rp14071.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00802C01S05278Rp06417/img_L134F00802C01S05278Rp06417.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00802C01S05278Rp14566/img_L134F00802C01S05278Rp14566.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00821C01S05238Rp07400/img_L134F00821C01S05238Rp07400.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00821C01S05238Rp11156/img_L134F00821C01S05238Rp11156.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00821C01S05238Rp14043/img_L134F00821C01S05238Rp14043.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00821C01S05238Rp14044/img_L134F00821C01S05238Rp14044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00845C01S05275Rp06413/img_L134F00845C01S05275Rp06413.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00845C01S05275Rp10642/img_L134F00845C01S05275Rp10642.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00845C01S05275Rp14570/img_L134F00845C01S05275Rp14570.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00855C01S05273Rp06412/img_L134F00855C01S05273Rp06412.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00855C01S05273Rp14572/img_L134F00855C01S05273Rp14572.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F01121C01S05323Rp06321/img_L133F01121C01S05323Rp06321.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F01121C01S05323Rp10981/img_L133F01121C01S05323Rp10981.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F01121C01S05323Rp14521/img_L133F01121C01S05323Rp14521.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04015C01S05270Rp06410/img_L134F04015C01S05270Rp06410.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04015C01S05270Rp10636/img_L134F04015C01S05270Rp10636.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04015C01S05270Rp10637/img_L134F04015C01S05270Rp10637.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04015C01S05270Rp14574/img_L134F04015C01S05270Rp14574.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04230C01S05662Rp07390/img_L134F04230C01S05662Rp07390.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04230C01S05662Rp10945/img_L134F04230C01S05662Rp10945.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04230C01S05662Rp14053/img_L134F04230C01S05662Rp14053.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_511_368/img_71_repeat_2_1287_511_368.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_514_371/img_71_repeat_2_1287_514_371.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_721_490/img_71_repeat_2_1287_721_490.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_1263_971/img_71_repeat_2_1287_1263_971.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_3651_2397/img_71_repeat_2_1287_3651_2397.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_5613_3961/img_71_repeat_2_1287_5613_3961.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_238_145/img_71_repeat_2_1287_238_145.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_5939_4282/img_71_repeat_2_1287_5939_4282.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_repeat_2_1287_6149_4512/img_71_repeat_2_1287_6149_4512.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_494_362/img_76_repeat_2_1379_494_362.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_512_369/img_76_repeat_2_1379_512_369.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_1251_955/img_76_repeat_2_1379_1251_955.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_2388_1422/img_76_repeat_2_1379_2388_1422.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_2924_1893/img_76_repeat_2_1379_2924_1893.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_4464_2935/img_76_repeat_2_1379_4464_2935.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_4995_3363/img_76_repeat_2_1379_4995_3363.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_5461_3845/img_76_repeat_2_1379_5461_3845.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_811_512/img_76_repeat_2_1379_811_512.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_3642_2386/img_76_repeat_2_1379_3642_2386.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_5934_4278/img_76_repeat_2_1379_5934_4278.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_repeat_2_1379_6140_4502/img_76_repeat_2_1379_6140_4502.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_repeat_2_1633_962_626/img_248_repeat_2_1633_962_626.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_repeat_2_1633_1266_974/img_248_repeat_2_1633_1266_974.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_repeat_2_1633_2928_1897/img_248_repeat_2_1633_2928_1897.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_repeat_2_1633_4792_3163/img_248_repeat_2_1633_4792_3163.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_repeat_2_1633_5270_3630/img_248_repeat_2_1633_5270_3630.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_repeat_2_1633_5702_4078/img_248_repeat_2_1633_5702_4078.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F00693C01S05255Ip/img_L133F00693C01S05255Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00802C01S05278Ip/img_L134F00802C01S05278Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00821C01S05238Ip/img_L134F00821C01S05238Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00845C01S05275Ip/img_L134F00845C01S05275Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F00855C01S05273Ip/img_L134F00855C01S05273Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L133F01121C01S05323Ip/img_L133F01121C01S05323Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04015C01S05270Ip/img_L134F04015C01S05270Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_L134F04230C01S05662Ip/img_L134F04230C01S05662Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_71_initial_1_1287_1287/img_71_initial_1_1287_1287.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_76_initial_1_1379_1379/img_76_initial_1_1379_1379.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/img_248_initial_1_1633_1633/img_248_initial_1_1633_1633.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Maragwa/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.00935745,
+          -1.00694084,
+          37.31917572,
+          -0.74126267
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-27T00:00:00Z",
+          "2021-02-17T17:48:22Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

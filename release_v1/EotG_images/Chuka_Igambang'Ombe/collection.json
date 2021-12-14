@@ -1,0 +1,406 @@
+{
+  "type": "Collection",
+  "id": "Chuka_Igambang'Ombe",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F00335C01S00119Rp02420/img_L124F00335C01S00119Rp02420.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp02773/img_L124F01034C01S00926Rp02773.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp09922/img_L124F01034C01S00926Rp09922.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp04188/img_L124F01034C01S00926Rp04188.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp05999/img_L124F01034C01S00926Rp05999.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp11705/img_L124F01034C01S00926Rp11705.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp08053/img_L124F01034C01S00926Rp08053.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Rp14309/img_L124F01034C01S00926Rp14309.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01099C01S01903Rp02817/img_L124F01099C01S01903Rp02817.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01099C01S01903Rp08774/img_L124F01099C01S01903Rp08774.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01124C01S02433Rp08802/img_L124F01124C01S02433Rp08802.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01124C01S02433Rp14443/img_L124F01124C01S02433Rp14443.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01124C01S02433Rp02828/img_L124F01124C01S02433Rp02828.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F01247C01S02250Rp03809/img_L141F01247C01S02250Rp03809.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F01247C01S02250Rp05914/img_L141F01247C01S02250Rp05914.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F01247C01S02250Rp12602/img_L141F01247C01S02250Rp12602.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F03420C01S03149Rp01257/img_L141F03420C01S03149Rp01257.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F03420C01S03149Rp08573/img_L141F03420C01S03149Rp08573.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F03420C01S03149Rp12839/img_L141F03420C01S03149Rp12839.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_61_repeat_2_3282_4222_2810/img_61_repeat_2_3282_4222_2810.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_61_repeat_2_3282_4970_3344/img_61_repeat_2_3282_4970_3344.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_repeat_2_1841_4954_3335/img_86_repeat_2_1841_4954_3335.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_repeat_2_2840_4437_2908/img_86_repeat_2_2840_4437_2908.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_repeat_2_2840_4949_3330/img_86_repeat_2_2840_4949_3330.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_repeat_2_2840_5453_3836/img_86_repeat_2_2840_5453_3836.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_repeat_2_2841_4438_2909/img_86_repeat_2_2841_4438_2909.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_repeat_2_2841_5454_3837/img_86_repeat_2_2841_5454_3837.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_repeat_2_2939_3927_2500/img_100_repeat_2_2939_3927_2500.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_repeat_2_2939_2868_1827/img_100_repeat_2_2939_2868_1827.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_repeat_2_2940_2867_1826/img_100_repeat_2_2940_2867_1826.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_repeat_2_2940_3926_2499/img_100_repeat_2_2940_3926_2499.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_3282_2122/img_104_repeat_2_1296_3282_2122.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_3285_2123/img_104_repeat_2_1296_3285_2123.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_2580_1594/img_104_repeat_2_1296_2580_1594.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_4201_2784/img_104_repeat_2_1296_4201_2784.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_4202_2786/img_104_repeat_2_1296_4202_2786.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_4688_3062/img_104_repeat_2_1296_4688_3062.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_4744_3110/img_104_repeat_2_1296_4744_3110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_4747_3114/img_104_repeat_2_1296_4747_3114.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_5230_3579/img_104_repeat_2_1296_5230_3579.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_5231_3581/img_104_repeat_2_1296_5231_3581.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_5232_3583/img_104_repeat_2_1296_5232_3583.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_5643_4012/img_104_repeat_2_1296_5643_4012.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1296_5644_4014/img_104_repeat_2_1296_5644_4014.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_2581_1596/img_104_repeat_2_1297_2581_1596.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_3286_2124/img_104_repeat_2_1297_3286_2124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_4203_2788/img_104_repeat_2_1297_4203_2788.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_4204_2790/img_104_repeat_2_1297_4204_2790.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_4748_3116/img_104_repeat_2_1297_4748_3116.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_5233_3585/img_104_repeat_2_1297_5233_3585.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_5234_3587/img_104_repeat_2_1297_5234_3587.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_5645_4016/img_104_repeat_2_1297_5645_4016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_repeat_2_1297_5646_4018/img_104_repeat_2_1297_5646_4018.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F00335C01S00119Ip/img_L124F00335C01S00119Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01034C01S00926Ip/img_L124F01034C01S00926Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01099C01S01903Ip/img_L124F01099C01S01903Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L124F01124C01S02433Ip/img_L124F01124C01S02433Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F01247C01S02250Ip/img_L141F01247C01S02250Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_L141F03420C01S03149Ip/img_L141F03420C01S03149Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_61_initial_1_3109_3109/img_61_initial_1_3109_3109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_61_initial_1_3112_3112/img_61_initial_1_3112_3112.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_initial_1_1841_1841/img_86_initial_1_1841_1841.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_initial_1_2840_2840/img_86_initial_1_2840_2840.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_initial_1_2841_2841/img_86_initial_1_2841_2841.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_86_initial_1_3098_3098/img_86_initial_1_3098_3098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_initial_1_2939_2939/img_100_initial_1_2939_2939.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_initial_1_2940_2940/img_100_initial_1_2940_2940.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_initial_1_2638_2638/img_100_initial_1_2638_2638.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_100_initial_1_2639_2639/img_100_initial_1_2639_2639.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_initial_1_1296_1296/img_104_initial_1_1296_1296.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/img_104_initial_1_1297_1297/img_104_initial_1_1297_1297.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Chuka_Igambang'Ombe/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.30895996,
+          -0.45111084,
+          37.89470673,
+          -0.15012503
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-25T00:00:00Z",
+          "2021-02-17T13:25:31Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

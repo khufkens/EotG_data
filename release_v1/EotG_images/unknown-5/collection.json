@@ -1,0 +1,686 @@
+{
+  "type": "Collection",
+  "id": "unknown-5",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp00711/img_L353F00177C01S01304Rp00711.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp01965/img_L353F00177C01S01304Rp01965.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp03230/img_L353F00177C01S01304Rp03230.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp04536/img_L353F00177C01S01304Rp04536.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp10790/img_L353F00177C01S01304Rp10790.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp08681/img_L353F00177C01S01304Rp08681.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp06754/img_L353F00177C01S01304Rp06754.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp07642/img_L353F00177C01S01304Rp07642.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp11904/img_L353F00177C01S01304Rp11904.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp12529/img_L353F00177C01S01304Rp12529.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp13261/img_L353F00177C01S01304Rp13261.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Rp14804/img_L353F00177C01S01304Rp14804.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00458C01S04807Rp05452/img_L353F00458C01S04807Rp05452.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00458C01S04807Rp10800/img_L353F00458C01S04807Rp10800.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00458C01S04807Rp14348/img_L353F00458C01S04807Rp14348.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00672C01S03678Rp06705/img_L353F00672C01S03678Rp06705.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00672C01S03678Rp10861/img_L353F00672C01S03678Rp10861.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00672C01S03678Rp14702/img_L353F00672C01S03678Rp14702.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01377C01S04805Rp05442/img_L353F01377C01S04805Rp05442.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01377C01S04805Rp10804/img_L353F01377C01S04805Rp10804.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01377C01S04805Rp14335/img_L353F01377C01S04805Rp14335.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp01980/img_L353F01662C01S04806Rp01980.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp03233/img_L353F01662C01S04806Rp03233.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp04538/img_L353F01662C01S04806Rp04538.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp06748/img_L353F01662C01S04806Rp06748.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp07772/img_L353F01662C01S04806Rp07772.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp07773/img_L353F01662C01S04806Rp07773.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp07728/img_L353F01662C01S04806Rp07728.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp10795/img_L353F01662C01S04806Rp10795.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp08701/img_L353F01662C01S04806Rp08701.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp11915/img_L353F01662C01S04806Rp11915.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp12553/img_L353F01662C01S04806Rp12553.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp13266/img_L353F01662C01S04806Rp13266.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp14445/img_L353F01662C01S04806Rp14445.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Rp14810/img_L353F01662C01S04806Rp14810.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01672C01S03708Rp05345/img_L353F01672C01S03708Rp05345.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01672C01S03708Rp10826/img_L353F01672C01S03708Rp10826.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01672C01S03708Rp14370/img_L353F01672C01S03708Rp14370.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01923C01S02451Rp05450/img_L353F01923C01S02451Rp05450.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01923C01S02451Rp10798/img_L353F01923C01S02451Rp10798.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01923C01S02451Rp14347/img_L353F01923C01S02451Rp14347.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp01964/img_L353F02184C01S01306Rp01964.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp00721/img_L353F02184C01S01306Rp00721.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp04537/img_L353F02184C01S01306Rp04537.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp03231/img_L353F02184C01S01306Rp03231.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp06755/img_L353F02184C01S01306Rp06755.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp10793/img_L353F02184C01S01306Rp10793.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp07643/img_L353F02184C01S01306Rp07643.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp08684/img_L353F02184C01S01306Rp08684.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp11905/img_L353F02184C01S01306Rp11905.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp12533/img_L353F02184C01S01306Rp12533.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp13262/img_L353F02184C01S01306Rp13262.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Rp14806/img_L353F02184C01S01306Rp14806.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02680C01S03709Rp05349/img_L353F02680C01S03709Rp05349.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02680C01S03709Rp10828/img_L353F02680C01S03709Rp10828.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp01724/img_L353F02684C01S03643Rp01724.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp00722/img_L353F02684C01S03643Rp00722.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp06749/img_L353F02684C01S03643Rp06749.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp03234/img_L353F02684C01S03643Rp03234.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp04539/img_L353F02684C01S03643Rp04539.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp07770/img_L353F02684C01S03643Rp07770.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp11029/img_L353F02684C01S03643Rp11029.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp08840/img_L353F02684C01S03643Rp08840.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp08690/img_L353F02684C01S03643Rp08690.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp11908/img_L353F02684C01S03643Rp11908.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp12552/img_L353F02684C01S03643Rp12552.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp13270/img_L353F02684C01S03643Rp13270.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Rp14808/img_L353F02684C01S03643Rp14808.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02807C01S03575Rp05426/img_L353F02807C01S03575Rp05426.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02807C01S03575Rp10787/img_L353F02807C01S03575Rp10787.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02807C01S03575Rp14807/img_L353F02807C01S03575Rp14807.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03362C01S03189Rp05435/img_L353F03362C01S03189Rp05435.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03362C01S03189Rp05432/img_L353F03362C01S03189Rp05432.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03362C01S03189Rp10802/img_L353F03362C01S03189Rp10802.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03362C01S03189Rp14338/img_L353F03362C01S03189Rp14338.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp00710/img_L353F03620C01S01305Rp00710.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp01966/img_L353F03620C01S01305Rp01966.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp04535/img_L353F03620C01S01305Rp04535.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp10789/img_L353F03620C01S01305Rp10789.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp03232/img_L353F03620C01S01305Rp03232.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp06752/img_L353F03620C01S01305Rp06752.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp07641/img_L353F03620C01S01305Rp07641.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp08685/img_L353F03620C01S01305Rp08685.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp11903/img_L353F03620C01S01305Rp11903.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp12528/img_L353F03620C01S01305Rp12528.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp13260/img_L353F03620C01S01305Rp13260.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Rp14805/img_L353F03620C01S01305Rp14805.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_853_522/img_42_repeat_2_1244_853_522.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_4140_2715/img_42_repeat_2_1244_4140_2715.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_5235_3589/img_42_repeat_2_1244_5235_3589.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_5328_3691/img_42_repeat_2_1244_5328_3691.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_5463_3847/img_42_repeat_2_1244_5463_3847.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_6107_4478/img_42_repeat_2_1244_6107_4478.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_6154_4517/img_42_repeat_2_1244_6154_4517.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_5987_4345/img_42_repeat_2_1244_5987_4345.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1244_6054_4418/img_42_repeat_2_1244_6054_4418.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_854_523/img_42_repeat_2_1245_854_523.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_1551_1135/img_42_repeat_2_1245_1551_1135.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_4145_2724/img_42_repeat_2_1245_4145_2724.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_4869_3244/img_42_repeat_2_1245_4869_3244.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_5237_3591/img_42_repeat_2_1245_5237_3591.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_5329_3692/img_42_repeat_2_1245_5329_3692.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_5464_3848/img_42_repeat_2_1245_5464_3848.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_6108_4479/img_42_repeat_2_1245_6108_4479.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_6155_4518/img_42_repeat_2_1245_6155_4518.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_5988_4347/img_42_repeat_2_1245_5988_4347.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_repeat_2_1245_6055_4420/img_42_repeat_2_1245_6055_4420.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_99_repeat_2_1381_4213_2801/img_99_repeat_2_1381_4213_2801.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_99_repeat_2_1381_3337_2144/img_99_repeat_2_1381_3337_2144.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_99_repeat_2_1381_1524_1122/img_99_repeat_2_1381_1524_1122.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_99_repeat_2_1381_2853_1821/img_99_repeat_2_1381_2853_1821.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00177C01S01304Ip/img_L353F00177C01S01304Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00458C01S04807Ip/img_L353F00458C01S04807Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F00672C01S03678Ip/img_L353F00672C01S03678Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01377C01S04805Ip/img_L353F01377C01S04805Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01662C01S04806Ip/img_L353F01662C01S04806Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01672C01S03708Ip/img_L353F01672C01S03708Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F01923C01S02451Ip/img_L353F01923C01S02451Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02184C01S01306Ip/img_L353F02184C01S01306Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02680C01S03709Ip/img_L353F02680C01S03709Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02684C01S03643Ip/img_L353F02684C01S03643Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F02807C01S03575Ip/img_L353F02807C01S03575Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03362C01S03189Ip/img_L353F03362C01S03189Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_L353F03620C01S01305Ip/img_L353F03620C01S01305Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_initial_1_1244_1244/img_42_initial_1_1244_1244.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_42_initial_1_1245_1245/img_42_initial_1_1245_1245.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/img_99_initial_1_1477_1477/img_99_initial_1_1477_1477.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/unknown-5/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.79247284,
+          -0.06579589999999999,
+          37.93731689,
+          0.04883405
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-27T00:00:00Z",
+          "2021-02-21T18:53:05Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

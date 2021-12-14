@@ -31,12 +31,102 @@
     },
     {
       "rel": "child",
+      "href": "./Buuri/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Central-Imenti/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Chuka_Igambang'Ombe/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Funyula/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Gatanga/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Igembe-South/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Kajiado-East/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "./Kanduyi/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
+      "href": "./Kathiani/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Kibwezi-East/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Kibwezi-West/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Kilome/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Kitui-Rural/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "./Lugari/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Maara/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Machakos-Town/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Makueni/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Manyatta/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Maragwa/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Masinga/collection.json",
       "type": "application/json"
     },
     {
@@ -51,7 +141,62 @@
     },
     {
       "rel": "child",
+      "href": "./Mavoko/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mbeere-North/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mbeere-South/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mbooni/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mt.-Elgon/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mumias-West/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mwala/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mwea/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Mwingi-North/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "./Nambale/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./North-Imenti/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Runyenjes/collection.json",
       "type": "application/json"
     },
     {
@@ -61,7 +206,32 @@
     },
     {
       "rel": "child",
+      "href": "./South-Imenti/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "./Teso-North/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Teso-South/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Tharaka/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Tigania-East/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Tigania-West/collection.json",
       "type": "application/json"
     },
     {
@@ -71,7 +241,22 @@
     },
     {
       "rel": "child",
+      "href": "./Turbo/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "./Ugenya/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Yatta/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./unknown-5/collection.json",
       "type": "application/json"
     },
     {
@@ -87,17 +272,17 @@
       "bbox": [
         [
           33.90958786,
-          -0.04395609,
-          35.06757355,
-          0.891774
+          -2.99221325,
+          38.7868576,
+          1.15123999
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2020-11-11T16:09:53Z",
-          "2021-01-19T15:31:08Z"
+          "2020-04-17T00:00:00Z",
+          "2021-03-18T09:10:55Z"
         ]
       ]
     }

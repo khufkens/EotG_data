@@ -1,0 +1,71 @@
+{
+  "type": "Collection",
+  "id": "Mt.-Elgon",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mt.-Elgon/img_L1083F01448C01S00153Rp07445/img_L1083F01448C01S00153Rp07445.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mt.-Elgon/img_L1083F01448C01S00153Rp10348/img_L1083F01448C01S00153Rp10348.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mt.-Elgon/img_L1083F01448C01S00153Rp01684/img_L1083F01448C01S00153Rp01684.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mt.-Elgon/img_L1083F01448C01S00153Ip/img_L1083F01448C01S00153Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Mt.-Elgon/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          34.40545273,
+          0.77179217,
+          34.80092621,
+          1.15123999
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-03T00:00:00Z",
+          "2021-01-15T09:38:48Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "type": "Collection",
+  "id": "Kitui-Rural",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F00285C02S03685Rp05430/img_L426F00285C02S03685Rp05430.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F00285C02S03685Rp11319/img_L426F00285C02S03685Rp11319.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F00285C02S03685Rp14286/img_L426F00285C02S03685Rp14286.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp01319/img_L410F00299C01S01349Rp01319.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp02578/img_L410F00299C01S01349Rp02578.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp03646/img_L410F00299C01S01349Rp03646.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp05190/img_L410F00299C01S01349Rp05190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp08531/img_L410F00299C01S01349Rp08531.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp10687/img_L410F00299C01S01349Rp10687.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp12715/img_L410F00299C01S01349Rp12715.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Rp14024/img_L410F00299C01S01349Rp14024.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00629C01S01367Rp02059/img_L410F00629C01S01367Rp02059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00629C01S01367Rp14019/img_L410F00629C01S01367Rp14019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F02003C01S04072Rp10779/img_L426F02003C01S04072Rp10779.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F02003C01S04072Rp13633/img_L426F02003C01S04072Rp13633.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F02333C01S05341Rp08880/img_L410F02333C01S05341Rp08880.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F02333C01S05341Rp13669/img_L410F02333C01S05341Rp13669.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F02530C01S01411Rp02210/img_L410F02530C01S01411Rp02210.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F02530C01S01411Rp08922/img_L410F02530C01S01411Rp08922.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F00285C02S03685Ip/img_L426F00285C02S03685Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00299C01S01349Ip/img_L410F00299C01S01349Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F00629C01S01367Ip/img_L410F00629C01S01367Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L426F02003C01S04072Ip/img_L426F02003C01S04072Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F02333C01S05341Ip/img_L410F02333C01S05341Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/img_L410F02530C01S01411Ip/img_L410F02530C01S01411Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kitui-Rural/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.59570313,
+          -1.89614654,
+          38.15542221,
+          -1.0800482
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-07T00:00:00Z",
+          "2021-02-16T15:50:45Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

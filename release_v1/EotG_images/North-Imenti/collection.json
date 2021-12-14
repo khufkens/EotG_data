@@ -1,0 +1,2761 @@
+{
+  "type": "Collection",
+  "id": "North-Imenti",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00151C01S00384Rp00102/img_L323F00151C01S00384Rp00102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00151C01S00384Rp01469/img_L323F00151C01S00384Rp01469.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00151C01S00384Rp07551/img_L323F00151C01S00384Rp07551.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00151C01S00384Rp12107/img_L323F00151C01S00384Rp12107.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp03308/img_L361F00186C01S01994Rp03308.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp04257/img_L361F00186C01S01994Rp04257.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp07655/img_L361F00186C01S01994Rp07655.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp08664/img_L361F00186C01S01994Rp08664.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp09420/img_L361F00186C01S01994Rp09420.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp11095/img_L361F00186C01S01994Rp11095.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp11924/img_L361F00186C01S01994Rp11924.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp12536/img_L361F00186C01S01994Rp12536.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp13747/img_L361F00186C01S01994Rp13747.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp13749/img_L361F00186C01S01994Rp13749.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Rp14960/img_L361F00186C01S01994Rp14960.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00195C01S05734Rp12236/img_L365F00195C01S05734Rp12236.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00195C01S05734Rp14882/img_L365F00195C01S05734Rp14882.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00195C01S05734Rp14883/img_L365F00195C01S05734Rp14883.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00357C01S01222Rp01327/img_L323F00357C01S01222Rp01327.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00357C01S01222Rp07574/img_L323F00357C01S01222Rp07574.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00357C01S01222Rp12103/img_L323F00357C01S01222Rp12103.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp07768/img_L365F00490C01S01518Rp07768.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp01891/img_L365F00490C01S01518Rp01891.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp03213/img_L365F00490C01S01518Rp03213.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp00640/img_L365F00490C01S01518Rp00640.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp05808/img_L365F00490C01S01518Rp05808.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp08210/img_L365F00490C01S01518Rp08210.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp08787/img_L365F00490C01S01518Rp08787.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp09225/img_L365F00490C01S01518Rp09225.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp12774/img_L365F00490C01S01518Rp12774.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp14166/img_L365F00490C01S01518Rp14166.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp14455/img_L365F00490C01S01518Rp14455.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp14549/img_L365F00490C01S01518Rp14549.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp14551/img_L365F00490C01S01518Rp14551.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Rp14553/img_L365F00490C01S01518Rp14553.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp01451/img_L361F00947C01S04905Rp01451.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp02567/img_L361F00947C01S04905Rp02567.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp03825/img_L361F00947C01S04905Rp03825.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp03826/img_L361F00947C01S04905Rp03826.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp07042/img_L361F00947C01S04905Rp07042.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp07107/img_L361F00947C01S04905Rp07107.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp08044/img_L361F00947C01S04905Rp08044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp08964/img_L361F00947C01S04905Rp08964.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp10167/img_L361F00947C01S04905Rp10167.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp11660/img_L361F00947C01S04905Rp11660.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp12213/img_L361F00947C01S04905Rp12213.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp12856/img_L361F00947C01S04905Rp12856.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Rp13494/img_L361F00947C01S04905Rp13494.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp01447/img_L361F01181C01S04718Rp01447.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp02558/img_L361F01181C01S04718Rp02558.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp03834/img_L361F01181C01S04718Rp03834.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp07111/img_L361F01181C01S04718Rp07111.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp08063/img_L361F01181C01S04718Rp08063.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp08954/img_L361F01181C01S04718Rp08954.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp10170/img_L361F01181C01S04718Rp10170.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp11661/img_L361F01181C01S04718Rp11661.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Rp12196/img_L361F01181C01S04718Rp12196.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01190C01S02710Rp05988/img_L365F01190C01S02710Rp05988.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01190C01S02710Rp08800/img_L365F01190C01S02710Rp08800.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01190C01S02710Rp12784/img_L365F01190C01S02710Rp12784.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01194C01S02702Rp05987/img_L365F01194C01S02702Rp05987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01194C01S02702Rp08799/img_L365F01194C01S02702Rp08799.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01194C01S02702Rp12981/img_L365F01194C01S02702Rp12981.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01284C01S02701Rp05990/img_L365F01284C01S02701Rp05990.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01284C01S02701Rp08801/img_L365F01284C01S02701Rp08801.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01284C01S02701Rp12785/img_L365F01284C01S02701Rp12785.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01300C01S04826Rp05429/img_L361F01300C01S04826Rp05429.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01300C01S04826Rp10569/img_L361F01300C01S04826Rp10569.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01300C01S04826Rp13971/img_L361F01300C01S04826Rp13971.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01300C01S04826Rp15057/img_L361F01300C01S04826Rp15057.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01371C01S02690Rp05985/img_L365F01371C01S02690Rp05985.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01371C01S02690Rp08798/img_L365F01371C01S02690Rp08798.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01371C01S02690Rp12783/img_L365F01371C01S02690Rp12783.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01381C01S02689Rp05984/img_L365F01381C01S02689Rp05984.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01381C01S02689Rp08797/img_L365F01381C01S02689Rp08797.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01381C01S02689Rp12782/img_L365F01381C01S02689Rp12782.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01626C01S04673Rp05713/img_L361F01626C01S04673Rp05713.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01626C01S04673Rp10707/img_L361F01626C01S04673Rp10707.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01626C01S04673Rp13925/img_L361F01626C01S04673Rp13925.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01626C01S04673Rp15053/img_L361F01626C01S04673Rp15053.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01757C01S02504Rp05981/img_L365F01757C01S02504Rp05981.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01757C01S02504Rp08794/img_L365F01757C01S02504Rp08794.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01757C01S02504Rp12780/img_L365F01757C01S02504Rp12780.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01766C01S02501Rp05980/img_L365F01766C01S02501Rp05980.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01766C01S02501Rp09214/img_L365F01766C01S02501Rp09214.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01766C01S02501Rp09215/img_L365F01766C01S02501Rp09215.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01766C01S02501Rp12779/img_L365F01766C01S02501Rp12779.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01815C01S02499Rp05978/img_L365F01815C01S02499Rp05978.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01815C01S02499Rp08792/img_L365F01815C01S02499Rp08792.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01815C01S02499Rp09216/img_L365F01815C01S02499Rp09216.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01815C01S02499Rp12777/img_L365F01815C01S02499Rp12777.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01889C01S02225Rp05815/img_L365F01889C01S02225Rp05815.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01889C01S02225Rp08790/img_L365F01889C01S02225Rp08790.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01889C01S02225Rp09219/img_L365F01889C01S02225Rp09219.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01889C01S02225Rp12776/img_L365F01889C01S02225Rp12776.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01913C01S02497Rp05976/img_L365F01913C01S02497Rp05976.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01913C01S02497Rp08791/img_L365F01913C01S02497Rp08791.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01913C01S02497Rp09217/img_L365F01913C01S02497Rp09217.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01913C01S02497Rp12778/img_L365F01913C01S02497Rp12778.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L321F02002C01S02827Rp12174/img_L321F02002C01S02827Rp12174.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L321F02002C01S02827Rp06000/img_L321F02002C01S02827Rp06000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02068C01S04824Rp05236/img_L361F02068C01S04824Rp05236.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02068C01S04824Rp10371/img_L361F02068C01S04824Rp10371.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp00620/img_L361F02338C01S01973Rp00620.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp07647/img_L361F02338C01S01973Rp07647.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp01917/img_L361F02338C01S01973Rp01917.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp03289/img_L361F02338C01S01973Rp03289.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp04221/img_L361F02338C01S01973Rp04221.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp06733/img_L361F02338C01S01973Rp06733.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp08405/img_L361F02338C01S01973Rp08405.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp09414/img_L361F02338C01S01973Rp09414.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp10811/img_L361F02338C01S01973Rp10811.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp11900/img_L361F02338C01S01973Rp11900.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp12527/img_L361F02338C01S01973Rp12527.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp13108/img_L361F02338C01S01973Rp13108.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp13736/img_L361F02338C01S01973Rp13736.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Rp15039/img_L361F02338C01S01973Rp15039.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp03290/img_L361F02339C01S01974Rp03290.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp01914/img_L361F02339C01S01974Rp01914.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp00818/img_L361F02339C01S01974Rp00818.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp04222/img_L361F02339C01S01974Rp04222.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp06732/img_L361F02339C01S01974Rp06732.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp07649/img_L361F02339C01S01974Rp07649.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp08565/img_L361F02339C01S01974Rp08565.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp09416/img_L361F02339C01S01974Rp09416.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp10838/img_L361F02339C01S01974Rp10838.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp11899/img_L361F02339C01S01974Rp11899.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp12526/img_L361F02339C01S01974Rp12526.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp13106/img_L361F02339C01S01974Rp13106.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Rp13735/img_L361F02339C01S01974Rp13735.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp04224/img_L361F02340C01S03417Rp04224.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp03293/img_L361F02340C01S03417Rp03293.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp00625/img_L361F02340C01S03417Rp00625.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp01918/img_L361F02340C01S03417Rp01918.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp06736/img_L361F02340C01S03417Rp06736.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp07651/img_L361F02340C01S03417Rp07651.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp08566/img_L361F02340C01S03417Rp08566.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp09417/img_L361F02340C01S03417Rp09417.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp10836/img_L361F02340C01S03417Rp10836.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp11901/img_L361F02340C01S03417Rp11901.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp12530/img_L361F02340C01S03417Rp12530.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp13109/img_L361F02340C01S03417Rp13109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp13738/img_L361F02340C01S03417Rp13738.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Rp15034/img_L361F02340C01S03417Rp15034.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp01919/img_L361F02341C01S03420Rp01919.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp03294/img_L361F02341C01S03420Rp03294.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp13110/img_L361F02341C01S03420Rp13110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp00631/img_L361F02341C01S03420Rp00631.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp04252/img_L361F02341C01S03420Rp04252.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp06739/img_L361F02341C01S03420Rp06739.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp07652/img_L361F02341C01S03420Rp07652.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp08567/img_L361F02341C01S03420Rp08567.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp09418/img_L361F02341C01S03420Rp09418.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp10834/img_L361F02341C01S03420Rp10834.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp11902/img_L361F02341C01S03420Rp11902.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp12531/img_L361F02341C01S03420Rp12531.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp13739/img_L361F02341C01S03420Rp13739.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Rp15033/img_L361F02341C01S03420Rp15033.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02342C01S03423Rp05254/img_L361F02342C01S03423Rp05254.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02342C01S03423Rp10821/img_L361F02342C01S03423Rp10821.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02342C01S03423Rp13856/img_L361F02342C01S03423Rp13856.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02343C01S03425Rp05256/img_L361F02343C01S03425Rp05256.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02343C01S03425Rp10830/img_L361F02343C01S03425Rp10830.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02344C01S03577Rp10833/img_L361F02344C01S03577Rp10833.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02344C01S03577Rp13855/img_L361F02344C01S03577Rp13855.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02344C01S03577Rp15035/img_L361F02344C01S03577Rp15035.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02345C01S03583Rp05285/img_L361F02345C01S03583Rp05285.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02345C01S03583Rp11038/img_L361F02345C01S03583Rp11038.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02345C01S03583Rp13740/img_L361F02345C01S03583Rp13740.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02345C01S03583Rp15036/img_L361F02345C01S03583Rp15036.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02346C01S03584Rp05287/img_L361F02346C01S03584Rp05287.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02346C01S03584Rp11039/img_L361F02346C01S03584Rp11039.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02346C01S03584Rp13741/img_L361F02346C01S03584Rp13741.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02347C01S03585Rp05289/img_L361F02347C01S03585Rp05289.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02347C01S03585Rp11040/img_L361F02347C01S03585Rp11040.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02347C01S03585Rp13743/img_L361F02347C01S03585Rp13743.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02348C01S03587Rp05304/img_L361F02348C01S03587Rp05304.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02348C01S03587Rp05295/img_L361F02348C01S03587Rp05295.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02348C01S03587Rp11041/img_L361F02348C01S03587Rp11041.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02348C01S03587Rp13848/img_L361F02348C01S03587Rp13848.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02348C01S03587Rp15037/img_L361F02348C01S03587Rp15037.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02349C01S03589Rp05305/img_L361F02349C01S03589Rp05305.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02349C01S03589Rp11042/img_L361F02349C01S03589Rp11042.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02349C01S03589Rp13849/img_L361F02349C01S03589Rp13849.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02349C01S03589Rp15040/img_L361F02349C01S03589Rp15040.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02350C01S03590Rp11043/img_L361F02350C01S03590Rp11043.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02350C01S03590Rp13853/img_L361F02350C01S03590Rp13853.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02351C01S03591Rp05307/img_L361F02351C01S03591Rp05307.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02351C01S03591Rp11044/img_L361F02351C01S03591Rp11044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02351C01S03591Rp13854/img_L361F02351C01S03591Rp13854.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02352C01S03592Rp05301/img_L361F02352C01S03592Rp05301.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02352C01S03592Rp11045/img_L361F02352C01S03592Rp11045.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02352C01S03592Rp15038/img_L361F02352C01S03592Rp15038.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02353C01S03594Rp05303/img_L361F02353C01S03594Rp05303.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02353C01S03594Rp11047/img_L361F02353C01S03594Rp11047.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02354C01S03638Rp13850/img_L361F02354C01S03638Rp13850.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02354C01S03638Rp06734/img_L361F02354C01S03638Rp06734.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02354C01S03638Rp10810/img_L361F02354C01S03638Rp10810.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02355C01S03641Rp06735/img_L361F02355C01S03641Rp06735.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02355C01S03641Rp10809/img_L361F02355C01S03641Rp10809.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02355C01S03641Rp13857/img_L361F02355C01S03641Rp13857.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02378C01S05715Rp09692/img_L365F02378C01S05715Rp09692.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02378C01S05715Rp11619/img_L365F02378C01S05715Rp11619.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02378C01S05715Rp13702/img_L365F02378C01S05715Rp13702.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp12792/img_L365F02380C01S05708Rp12792.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp09529/img_L365F02380C01S05708Rp09529.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp09444/img_L365F02380C01S05708Rp09444.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp09696/img_L365F02380C01S05708Rp09696.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp12794/img_L365F02380C01S05708Rp12794.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp13629/img_L365F02380C01S05708Rp13629.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Rp14879/img_L365F02380C01S05708Rp14879.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02381C01S03982Rp09535/img_L365F02381C01S03982Rp09535.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02381C01S03982Rp12230/img_L365F02381C01S03982Rp12230.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02381C01S03982Rp12791/img_L365F02381C01S03982Rp12791.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02381C01S03982Rp14887/img_L365F02381C01S03982Rp14887.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02381C01S03982Rp14888/img_L365F02381C01S03982Rp14888.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02389C01S05717Rp14891/img_L365F02389C01S05717Rp14891.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02389C01S05717Rp09695/img_L365F02389C01S05717Rp09695.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02389C01S05717Rp12242/img_L365F02389C01S05717Rp12242.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02389C01S05717Rp12795/img_L365F02389C01S05717Rp12795.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02389C01S05717Rp14889/img_L365F02389C01S05717Rp14889.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02614C01S04742Rp05721/img_L361F02614C01S04742Rp05721.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02614C01S04742Rp10708/img_L361F02614C01S04742Rp10708.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02614C01S04742Rp13922/img_L361F02614C01S04742Rp13922.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02621C01S02242Rp05975/img_L365F02621C01S02242Rp05975.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02621C01S02242Rp08808/img_L365F02621C01S02242Rp08808.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02621C01S02242Rp08815/img_L365F02621C01S02242Rp08815.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02621C01S02242Rp12982/img_L365F02621C01S02242Rp12982.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02823C01S02237Rp05828/img_L365F02823C01S02237Rp05828.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02823C01S02237Rp08809/img_L365F02823C01S02237Rp08809.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02823C01S02237Rp12984/img_L365F02823C01S02237Rp12984.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02951C01S02234Rp05830/img_L365F02951C01S02234Rp05830.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02951C01S02234Rp08811/img_L365F02951C01S02234Rp08811.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02951C01S02234Rp12985/img_L365F02951C01S02234Rp12985.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03008C01S04636Rp05714/img_L361F03008C01S04636Rp05714.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03008C01S04636Rp10698/img_L361F03008C01S04636Rp10698.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03008C01S04636Rp13927/img_L361F03008C01S04636Rp13927.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp01893/img_L365F03009C01S01520Rp01893.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp03218/img_L365F03009C01S01520Rp03218.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp00643/img_L365F03009C01S01520Rp00643.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp05803/img_L365F03009C01S01520Rp05803.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp07764/img_L365F03009C01S01520Rp07764.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp08208/img_L365F03009C01S01520Rp08208.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp08785/img_L365F03009C01S01520Rp08785.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp09223/img_L365F03009C01S01520Rp09223.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp12769/img_L365F03009C01S01520Rp12769.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp14163/img_L365F03009C01S01520Rp14163.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp14355/img_L365F03009C01S01520Rp14355.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp14453/img_L365F03009C01S01520Rp14453.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp14526/img_L365F03009C01S01520Rp14526.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Rp14530/img_L365F03009C01S01520Rp14530.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03111C01S04825Rp05237/img_L361F03111C01S04825Rp05237.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03111C01S04825Rp10372/img_L361F03111C01S04825Rp10372.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03111C01S04825Rp13970/img_L361F03111C01S04825Rp13970.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03111C01S04825Rp15058/img_L361F03111C01S04825Rp15058.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03180C01S04658Rp05549/img_L361F03180C01S04658Rp05549.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03180C01S04658Rp10709/img_L361F03180C01S04658Rp10709.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03180C01S04658Rp13919/img_L361F03180C01S04658Rp13919.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03180C01S04658Rp15054/img_L361F03180C01S04658Rp15054.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp01892/img_L365F03201C01S01519Rp01892.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp03215/img_L365F03201C01S01519Rp03215.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp00636/img_L365F03201C01S01519Rp00636.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp05806/img_L365F03201C01S01519Rp05806.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp07767/img_L365F03201C01S01519Rp07767.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp08209/img_L365F03201C01S01519Rp08209.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp08786/img_L365F03201C01S01519Rp08786.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp09224/img_L365F03201C01S01519Rp09224.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp12771/img_L365F03201C01S01519Rp12771.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp14164/img_L365F03201C01S01519Rp14164.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp14357/img_L365F03201C01S01519Rp14357.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp14454/img_L365F03201C01S01519Rp14454.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp14543/img_L365F03201C01S01519Rp14543.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Rp14545/img_L365F03201C01S01519Rp14545.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03230C01S03617Rp02286/img_L315F03230C01S03617Rp02286.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03313C01S03706Rp01946/img_L315F03313C01S03706Rp01946.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03375C01S01726Rp04263/img_L361F03375C01S01726Rp04263.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03375C01S01726Rp09543/img_L361F03375C01S01726Rp09543.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03375C01S01726Rp13313/img_L361F03375C01S01726Rp13313.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03439C01S04641Rp05543/img_L361F03439C01S04641Rp05543.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03439C01S04641Rp10702/img_L361F03439C01S04641Rp10702.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03439C01S04641Rp13929/img_L361F03439C01S04641Rp13929.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03517C01S03156Rp01119/img_L361F03517C01S03156Rp01119.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03517C01S03156Rp13315/img_L361F03517C01S03156Rp13315.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp00628/img_L365F03524C01S01271Rp00628.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp03207/img_L365F03524C01S01271Rp03207.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp01889/img_L365F03524C01S01271Rp01889.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp05785/img_L365F03524C01S01271Rp05785.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp07760/img_L365F03524C01S01271Rp07760.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp07763/img_L365F03524C01S01271Rp07763.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp08206/img_L365F03524C01S01271Rp08206.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp08782/img_L365F03524C01S01271Rp08782.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp09220/img_L365F03524C01S01271Rp09220.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp12775/img_L365F03524C01S01271Rp12775.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp14161/img_L365F03524C01S01271Rp14161.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp14354/img_L365F03524C01S01271Rp14354.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp14353/img_L365F03524C01S01271Rp14353.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp14452/img_L365F03524C01S01271Rp14452.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp14517/img_L365F03524C01S01271Rp14517.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Rp14518/img_L365F03524C01S01271Rp14518.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03528C01S04171Rp05718/img_L361F03528C01S04171Rp05718.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03528C01S04171Rp10696/img_L361F03528C01S04171Rp10696.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03528C01S04171Rp13928/img_L361F03528C01S04171Rp13928.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03535C01S02629Rp04266/img_L361F03535C01S02629Rp04266.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03535C01S02629Rp09544/img_L361F03535C01S02629Rp09544.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03535C01S02629Rp13407/img_L361F03535C01S02629Rp13407.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03566C01S02232Rp05823/img_L365F03566C01S02232Rp05823.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03566C01S02232Rp08816/img_L365F03566C01S02232Rp08816.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03566C01S02232Rp12983/img_L365F03566C01S02232Rp12983.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp04232/img_L331F04121C01S03780Rp04232.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp03095/img_L331F04121C01S03780Rp03095.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp10581/img_L331F04121C01S03780Rp10581.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp07124/img_L331F04121C01S03780Rp07124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp01341/img_L331F04121C01S03780Rp01341.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp08091/img_L331F04121C01S03780Rp08091.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp09198/img_L331F04121C01S03780Rp09198.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp11876/img_L331F04121C01S03780Rp11876.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp12787/img_L331F04121C01S03780Rp12787.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp13356/img_L331F04121C01S03780Rp13356.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Rp14030/img_L331F04121C01S03780Rp14030.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04139C01S05710Rp12234/img_L365F04139C01S05710Rp12234.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04141C01S05736Rp09534/img_L365F04141C01S05736Rp09534.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04141C01S05736Rp12789/img_L365F04141C01S05736Rp12789.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04141C01S05736Rp13636/img_L365F04141C01S05736Rp13636.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04141C01S05736Rp14885/img_L365F04141C01S05736Rp14885.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04141C01S05736Rp14886/img_L365F04141C01S05736Rp14886.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp03675/img_L331F04163C01S04013Rp03675.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp07235/img_L331F04163C01S04013Rp07235.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp00781/img_L331F04163C01S04013Rp00781.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp05728/img_L331F04163C01S04013Rp05728.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp01340/img_L331F04163C01S04013Rp01340.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp02376/img_L331F04163C01S04013Rp02376.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp07979/img_L331F04163C01S04013Rp07979.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp09191/img_L331F04163C01S04013Rp09191.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp10568/img_L331F04163C01S04013Rp10568.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp11875/img_L331F04163C01S04013Rp11875.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp12703/img_L331F04163C01S04013Rp12703.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp13352/img_L331F04163C01S04013Rp13352.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Rp14023/img_L331F04163C01S04013Rp14023.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04178C01S04762Rp03101/img_L331F04178C01S04762Rp03101.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04178C01S04762Rp08156/img_L331F04178C01S04762Rp08156.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04178C01S04762Rp05738/img_L331F04178C01S04762Rp05738.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04178C01S04762Rp09192/img_L331F04178C01S04762Rp09192.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04178C01S04762Rp10572/img_L331F04178C01S04762Rp10572.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp00927/img_L331F04180C01S04933Rp00927.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp03090/img_L331F04180C01S04933Rp03090.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp00931/img_L331F04180C01S04933Rp00931.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp00932/img_L331F04180C01S04933Rp00932.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp05746/img_L331F04180C01S04933Rp05746.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp09200/img_L331F04180C01S04933Rp09200.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Rp11104/img_L331F04180C01S04933Rp11104.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04182C01S05259Rp03102/img_L331F04182C01S05259Rp03102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04182C01S05259Rp05745/img_L331F04182C01S05259Rp05745.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04182C01S05259Rp11110/img_L331F04182C01S05259Rp11110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04182C01S05259Rp09203/img_L331F04182C01S05259Rp09203.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2854_3496_2239/img_1_repeat_2_2854_3496_2239.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_3548_2286/img_1_repeat_2_2855_3548_2286.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_4088_2653/img_1_repeat_2_2855_4088_2653.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_4724_3096/img_1_repeat_2_2855_4724_3096.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_5202_3542/img_1_repeat_2_2855_5202_3542.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_5694_4070/img_1_repeat_2_2855_5694_4070.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_6007_4368/img_1_repeat_2_2855_6007_4368.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_2855_6300_4666/img_1_repeat_2_2855_6300_4666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_3502_2247/img_1_repeat_2_3059_3502_2247.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_3545_2283/img_1_repeat_2_3059_3545_2283.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_4090_2656/img_1_repeat_2_3059_4090_2656.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_5205_3556/img_1_repeat_2_3059_5205_3556.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_5695_4071/img_1_repeat_2_3059_5695_4071.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_6008_4369/img_1_repeat_2_3059_6008_4369.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_repeat_2_3059_6301_4667/img_1_repeat_2_3059_6301_4667.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_426_305/img_8_repeat_2_1358_426_305.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_1192_896/img_8_repeat_2_1358_1192_896.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_1793_1340/img_8_repeat_2_1358_1793_1340.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_4611_2993/img_8_repeat_2_1358_4611_2993.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_5094_3422/img_8_repeat_2_1358_5094_3422.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_5467_3851/img_8_repeat_2_1358_5467_3851.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1358_6164_4527/img_8_repeat_2_1358_6164_4527.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_425_304/img_8_repeat_2_1360_425_304.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_1193_897/img_8_repeat_2_1360_1193_897.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_1792_1339/img_8_repeat_2_1360_1792_1339.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_4612_2994/img_8_repeat_2_1360_4612_2994.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_5095_3423/img_8_repeat_2_1360_5095_3423.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_5471_3855/img_8_repeat_2_1360_5471_3855.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_repeat_2_1360_6165_4528/img_8_repeat_2_1360_6165_4528.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_547_399/img_18_repeat_2_1362_547_399.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_1004_679/img_18_repeat_2_1362_1004_679.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_1244_947/img_18_repeat_2_1362_1244_947.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_2752_1723/img_18_repeat_2_1362_2752_1723.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_5217_3571/img_18_repeat_2_1362_5217_3571.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_5953_4297/img_18_repeat_2_1362_5953_4297.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_5221_3575/img_18_repeat_2_1362_5221_3575.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_5686_4059/img_18_repeat_2_1362_5686_4059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_4400_2875/img_18_repeat_2_1362_4400_2875.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_3261_2101/img_18_repeat_2_1362_3261_2101.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_6176_4541/img_18_repeat_2_1362_6176_4541.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_6298_4662/img_18_repeat_2_1362_6298_4662.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1362_6361_4729/img_18_repeat_2_1362_6361_4729.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_550_402/img_18_repeat_2_1365_550_402.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_1007_680/img_18_repeat_2_1365_1007_680.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_1245_948/img_18_repeat_2_1365_1245_948.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_2753_1724/img_18_repeat_2_1365_2753_1724.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_5220_3574/img_18_repeat_2_1365_5220_3574.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_5954_4298/img_18_repeat_2_1365_5954_4298.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_3908_2474/img_18_repeat_2_1365_3908_2474.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_5688_4062/img_18_repeat_2_1365_5688_4062.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_4402_2878/img_18_repeat_2_1365_4402_2878.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_3262_2103/img_18_repeat_2_1365_3262_2103.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_6178_4542/img_18_repeat_2_1365_6178_4542.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_6299_4664/img_18_repeat_2_1365_6299_4664.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_repeat_2_1365_6362_4731/img_18_repeat_2_1365_6362_4731.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_635_457/img_23_repeat_2_1262_635_457.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_1161_864/img_23_repeat_2_1262_1161_864.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_1746_1307/img_23_repeat_2_1262_1746_1307.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_2607_1630/img_23_repeat_2_1262_2607_1630.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_3114_1947/img_23_repeat_2_1262_3114_1947.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_3481_2225/img_23_repeat_2_1262_3481_2225.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_3619_2363/img_23_repeat_2_1262_3619_2363.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_4184_2764/img_23_repeat_2_1262_4184_2764.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_4862_3237/img_23_repeat_2_1262_4862_3237.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_4968_3342/img_23_repeat_2_1262_4968_3342.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_5301_3668/img_23_repeat_2_1262_5301_3668.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_5439_3824/img_23_repeat_2_1262_5439_3824.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_5698_4074/img_23_repeat_2_1262_5698_4074.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_2480_1506/img_23_repeat_2_1262_2480_1506.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_4430_2899/img_23_repeat_2_1262_4430_2899.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_5827_4208/img_23_repeat_2_1262_5827_4208.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_1262_6159_4522/img_23_repeat_2_1262_6159_4522.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_1164_867/img_23_repeat_2_2260_1164_867.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_1752_1308/img_23_repeat_2_2260_1752_1308.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_2670_1661/img_23_repeat_2_2260_2670_1661.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_2799_1772/img_23_repeat_2_2260_2799_1772.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_3484_2228/img_23_repeat_2_2260_3484_2228.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_3620_2364/img_23_repeat_2_2260_3620_2364.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_4185_2765/img_23_repeat_2_2260_4185_2765.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_4433_2902/img_23_repeat_2_2260_4433_2902.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_4723_3095/img_23_repeat_2_2260_4723_3095.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_4865_3240/img_23_repeat_2_2260_4865_3240.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_4969_3343/img_23_repeat_2_2260_4969_3343.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_5302_3669/img_23_repeat_2_2260_5302_3669.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_5699_4075/img_23_repeat_2_2260_5699_4075.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_5967_4325/img_23_repeat_2_2260_5967_4325.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6161_4524/img_23_repeat_2_2260_6161_4524.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6241_4609/img_23_repeat_2_2260_6241_4609.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6307_4676/img_23_repeat_2_2260_6307_4676.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6326_4699/img_23_repeat_2_2260_6326_4699.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6349_4722/img_23_repeat_2_2260_6349_4722.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6390_4756/img_23_repeat_2_2260_6390_4756.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6398_4764/img_23_repeat_2_2260_6398_4764.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_repeat_2_2260_6409_4775/img_23_repeat_2_2260_6409_4775.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_24_repeat_2_1462_1340_1059/img_24_repeat_2_1462_1340_1059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_24_repeat_2_1462_2803_1778/img_24_repeat_2_1462_2803_1778.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_24_repeat_2_1462_3614_2358/img_24_repeat_2_1462_3614_2358.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_24_repeat_2_1462_3615_2359/img_24_repeat_2_1462_3615_2359.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_24_repeat_2_1462_5446_3829/img_24_repeat_2_1462_5446_3829.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00151C01S00384Ip/img_L323F00151C01S00384Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00186C01S01994Ip/img_L361F00186C01S01994Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00195C01S05734Ip/img_L365F00195C01S05734Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L323F00357C01S01222Ip/img_L323F00357C01S01222Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F00490C01S01518Ip/img_L365F00490C01S01518Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F00947C01S04905Ip/img_L361F00947C01S04905Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01181C01S04718Ip/img_L361F01181C01S04718Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01190C01S02710Ip/img_L365F01190C01S02710Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01194C01S02702Ip/img_L365F01194C01S02702Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01284C01S02701Ip/img_L365F01284C01S02701Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01300C01S04826Ip/img_L361F01300C01S04826Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01371C01S02690Ip/img_L365F01371C01S02690Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01381C01S02689Ip/img_L365F01381C01S02689Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F01626C01S04673Ip/img_L361F01626C01S04673Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01757C01S02504Ip/img_L365F01757C01S02504Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01766C01S02501Ip/img_L365F01766C01S02501Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01815C01S02499Ip/img_L365F01815C01S02499Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01889C01S02225Ip/img_L365F01889C01S02225Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F01913C01S02497Ip/img_L365F01913C01S02497Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L321F02002C01S02827Ip/img_L321F02002C01S02827Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02068C01S04824Ip/img_L361F02068C01S04824Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02338C01S01973Ip/img_L361F02338C01S01973Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02339C01S01974Ip/img_L361F02339C01S01974Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02340C01S03417Ip/img_L361F02340C01S03417Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02341C01S03420Ip/img_L361F02341C01S03420Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02342C01S03423Ip/img_L361F02342C01S03423Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02343C01S03425Ip/img_L361F02343C01S03425Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02344C01S03577Ip/img_L361F02344C01S03577Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02345C01S03583Ip/img_L361F02345C01S03583Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02346C01S03584Ip/img_L361F02346C01S03584Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02347C01S03585Ip/img_L361F02347C01S03585Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02348C01S03587Ip/img_L361F02348C01S03587Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02349C01S03589Ip/img_L361F02349C01S03589Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02350C01S03590Ip/img_L361F02350C01S03590Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02351C01S03591Ip/img_L361F02351C01S03591Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02352C01S03592Ip/img_L361F02352C01S03592Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02353C01S03594Ip/img_L361F02353C01S03594Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02354C01S03638Ip/img_L361F02354C01S03638Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02355C01S03641Ip/img_L361F02355C01S03641Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02378C01S05715Ip/img_L365F02378C01S05715Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02380C01S05708Ip/img_L365F02380C01S05708Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02389C01S05717Ip/img_L365F02389C01S05717Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F02614C01S04742Ip/img_L361F02614C01S04742Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02621C01S02242Ip/img_L365F02621C01S02242Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02823C01S02237Ip/img_L365F02823C01S02237Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F02951C01S02234Ip/img_L365F02951C01S02234Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03008C01S04636Ip/img_L361F03008C01S04636Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03009C01S01520Ip/img_L365F03009C01S01520Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03111C01S04825Ip/img_L361F03111C01S04825Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03180C01S04658Ip/img_L361F03180C01S04658Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03201C01S01519Ip/img_L365F03201C01S01519Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03230C01S03617Ip/img_L315F03230C01S03617Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03313C01S03706Ip/img_L315F03313C01S03706Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03324C01S03627Ip/img_L315F03324C01S03627Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03375C01S01726Ip/img_L361F03375C01S01726Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03439C01S04641Ip/img_L361F03439C01S04641Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03517C01S03156Ip/img_L361F03517C01S03156Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03524C01S01271Ip/img_L365F03524C01S01271Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03528C01S04171Ip/img_L361F03528C01S04171Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L361F03535C01S02629Ip/img_L361F03535C01S02629Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03539C01S05114Ip/img_L315F03539C01S05114Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F03566C01S02232Ip/img_L365F03566C01S02232Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L315F03580C01S05121Ip/img_L315F03580C01S05121Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03780Ip/img_L331F04121C01S03780Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04121C01S03394Ip/img_L331F04121C01S03394Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04139C01S05710Ip/img_L365F04139C01S05710Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L365F04141C01S05736Ip/img_L365F04141C01S05736Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04163C01S04013Ip/img_L331F04163C01S04013Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04178C01S04762Ip/img_L331F04178C01S04762Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04180C01S04933Ip/img_L331F04180C01S04933Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_L331F04182C01S05259Ip/img_L331F04182C01S05259Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_initial_1_2329_2329/img_1_initial_1_2329_2329.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_initial_1_2548_2548/img_1_initial_1_2548_2548.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_initial_1_2854_2854/img_1_initial_1_2854_2854.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_initial_1_2855_2855/img_1_initial_1_2855_2855.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_1_initial_1_3059_3059/img_1_initial_1_3059_3059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_initial_1_1358_1358/img_8_initial_1_1358_1358.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_8_initial_1_1360_1360/img_8_initial_1_1360_1360.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_initial_1_1362_1362/img_18_initial_1_1362_1362.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_18_initial_1_1365_1365/img_18_initial_1_1365_1365.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_initial_1_1262_1262/img_23_initial_1_1262_1262.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_23_initial_1_2260_2260/img_23_initial_1_2260_2260.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_24_initial_1_1462_1462/img_24_initial_1_1462_1462.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_48_initial_1_2426_2426/img_48_initial_1_2426_2426.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_48_initial_1_2429_2429/img_48_initial_1_2429_2429.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_48_initial_1_2769_2769/img_48_initial_1_2769_2769.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_48_initial_1_2758_2758/img_48_initial_1_2758_2758.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_48_initial_1_3161_3161/img_48_initial_1_3161_3161.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/img_48_initial_1_3162_3162/img_48_initial_1_3162_3162.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/North-Imenti/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.57672119,
+          0.0032959000000000005,
+          37.80013275,
+          0.15007357
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-27T00:00:00Z",
+          "2021-03-18T09:10:55Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

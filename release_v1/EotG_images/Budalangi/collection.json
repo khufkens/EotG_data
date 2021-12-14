@@ -20,6 +20,916 @@
       "type": "application/json"
     },
     {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp01871/img_L1155F00062C01S00047Rp01871.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp03139/img_L1155F00062C01S00047Rp03139.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp04454/img_L1155F00062C01S00047Rp04454.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp06293/img_L1155F00062C01S00047Rp06293.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp07370/img_L1155F00062C01S00047Rp07370.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp08300/img_L1155F00062C01S00047Rp08300.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp08302/img_L1155F00062C01S00047Rp08302.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp09397/img_L1155F00062C01S00047Rp09397.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp09399/img_L1155F00062C01S00047Rp09399.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Rp10949/img_L1155F00062C01S00047Rp10949.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00065C01S05449Rp08232/img_L1153F00065C01S05449Rp08232.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00305C01S00829Rp02767/img_L1153F00305C01S00829Rp02767.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00305C01S00829Rp08307/img_L1153F00305C01S00829Rp08307.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00450C01S01417Rp02743/img_L1153F00450C01S01417Rp02743.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00450C01S01417Rp08323/img_L1153F00450C01S01417Rp08323.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00455C01S02314Rp02784/img_L1153F00455C01S02314Rp02784.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00455C01S02314Rp08308/img_L1153F00455C01S02314Rp08308.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00457C01S02313Rp02639/img_L1153F00457C01S02313Rp02639.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp02836/img_L1153F00463C01S01614Rp02836.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp04008/img_L1153F00463C01S01614Rp04008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp05841/img_L1153F00463C01S01614Rp05841.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp07184/img_L1153F00463C01S01614Rp07184.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp08096/img_L1153F00463C01S01614Rp08096.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp09208/img_L1153F00463C01S01614Rp09208.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Rp10452/img_L1153F00463C01S01614Rp10452.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00474C01S03791Rp02015/img_L1153F00474C01S03791Rp02015.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00556C01S01447Rp02820/img_L1153F00556C01S01447Rp02820.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00556C01S01447Rp08360/img_L1153F00556C01S01447Rp08360.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp02838/img_L1153F00627C01S01612Rp02838.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp02839/img_L1153F00627C01S01612Rp02839.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp04005/img_L1153F00627C01S01612Rp04005.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp05837/img_L1153F00627C01S01612Rp05837.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp07178/img_L1153F00627C01S01612Rp07178.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp08094/img_L1153F00627C01S01612Rp08094.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp09206/img_L1153F00627C01S01612Rp09206.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Rp10455/img_L1153F00627C01S01612Rp10455.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00677C03S01454Rp01488/img_L1153F00677C03S01454Rp01488.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00677C03S01454Rp06772/img_L1153F00677C03S01454Rp06772.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01035C01S03789Rp02001/img_L1153F01035C01S03789Rp02001.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01322C01S02429Rp03705/img_L1153F01322C01S02429Rp03705.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01322C01S02429Rp09202/img_L1153F01322C01S02429Rp09202.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01543C01S02317Rp02782/img_L1153F01543C01S02317Rp02782.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01543C01S02317Rp02781/img_L1153F01543C01S02317Rp02781.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01543C01S02317Rp08309/img_L1153F01543C01S02317Rp08309.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01630C02S02470Rp02833/img_L1153F01630C02S02470Rp02833.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01630C02S02470Rp10458/img_L1153F01630C02S02470Rp10458.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01742C01S03811Rp02002/img_L1153F01742C01S03811Rp02002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp02802/img_L1153F02240C01S01054Rp02802.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp04020/img_L1153F02240C01S01054Rp04020.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp05849/img_L1153F02240C01S01054Rp05849.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp07198/img_L1153F02240C01S01054Rp07198.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp08098/img_L1153F02240C01S01054Rp08098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp09177/img_L1153F02240C01S01054Rp09177.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Rp10746/img_L1153F02240C01S01054Rp10746.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02453C01S01561Rp02844/img_L1153F02453C01S01561Rp02844.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02453C01S01561Rp10407/img_L1153F02453C01S01561Rp10407.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02464C01S00194Rp00399/img_L1153F02464C01S00194Rp00399.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02464C01S00194Rp01561/img_L1153F02464C01S00194Rp01561.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02464C01S00194Rp02843/img_L1153F02464C01S00194Rp02843.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02464C01S00194Rp02842/img_L1153F02464C01S00194Rp02842.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02639C01S01452Rp02826/img_L1153F02639C01S01452Rp02826.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02639C01S01452Rp08361/img_L1153F02639C01S01452Rp08361.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02844C01S03787Rp01987/img_L1153F02844C01S03787Rp01987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02846C01S00533Rp03585/img_L1153F02846C01S00533Rp03585.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02846C01S00533Rp02009/img_L1153F02846C01S00533Rp02009.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02846C01S00533Rp00553/img_L1153F02846C01S00533Rp00553.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02846C01S00533Rp06776/img_L1153F02846C01S00533Rp06776.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02897C01S01421Rp02731/img_L1153F02897C01S01421Rp02731.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02897C01S01421Rp02739/img_L1153F02897C01S01421Rp02739.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02897C01S01421Rp02741/img_L1153F02897C01S01421Rp02741.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02897C01S01421Rp02757/img_L1153F02897C01S01421Rp02757.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02897C01S01421Rp08324/img_L1153F02897C01S01421Rp08324.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03241C01S03790Rp01566/img_L1153F03241C01S03790Rp01566.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03241C01S03790Rp00419/img_L1153F03241C01S03790Rp00419.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03241C01S03790Rp02869/img_L1153F03241C01S03790Rp02869.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03241C01S03790Rp03790/img_L1153F03241C01S03790Rp03790.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03241C01S03790Rp03791/img_L1153F03241C01S03790Rp03791.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03275C01S01412Rp02742/img_L1153F03275C01S01412Rp02742.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03275C01S01412Rp08322/img_L1153F03275C01S01412Rp08322.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03314C01S01448Rp02824/img_L1153F03314C01S01448Rp02824.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03314C01S01448Rp10730/img_L1153F03314C01S01448Rp10730.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03378C01S03788Rp01994/img_L1153F03378C01S03788Rp01994.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp02804/img_L1153F03533C01S01053Rp02804.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp04019/img_L1153F03533C01S01053Rp04019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp05847/img_L1153F03533C01S01053Rp05847.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp07197/img_L1153F03533C01S01053Rp07197.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp08097/img_L1153F03533C01S01053Rp08097.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp09103/img_L1153F03533C01S01053Rp09103.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Rp10479/img_L1153F03533C01S01053Rp10479.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03564C01S01435Rp02769/img_L1153F03564C01S01435Rp02769.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03564C01S01435Rp08320/img_L1153F03564C01S01435Rp08320.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp02837/img_L1153F03614C01S01610Rp02837.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp04012/img_L1153F03614C01S01610Rp04012.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp05840/img_L1153F03614C01S01610Rp05840.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp07185/img_L1153F03614C01S01610Rp07185.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp08095/img_L1153F03614C01S01610Rp08095.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp09207/img_L1153F03614C01S01610Rp09207.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Rp10454/img_L1153F03614C01S01610Rp10454.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_1497_510_366/img_193_repeat_2_1497_510_366.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_2448_1472/img_193_repeat_2_2067_2448_1472.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_3103_1936/img_193_repeat_2_2067_3103_1936.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_3893_2456/img_193_repeat_2_2067_3893_2456.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_4583_2971/img_193_repeat_2_2067_4583_2971.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_5060_3390/img_193_repeat_2_2067_5060_3390.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_5483_3867/img_193_repeat_2_2067_5483_3867.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_903_579/img_193_repeat_2_2067_903_579.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_repeat_2_2067_1311_1016/img_193_repeat_2_2067_1311_1016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_423_300/img_202_repeat_2_1375_423_300.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_970_644/img_202_repeat_2_1375_970_644.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_1584_1173/img_202_repeat_2_1375_1584_1173.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_1586_1176/img_202_repeat_2_1375_1586_1176.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_2452_1476/img_202_repeat_2_1375_2452_1476.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_3116_1949/img_202_repeat_2_1375_3116_1949.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_3731_2418/img_202_repeat_2_1375_3731_2418.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_4618_2998/img_202_repeat_2_1375_4618_2998.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_5072_3403/img_202_repeat_2_1375_5072_3403.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_5521_3900/img_202_repeat_2_1375_5521_3900.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_5919_4264/img_202_repeat_2_1375_5919_4264.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1375_6100_4471/img_202_repeat_2_1375_6100_4471.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1376_382_275/img_202_repeat_2_1376_382_275.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1376_433_311/img_202_repeat_2_1376_433_311.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1376_972_646/img_202_repeat_2_1376_972_646.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_973_647/img_202_repeat_2_1420_973_647.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_2455_1479/img_202_repeat_2_1420_2455_1479.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_3117_1950/img_202_repeat_2_1420_3117_1950.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_3733_2420/img_202_repeat_2_1420_3733_2420.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_4626_3001/img_202_repeat_2_1420_4626_3001.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_5070_3401/img_202_repeat_2_1420_5070_3401.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_5522_3901/img_202_repeat_2_1420_5522_3901.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_5918_4263/img_202_repeat_2_1420_5918_4263.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_5920_4265/img_202_repeat_2_1420_5920_4265.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_6098_4469/img_202_repeat_2_1420_6098_4469.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1420_6099_4470/img_202_repeat_2_1420_6099_4470.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_975_649/img_202_repeat_2_1424_975_649.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_1594_1178/img_202_repeat_2_1424_1594_1178.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_1599_1183/img_202_repeat_2_1424_1599_1183.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_2457_1481/img_202_repeat_2_1424_2457_1481.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_3115_1948/img_202_repeat_2_1424_3115_1948.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_3729_2416/img_202_repeat_2_1424_3729_2416.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_4613_2995/img_202_repeat_2_1424_4613_2995.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_5071_3402/img_202_repeat_2_1424_5071_3402.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_repeat_2_1424_5520_3899/img_202_repeat_2_1424_5520_3899.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00040C01S02620Ip/img_L1153F00040C01S02620Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1155F00062C01S00047Ip/img_L1155F00062C01S00047Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00065C01S05449Ip/img_L1153F00065C01S05449Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00065C01S01461Ip/img_L1153F00065C01S01461Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00305C01S00829Ip/img_L1153F00305C01S00829Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00450C01S01417Ip/img_L1153F00450C01S01417Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00455C01S02314Ip/img_L1153F00455C01S02314Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00457C01S02313Ip/img_L1153F00457C01S02313Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00463C01S01614Ip/img_L1153F00463C01S01614Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00474C01S03791Ip/img_L1153F00474C01S03791Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00556C01S01447Ip/img_L1153F00556C01S01447Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00627C01S01612Ip/img_L1153F00627C01S01612Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00643C01S03793Ip/img_L1153F00643C01S03793Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F00677C03S01454Ip/img_L1153F00677C03S01454Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01035C01S03789Ip/img_L1153F01035C01S03789Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01316C01S03820Ip/img_L1153F01316C01S03820Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01322C01S02429Ip/img_L1153F01322C01S02429Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01543C01S02317Ip/img_L1153F01543C01S02317Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01630C02S02470Ip/img_L1153F01630C02S02470Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F01742C01S03811Ip/img_L1153F01742C01S03811Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02240C01S01054Ip/img_L1153F02240C01S01054Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02453C01S01561Ip/img_L1153F02453C01S01561Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02464C01S00194Ip/img_L1153F02464C01S00194Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02639C01S01452Ip/img_L1153F02639C01S01452Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02844C01S03787Ip/img_L1153F02844C01S03787Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02846C01S00533Ip/img_L1153F02846C01S00533Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F02897C01S01421Ip/img_L1153F02897C01S01421Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03241C01S03790Ip/img_L1153F03241C01S03790Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03275C01S01412Ip/img_L1153F03275C01S01412Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03314C01S01448Ip/img_L1153F03314C01S01448Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03378C01S03788Ip/img_L1153F03378C01S03788Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03533C01S01053Ip/img_L1153F03533C01S01053Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03564C01S01435Ip/img_L1153F03564C01S01435Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_L1153F03614C01S01610Ip/img_L1153F03614C01S01610Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_initial_1_2067_2067/img_193_initial_1_2067_2067.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_193_initial_1_1497_1497/img_193_initial_1_1497_1497.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_initial_1_1375_1375/img_202_initial_1_1375_1375.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_initial_1_1376_1376/img_202_initial_1_1376_1376.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_initial_1_1420_1420/img_202_initial_1_1420_1420.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/img_202_initial_1_1424_1424/img_202_initial_1_1424_1424.json",
+      "type": "application/json"
+    },
+    {
       "rel": "self",
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Budalangi/collection.json",
       "type": "application/json"
@@ -45,8 +955,8 @@
     "temporal": {
       "interval": [
         [
-          "2020-12-12T09:39:27Z",
-          "2021-01-11T08:11:26Z"
+          "2020-04-27T00:00:00Z",
+          "2021-01-17T07:48:16Z"
         ]
       ]
     }

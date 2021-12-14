@@ -35,6 +35,126 @@
       "type": "application/json"
     },
     {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00924C01S03810Rp02637/img_L1153F00924C01S03810Rp02637.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00977C01S00518Rp00418/img_L1153F00977C01S00518Rp00418.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00985C01S00490Rp02851/img_L1153F00985C01S00490Rp02851.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F01659C01S02428Rp02772/img_L1153F01659C01S02428Rp02772.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F01659C01S02428Rp08311/img_L1153F01659C01S02428Rp08311.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F01677C01S00574Rp06781/img_L1153F01677C01S00574Rp06781.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_905_583/img_193_repeat_2_1413_905_583.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_1308_1013/img_193_repeat_2_1413_1308_1013.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_2451_1475/img_193_repeat_2_1413_2451_1475.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_3104_1937/img_193_repeat_2_1413_3104_1937.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_3747_2422/img_193_repeat_2_1413_3747_2422.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_4580_2968/img_193_repeat_2_1413_4580_2968.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_5059_3389/img_193_repeat_2_1413_5059_3389.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_490_354/img_193_repeat_2_1413_490_354.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_repeat_2_1413_902_577/img_193_repeat_2_1413_902_577.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00041C01S00509Ip/img_L1153F00041C01S00509Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00924C01S03810Ip/img_L1153F00924C01S03810Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00977C01S00518Ip/img_L1153F00977C01S00518Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F00985C01S00490Ip/img_L1153F00985C01S00490Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F01230C01S03784Ip/img_L1153F01230C01S03784Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F01659C01S02428Ip/img_L1153F01659C01S02428Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F01677C01S00574Ip/img_L1153F01677C01S00574Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_L1153F03098C01S03792Ip/img_L1153F03098C01S03792Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/img_193_initial_1_1413_1413/img_193_initial_1_1413_1413.json",
+      "type": "application/json"
+    },
+    {
       "rel": "self",
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Alego-Usonga/collection.json",
       "type": "application/json"
@@ -60,8 +180,8 @@
     "temporal": {
       "interval": [
         [
-          "2020-11-27T08:47:42Z",
-          "2020-12-14T07:21:45Z"
+          "2020-04-28T00:00:00Z",
+          "2021-01-03T09:33:35Z"
         ]
       ]
     }

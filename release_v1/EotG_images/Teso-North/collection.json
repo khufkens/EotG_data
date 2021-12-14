@@ -135,6 +135,2821 @@
       "type": "application/json"
     },
     {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F00052C01S02640Rp01753/img_L1123F00052C01S02640Rp01753.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00053C01S00270Rp01535/img_L1124F00053C01S00270Rp01535.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00053C01S00270Rp01537/img_L1124F00053C01S00270Rp01537.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00053C01S00270Rp02176/img_L1124F00053C01S00270Rp02176.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00053C01S00270Rp03641/img_L1124F00053C01S00270Rp03641.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00053C01S00270Rp00741/img_L1124F00053C01S00270Rp00741.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00054C01S02216Rp01577/img_L1125F00054C01S02216Rp01577.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00054C01S02216Rp02825/img_L1125F00054C01S02216Rp02825.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00054C01S02216Rp06720/img_L1125F00054C01S02216Rp06720.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00055C01S04555Rp01396/img_L1122F00055C01S04555Rp01396.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00055C01S04555Rp03084/img_L1122F00055C01S04555Rp03084.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00055C01S04555Rp06132/img_L1122F00055C01S04555Rp06132.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00056C01S00170Rp00166/img_L1122F00056C01S00170Rp00166.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00056C01S00170Rp01096/img_L1122F00056C01S00170Rp01096.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00056C01S00170Rp02354/img_L1122F00056C01S00170Rp02354.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00056C01S00170Rp04935/img_L1122F00056C01S00170Rp04935.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00056C01S00170Rp07379/img_L1122F00056C01S00170Rp07379.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00060C01S04843Rp03086/img_L1127F00060C01S04843Rp03086.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00060C01S04843Rp01482/img_L1127F00060C01S04843Rp01482.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00261C01S05139Rp07127/img_L1083F00261C01S05139Rp07127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00268C01S04028Rp03044/img_L1125F00268C01S04028Rp03044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00268C01S04028Rp01578/img_L1125F00268C01S04028Rp01578.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00268C01S04028Rp06721/img_L1125F00268C01S04028Rp06721.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00286C01S02662Rp01581/img_L1125F00286C01S02662Rp01581.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00286C01S02662Rp02823/img_L1125F00286C01S02662Rp02823.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00286C01S02662Rp06723/img_L1125F00286C01S02662Rp06723.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00308C01S05149Rp07444/img_L1083F00308C01S05149Rp07444.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00311C01S00178Rp00167/img_L1122F00311C01S00178Rp00167.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00311C01S00178Rp01101/img_L1122F00311C01S00178Rp01101.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00311C01S00178Rp02358/img_L1122F00311C01S00178Rp02358.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00311C01S00178Rp05066/img_L1122F00311C01S00178Rp05066.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00311C01S00178Rp07385/img_L1122F00311C01S00178Rp07385.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00333C01S04891Rp01584/img_L1125F00333C01S04891Rp01584.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00333C01S04891Rp04183/img_L1125F00333C01S04891Rp04183.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00342C01S04894Rp04135/img_L1125F00342C01S04894Rp04135.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00356C01S01198Rp09807/img_L1124F00356C01S01198Rp09807.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00370C01S01808Rp03120/img_L1083F00370C01S01808Rp03120.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00370C01S01808Rp03083/img_L1083F00370C01S01808Rp03083.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00371C01S04979Rp01598/img_L1127F00371C01S04979Rp01598.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00395C01S04845Rp03089/img_L1127F00395C01S04845Rp03089.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00395C01S04845Rp04625/img_L1127F00395C01S04845Rp04625.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00395C01S04845Rp01483/img_L1127F00395C01S04845Rp01483.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00409C01S04637Rp01390/img_L1122F00409C01S04637Rp01390.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00409C01S04637Rp06145/img_L1122F00409C01S04637Rp06145.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00409C01S04637Rp03483/img_L1122F00409C01S04637Rp03483.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00428C01S04896Rp03047/img_L1125F00428C01S04896Rp03047.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00443C01S04899Rp04142/img_L1125F00443C01S04899Rp04142.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00443C01S04899Rp04139/img_L1125F00443C01S04899Rp04139.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00496C01S04900Rp04148/img_L1125F00496C01S04900Rp04148.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00533C01S04402Rp03087/img_L1122F00533C01S04402Rp03087.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00533C01S04402Rp00970/img_L1122F00533C01S04402Rp00970.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00533C01S04402Rp06130/img_L1122F00533C01S04402Rp06130.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00574C01S01401Rp03070/img_L1084F00574C01S01401Rp03070.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00574C01S01401Rp08688/img_L1084F00574C01S01401Rp08688.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00630C01S00429Rp04330/img_L1124F00630C01S00429Rp04330.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00636C01S05218Rp01859/img_L1127F00636C01S05218Rp01859.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1090F00674C01S03488Rp02903/img_L1090F00674C01S03488Rp02903.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1090F00674C01S03488Rp02900/img_L1090F00674C01S03488Rp02900.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00795C01S04334Rp04093/img_L1084F00795C01S04334Rp04093.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00906C01S00234Rp06506/img_L1122F00906C01S00234Rp06506.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00962C01S04333Rp03671/img_L1084F00962C01S04333Rp03671.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00962C01S04333Rp09731/img_L1084F00962C01S04333Rp09731.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00962C01S04333Rp09950/img_L1084F00962C01S04333Rp09950.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00962C01S04333Rp04092/img_L1084F00962C01S04333Rp04092.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00962C01S04333Rp10186/img_L1084F00962C01S04333Rp10186.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00973C01S00660Rp05542/img_L1124F00973C01S00660Rp05542.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00988C01S04622Rp03448/img_L1122F00988C01S04622Rp03448.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01004C01S05129Rp02127/img_L1122F01004C01S05129Rp02127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01033C01S01339Rp04973/img_L1122F01033C01S01339Rp04973.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01062C01S01523Rp04715/img_L1123F01062C01S01523Rp04715.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01083C01S04558Rp03473/img_L1122F01083C01S04558Rp03473.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01093C01S00192Rp03260/img_L1122F01093C01S00192Rp03260.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01128C01S04901Rp04548/img_L1125F01128C01S04901Rp04548.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01263C01S04903Rp04165/img_L1125F01263C01S04903Rp04165.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01274C01S04722Rp04753/img_L1123F01274C01S04722Rp04753.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp01530/img_L1124F01277C01S00156Rp01530.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp02137/img_L1124F01277C01S00156Rp02137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp03605/img_L1124F01277C01S00156Rp03605.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp00423/img_L1124F01277C01S00156Rp00423.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp05503/img_L1124F01277C01S00156Rp05503.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp08508/img_L1124F01277C01S00156Rp08508.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp09518/img_L1124F01277C01S00156Rp09518.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp12046/img_L1124F01277C01S00156Rp12046.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Rp12675/img_L1124F01277C01S00156Rp12675.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01336C01S00264Rp04218/img_L1124F01336C01S00264Rp04218.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01336C01S00264Rp08758/img_L1124F01336C01S00264Rp08758.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01336C01S00264Rp09719/img_L1124F01336C01S00264Rp09719.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01353C01S04733Rp01761/img_L1123F01353C01S04733Rp01761.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01353C01S04733Rp03002/img_L1123F01353C01S04733Rp03002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F01431C01S02994Rp03661/img_L1084F01431C01S02994Rp03661.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01446C01S01331Rp04948/img_L1122F01446C01S01331Rp04948.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01513C01S00180Rp00168/img_L1122F01513C01S00180Rp00168.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01513C01S00180Rp01103/img_L1122F01513C01S00180Rp01103.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01513C01S00180Rp02476/img_L1122F01513C01S00180Rp02476.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01573C01S04906Rp02794/img_L1125F01573C01S04906Rp02794.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01573C01S04906Rp02797/img_L1125F01573C01S04906Rp02797.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01573C01S04906Rp02798/img_L1125F01573C01S04906Rp02798.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01581C01S05414Rp04512/img_L1122F01581C01S05414Rp04512.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01581C01S05414Rp04513/img_L1122F01581C01S05414Rp04513.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01581C01S05414Rp05063/img_L1122F01581C01S05414Rp05063.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01602C01S01392Rp04239/img_L1124F01602C01S01392Rp04239.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01636C01S04640Rp03484/img_L1122F01636C01S04640Rp03484.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01637C01S01214Rp04291/img_L1124F01637C01S01214Rp04291.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01637C01S01214Rp09810/img_L1124F01637C01S01214Rp09810.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F01646C01S04972Rp01605/img_L1127F01646C01S04972Rp01605.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01654C01S04907Rp04549/img_L1125F01654C01S04907Rp04549.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01702C01S05013Rp06724/img_L1125F01702C01S05013Rp06724.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01702C01S05013Rp02841/img_L1125F01702C01S05013Rp02841.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01711C01S04556Rp00973/img_L1122F01711C01S04556Rp00973.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01711C01S04556Rp05434/img_L1122F01711C01S04556Rp05434.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01747C01S05014Rp04154/img_L1125F01747C01S05014Rp04154.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01789C01S04734Rp01765/img_L1123F01789C01S04734Rp01765.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01789C01S04734Rp03004/img_L1123F01789C01S04734Rp03004.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01797C01S01255Rp00952/img_L1124F01797C01S01255Rp00952.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01797C01S01255Rp01532/img_L1124F01797C01S01255Rp01532.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01797C01S01255Rp02144/img_L1124F01797C01S01255Rp02144.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01797C01S01255Rp03606/img_L1124F01797C01S01255Rp03606.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01797C01S01255Rp05505/img_L1124F01797C01S01255Rp05505.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01871C01S01334Rp04955/img_L1122F01871C01S01334Rp04955.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01920C01S01402Rp04259/img_L1123F01920C01S01402Rp04259.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02013C01S00904Rp04966/img_L1124F02013C01S00904Rp04966.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02062C01S04623Rp04133/img_L1122F02062C01S04623Rp04133.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02103C01S00994Rp00953/img_L1124F02103C01S00994Rp00953.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02103C01S00994Rp01658/img_L1124F02103C01S00994Rp01658.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02103C01S00994Rp02177/img_L1124F02103C01S00994Rp02177.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02103C01S00994Rp04043/img_L1124F02103C01S00994Rp04043.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02108C01S04335Rp03673/img_L1084F02108C01S04335Rp03673.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02114C01S05128Rp01391/img_L1122F02114C01S05128Rp01391.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02114C01S05128Rp06148/img_L1122F02114C01S05128Rp06148.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02114C01S05128Rp04137/img_L1122F02114C01S05128Rp04137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp00745/img_L1084F02124C01S02995Rp00745.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp02102/img_L1084F02124C01S02995Rp02102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp00732/img_L1084F02124C01S02995Rp00732.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp09712/img_L1084F02124C01S02995Rp09712.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp01056/img_L1084F02124C01S02995Rp01056.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp01065/img_L1084F02124C01S02995Rp01065.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp01095/img_L1084F02124C01S02995Rp01095.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp01573/img_L1084F02124C01S02995Rp01573.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp01817/img_L1084F02124C01S02995Rp01817.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp01973/img_L1084F02124C01S02995Rp01973.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp02257/img_L1084F02124C01S02995Rp02257.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp02309/img_L1084F02124C01S02995Rp02309.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp02620/img_L1084F02124C01S02995Rp02620.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp03660/img_L1084F02124C01S02995Rp03660.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp03906/img_L1084F02124C01S02995Rp03906.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp06043/img_L1084F02124C01S02995Rp06043.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp06044/img_L1084F02124C01S02995Rp06044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp09440/img_L1084F02124C01S02995Rp09440.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp09958/img_L1084F02124C01S02995Rp09958.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp09995/img_L1084F02124C01S02995Rp09995.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp00921/img_L1084F02124C01S02995Rp00921.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp02251/img_L1084F02124C01S02995Rp02251.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp02311/img_L1084F02124C01S02995Rp02311.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Rp04117/img_L1084F02124C01S02995Rp04117.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02160C01S05017Rp01597/img_L1125F02160C01S05017Rp01597.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02160C01S05017Rp04181/img_L1125F02160C01S05017Rp04181.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02181C01S05135Rp03868/img_L1122F02181C01S05135Rp03868.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02253C01S05019Rp04155/img_L1125F02253C01S05019Rp04155.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02264C01S04726Rp01776/img_L1123F02264C01S04726Rp01776.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02264C01S04726Rp03016/img_L1123F02264C01S04726Rp03016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02264C01S04726Rp04481/img_L1123F02264C01S04726Rp04481.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02305C01S05020Rp04158/img_L1125F02305C01S05020Rp04158.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02308C01S04721Rp01778/img_L1123F02308C01S04721Rp01778.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02308C01S04721Rp03017/img_L1123F02308C01S04721Rp03017.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02308C01S04721Rp04477/img_L1123F02308C01S04721Rp04477.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02324C01S04332Rp04091/img_L1084F02324C01S04332Rp04091.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02362C01S05021Rp04550/img_L1125F02362C01S05021Rp04550.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02400C01S05023Rp06722/img_L1125F02400C01S05023Rp06722.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02431C01S04329Rp03910/img_L1084F02431C01S04329Rp03910.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02435C01S03072Rp06726/img_L1122F02435C01S03072Rp06726.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02469C01S01390Rp04240/img_L1124F02469C01S01390Rp04240.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02545C01S03613Rp01779/img_L1123F02545C01S03613Rp01779.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02545C01S03613Rp04262/img_L1123F02545C01S03613Rp04262.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02683C01S01644Rp05109/img_L1122F02683C01S01644Rp05109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02695C01S05027Rp04163/img_L1125F02695C01S05027Rp04163.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02797C01S00179Rp00164/img_L1122F02797C01S00179Rp00164.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02797C01S00179Rp01097/img_L1122F02797C01S00179Rp01097.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02797C01S00179Rp02356/img_L1122F02797C01S00179Rp02356.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02797C01S00179Rp04937/img_L1122F02797C01S00179Rp04937.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02797C01S00179Rp07380/img_L1122F02797C01S00179Rp07380.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02808C01S00269Rp00737/img_L1124F02808C01S00269Rp00737.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02808C01S00269Rp01533/img_L1124F02808C01S00269Rp01533.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02808C01S00269Rp02174/img_L1124F02808C01S00269Rp02174.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02808C01S00269Rp04040/img_L1124F02808C01S00269Rp04040.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02808C01S00269Rp05515/img_L1124F02808C01S00269Rp05515.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02857C01S01328Rp04978/img_L1122F02857C01S01328Rp04978.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02870C01S01348Rp05062/img_L1122F02870C01S01348Rp05062.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02910C01S00136Rp02494/img_L1084F02910C01S00136Rp02494.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02910C01S00136Rp08453/img_L1084F02910C01S00136Rp08453.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02956C01S01398Rp04234/img_L1124F02956C01S01398Rp04234.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02977C01S04330Rp03911/img_L1084F02977C01S04330Rp03911.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02977C01S04330Rp04052/img_L1084F02977C01S04330Rp04052.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03005C01S04628Rp03481/img_L1122F03005C01S04628Rp03481.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03010C01S05134Rp03872/img_L1122F03010C01S05134Rp03872.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03018C01S01332Rp04957/img_L1122F03018C01S01332Rp04957.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03028C01S04731Rp01759/img_L1123F03028C01S04731Rp01759.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03028C01S04731Rp03006/img_L1123F03028C01S04731Rp03006.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03266C01S04557Rp03474/img_L1122F03266C01S04557Rp03474.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03285C01S02364Rp03480/img_L1122F03285C01S02364Rp03480.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03330C01S01180Rp04281/img_L1124F03330C01S01180Rp04281.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03372C01S04655Rp03482/img_L1122F03372C01S04655Rp03482.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03403C01S00911Rp09863/img_L1124F03403C01S00911Rp09863.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F03466C01S04969Rp01590/img_L1127F03466C01S04969Rp01590.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03491C01S03973Rp08735/img_L1124F03491C01S03973Rp08735.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03491C01S03973Rp09698/img_L1124F03491C01S03973Rp09698.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03527C01S02831Rp04299/img_L1124F03527C01S02831Rp04299.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03527C01S02831Rp08759/img_L1124F03527C01S02831Rp08759.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03527C01S02831Rp09729/img_L1124F03527C01S02831Rp09729.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03617C01S01455Rp01756/img_L1123F03617C01S01455Rp01756.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03617C01S01455Rp02990/img_L1123F03617C01S01455Rp02990.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03617C01S01455Rp04254/img_L1123F03617C01S01455Rp04254.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03623C01S00195Rp02480/img_L1122F03623C01S00195Rp02480.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03625C01S03068Rp03279/img_L1122F03625C01S03068Rp03279.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_941_613/img_184_repeat_2_1054_941_613.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_1447_1073/img_184_repeat_2_1054_1447_1073.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_2362_1398/img_184_repeat_2_1054_2362_1398.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_2529_1545/img_184_repeat_2_1054_2529_1545.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_3354_2167/img_184_repeat_2_1054_3354_2167.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_4117_2691/img_184_repeat_2_1054_4117_2691.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_4763_3137/img_184_repeat_2_1054_4763_3137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_5266_3625/img_184_repeat_2_1054_5266_3625.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_5671_4048/img_184_repeat_2_1054_5671_4048.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1054_6005_4366/img_184_repeat_2_1054_6005_4366.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_repeat_2_1186_455_320/img_184_repeat_2_1186_455_320.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1402_4732_3099/img_192_repeat_2_1402_4732_3099.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1402_5605_3950/img_192_repeat_2_1402_5605_3950.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1405_1624_1211/img_192_repeat_2_1405_1624_1211.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1405_4731_3098/img_192_repeat_2_1405_4731_3098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1405_5154_3475/img_192_repeat_2_1405_5154_3475.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1405_5604_3949/img_192_repeat_2_1405_5604_3949.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_1405_554_407/img_192_repeat_2_1405_554_407.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_2533_1549/img_192_repeat_2_2190_2533_1549.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_5155_3476/img_192_repeat_2_2190_5155_3476.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_5603_3948/img_192_repeat_2_2190_5603_3948.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_1621_1208/img_192_repeat_2_2190_1621_1208.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_5944_4289/img_192_repeat_2_2190_5944_4289.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_5945_4290/img_192_repeat_2_2190_5945_4290.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_6003_4363/img_192_repeat_2_2190_6003_4363.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2190_6217_4583/img_192_repeat_2_2190_6217_4583.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_2532_1548/img_192_repeat_2_2192_2532_1548.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_3186_2005/img_192_repeat_2_2192_3186_2005.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_3199_2020/img_192_repeat_2_2192_3199_2020.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_4730_3097/img_192_repeat_2_2192_4730_3097.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_5153_3474/img_192_repeat_2_2192_5153_3474.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_5593_3937/img_192_repeat_2_2192_5593_3937.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_3966_2544/img_192_repeat_2_2192_3966_2544.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_6214_4580/img_192_repeat_2_2192_6214_4580.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_6215_4581/img_192_repeat_2_2192_6215_4581.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_repeat_2_2192_6216_4582/img_192_repeat_2_2192_6216_4582.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_1694_1264/img_196_repeat_2_1323_1694_1264.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_2619_1648/img_196_repeat_2_1323_2619_1648.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_3254_2090/img_196_repeat_2_1323_3254_2090.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_4092_2660/img_196_repeat_2_1323_4092_2660.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_4753_3123/img_196_repeat_2_1323_4753_3123.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_5190_3518/img_196_repeat_2_1323_5190_3518.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_5639_4008/img_196_repeat_2_1323_5639_4008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_5955_4299/img_196_repeat_2_1323_5955_4299.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_976_650/img_196_repeat_2_1323_976_650.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_6174_4539/img_196_repeat_2_1323_6174_4539.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1323_6292_4659/img_196_repeat_2_1323_6292_4659.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_2612_1639/img_196_repeat_2_1336_2612_1639.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_3228_2070/img_196_repeat_2_1336_3228_2070.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_4068_2640/img_196_repeat_2_1336_4068_2640.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_4737_3102/img_196_repeat_2_1336_4737_3102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_5201_3541/img_196_repeat_2_1336_5201_3541.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_5638_4007/img_196_repeat_2_1336_5638_4007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_5956_4300/img_196_repeat_2_1336_5956_4300.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_6175_4540/img_196_repeat_2_1336_6175_4540.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_repeat_2_1336_6289_4652/img_196_repeat_2_1336_6289_4652.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1152_27_46/img_203_repeat_2_1152_27_46.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_974_648/img_203_repeat_2_1377_974_648.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_1329_1042/img_203_repeat_2_1377_1329_1042.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_2587_1602/img_203_repeat_2_1377_2587_1602.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_335_239/img_203_repeat_2_1377_335_239.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_3341_2148/img_203_repeat_2_1377_3341_2148.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_4097_2667/img_203_repeat_2_1377_4097_2667.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_4548_2949/img_203_repeat_2_1377_4548_2949.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_5188_3513/img_203_repeat_2_1377_5188_3513.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_5606_3951/img_203_repeat_2_1377_5606_3951.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_5948_4291/img_203_repeat_2_1377_5948_4291.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1377_6166_4529/img_203_repeat_2_1377_6166_4529.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_971_645/img_203_repeat_2_1378_971_645.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_1327_1040/img_203_repeat_2_1378_1327_1040.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_1328_1041/img_203_repeat_2_1378_1328_1041.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_2502_1524/img_203_repeat_2_1378_2502_1524.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_2592_1609/img_203_repeat_2_1378_2592_1609.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_2593_1610/img_203_repeat_2_1378_2593_1610.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_3344_2154/img_203_repeat_2_1378_3344_2154.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_4095_2663/img_203_repeat_2_1378_4095_2663.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_4563_2953/img_203_repeat_2_1378_4563_2953.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_5185_3508/img_203_repeat_2_1378_5185_3508.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_5607_3953/img_203_repeat_2_1378_5607_3953.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_343_246/img_203_repeat_2_1378_343_246.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_5959_4307/img_203_repeat_2_1378_5959_4307.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_repeat_2_1378_6167_4531/img_203_repeat_2_1378_6167_4531.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_444_314/img_205_repeat_2_1056_444_314.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_923_603/img_205_repeat_2_1056_923_603.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_1545_1133/img_205_repeat_2_1056_1545_1133.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_2603_1626/img_205_repeat_2_1056_2603_1626.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_3270_2113/img_205_repeat_2_1056_3270_2113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_4053_2628/img_205_repeat_2_1056_4053_2628.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_4743_3109/img_205_repeat_2_1056_4743_3109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_5212_3567/img_205_repeat_2_1056_5212_3567.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_5611_3959/img_205_repeat_2_1056_5611_3959.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_5964_4322/img_205_repeat_2_1056_5964_4322.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_6189_4553/img_205_repeat_2_1056_6189_4553.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_6287_4650/img_205_repeat_2_1056_6287_4650.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_6355_4728/img_205_repeat_2_1056_6355_4728.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_6382_4753/img_205_repeat_2_1056_6382_4753.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1056_6408_4774/img_205_repeat_2_1056_6408_4774.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_446_317/img_205_repeat_2_1105_446_317.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_924_604/img_205_repeat_2_1105_924_604.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_1546_1134/img_205_repeat_2_1105_1546_1134.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_2604_1627/img_205_repeat_2_1105_2604_1627.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_3268_2111/img_205_repeat_2_1105_3268_2111.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_4052_2627/img_205_repeat_2_1105_4052_2627.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_4742_3108/img_205_repeat_2_1105_4742_3108.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_5211_3566/img_205_repeat_2_1105_5211_3566.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_5610_3958/img_205_repeat_2_1105_5610_3958.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_5963_4321/img_205_repeat_2_1105_5963_4321.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_6188_4552/img_205_repeat_2_1105_6188_4552.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_6286_4649/img_205_repeat_2_1105_6286_4649.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_6354_4727/img_205_repeat_2_1105_6354_4727.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_6381_4752/img_205_repeat_2_1105_6381_4752.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_repeat_2_1105_6407_4773/img_205_repeat_2_1105_6407_4773.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_525_383/img_208_repeat_2_1129_525_383.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_1020_697/img_208_repeat_2_1129_1020_697.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_1604_1190/img_208_repeat_2_1129_1604_1190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_3259_2098/img_208_repeat_2_1129_3259_2098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_4113_2687/img_208_repeat_2_1129_4113_2687.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_4817_3192/img_208_repeat_2_1129_4817_3192.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_5318_3679/img_208_repeat_2_1129_5318_3679.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_5764_4138/img_208_repeat_2_1129_5764_4138.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1129_2616_1643/img_208_repeat_2_1129_2616_1643.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_529_387/img_208_repeat_2_1130_529_387.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_1023_700/img_208_repeat_2_1130_1023_700.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_3272_2114/img_208_repeat_2_1130_3272_2114.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_4115_2689/img_208_repeat_2_1130_4115_2689.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_4820_3195/img_208_repeat_2_1130_4820_3195.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_5319_3680/img_208_repeat_2_1130_5319_3680.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_5765_4139/img_208_repeat_2_1130_5765_4139.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_repeat_2_1130_2617_1645/img_208_repeat_2_1130_2617_1645.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1151_851/img_217_repeat_2_2052_1151_851.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1152_852/img_217_repeat_2_2052_1152_852.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1154_856/img_217_repeat_2_2052_1154_856.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1155_857/img_217_repeat_2_2052_1155_857.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1156_858/img_217_repeat_2_2052_1156_858.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1157_859/img_217_repeat_2_2052_1157_859.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1162_865/img_217_repeat_2_2052_1162_865.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1163_866/img_217_repeat_2_2052_1163_866.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1317_1025/img_217_repeat_2_2052_1317_1025.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_1319_1028/img_217_repeat_2_2052_1319_1028.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2472_1496/img_217_repeat_2_2052_2472_1496.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2900_1861/img_217_repeat_2_2052_2900_1861.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2903_1864/img_217_repeat_2_2052_2903_1864.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2904_1865/img_217_repeat_2_2052_2904_1865.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2905_1866/img_217_repeat_2_2052_2905_1866.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2906_1867/img_217_repeat_2_2052_2906_1867.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_2907_1868/img_217_repeat_2_2052_2907_1868.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4173_2751/img_217_repeat_2_2052_4173_2751.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4174_2752/img_217_repeat_2_2052_4174_2752.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4175_2753/img_217_repeat_2_2052_4175_2753.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4177_2756/img_217_repeat_2_2052_4177_2756.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4253_2835/img_217_repeat_2_2052_4253_2835.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4254_2836/img_217_repeat_2_2052_4254_2836.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4255_2837/img_217_repeat_2_2052_4255_2837.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_4256_2838/img_217_repeat_2_2052_4256_2838.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5436_3817/img_217_repeat_2_2052_5436_3817.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5709_4085/img_217_repeat_2_2052_5709_4085.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5714_4090/img_217_repeat_2_2052_5714_4090.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5716_4092/img_217_repeat_2_2052_5716_4092.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5733_4109/img_217_repeat_2_2052_5733_4109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5734_4110/img_217_repeat_2_2052_5734_4110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5735_4111/img_217_repeat_2_2052_5735_4111.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5736_4112/img_217_repeat_2_2052_5736_4112.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5737_4113/img_217_repeat_2_2052_5737_4113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5744_4117/img_217_repeat_2_2052_5744_4117.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5745_4118/img_217_repeat_2_2052_5745_4118.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_6031_4392/img_217_repeat_2_2052_6031_4392.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5968_4326/img_217_repeat_2_2052_5968_4326.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5969_4327/img_217_repeat_2_2052_5969_4327.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5973_4331/img_217_repeat_2_2052_5973_4331.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5975_4333/img_217_repeat_2_2052_5975_4333.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5976_4334/img_217_repeat_2_2052_5976_4334.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5977_4335/img_217_repeat_2_2052_5977_4335.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5978_4336/img_217_repeat_2_2052_5978_4336.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5979_4337/img_217_repeat_2_2052_5979_4337.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5980_4338/img_217_repeat_2_2052_5980_4338.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_6029_4390/img_217_repeat_2_2052_6029_4390.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_6036_4397/img_217_repeat_2_2052_6036_4397.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_6045_4407/img_217_repeat_2_2052_6045_4407.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_5971_4329/img_217_repeat_2_2052_5971_4329.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_repeat_2_2052_6035_4396/img_217_repeat_2_2052_6035_4396.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1448_1074/img_244_repeat_2_2083_1448_1074.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1449_1075/img_244_repeat_2_2083_1449_1075.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1567_1154/img_244_repeat_2_2083_1567_1154.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1570_1158/img_244_repeat_2_2083_1570_1158.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1571_1159/img_244_repeat_2_2083_1571_1159.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1575_1164/img_244_repeat_2_2083_1575_1164.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_1583_1172/img_244_repeat_2_2083_1583_1172.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_2544_1562/img_244_repeat_2_2083_2544_1562.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_2550_1567/img_244_repeat_2_2083_2550_1567.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_2551_1568/img_244_repeat_2_2083_2551_1568.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_2553_1570/img_244_repeat_2_2083_2553_1570.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_3224_2066/img_244_repeat_2_2083_3224_2066.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_4067_2639/img_244_repeat_2_2083_4067_2639.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_4685_3059/img_244_repeat_2_2083_4685_3059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_5180_3503/img_244_repeat_2_2083_5180_3503.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_5184_3507/img_244_repeat_2_2083_5184_3507.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_repeat_2_2083_5637_4006/img_244_repeat_2_2083_5637_4006.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00023C01S01952Ip/img_L1084F00023C01S01952Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1107F00032C01S02795Ip/img_L1107F00032C01S02795Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F00052C01S00535Ip/img_L1123F00052C01S00535Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F00052C01S02640Ip/img_L1123F00052C01S02640Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00053C01S00270Ip/img_L1124F00053C01S00270Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00054C01S02216Ip/img_L1125F00054C01S02216Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00055C01S04555Ip/img_L1122F00055C01S04555Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00056C01S00170Ip/img_L1122F00056C01S00170Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00060C01S04843Ip/img_L1127F00060C01S04843Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00261C01S05139Ip/img_L1083F00261C01S05139Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00268C01S04028Ip/img_L1125F00268C01S04028Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F00278C01S03608Ip/img_L1123F00278C01S03608Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F00278C01S01377Ip/img_L1123F00278C01S01377Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00286C01S02662Ip/img_L1125F00286C01S02662Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00308C01S05149Ip/img_L1083F00308C01S05149Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00309C01S05132Ip/img_L1122F00309C01S05132Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00311C01S00178Ip/img_L1122F00311C01S00178Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00333C01S04891Ip/img_L1125F00333C01S04891Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00342C01S04894Ip/img_L1125F00342C01S04894Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00356C01S01198Ip/img_L1124F00356C01S01198Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1083F00370C01S01808Ip/img_L1083F00370C01S01808Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00371C01S04979Ip/img_L1127F00371C01S04979Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00395C01S04845Ip/img_L1127F00395C01S04845Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00409C01S04637Ip/img_L1122F00409C01S04637Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00428C01S04896Ip/img_L1125F00428C01S04896Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00438C01S03382Ip/img_L1084F00438C01S03382Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00443C01S04899Ip/img_L1125F00443C01S04899Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F00496C01S04900Ip/img_L1125F00496C01S04900Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00533C01S04402Ip/img_L1122F00533C01S04402Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F00567C01S01029Ip/img_L1123F00567C01S01029Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00574C01S01401Ip/img_L1084F00574C01S01401Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00630C01S00429Ip/img_L1124F00630C01S00429Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F00636C01S05218Ip/img_L1127F00636C01S05218Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1090F00674C01S03488Ip/img_L1090F00674C01S03488Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00795C01S04334Ip/img_L1084F00795C01S04334Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00906C01S00234Ip/img_L1122F00906C01S00234Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F00962C01S04333Ip/img_L1084F00962C01S04333Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F00973C01S00660Ip/img_L1124F00973C01S00660Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F00988C01S04622Ip/img_L1122F00988C01S04622Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01004C01S05129Ip/img_L1122F01004C01S05129Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01033C01S01339Ip/img_L1122F01033C01S01339Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01062C01S01523Ip/img_L1123F01062C01S01523Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01083C01S04558Ip/img_L1122F01083C01S04558Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01093C01S00192Ip/img_L1122F01093C01S00192Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01123C01S02868Ip/img_L1124F01123C01S02868Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01128C01S04901Ip/img_L1125F01128C01S04901Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01263C01S04903Ip/img_L1125F01263C01S04903Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01274C01S04722Ip/img_L1123F01274C01S04722Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01277C01S00156Ip/img_L1124F01277C01S00156Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01336C01S00264Ip/img_L1124F01336C01S00264Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01353C01S01497Ip/img_L1123F01353C01S01497Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01353C01S04733Ip/img_L1123F01353C01S04733Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F01431C01S02994Ip/img_L1084F01431C01S02994Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01446C01S01331Ip/img_L1122F01446C01S01331Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01513C01S00180Ip/img_L1122F01513C01S00180Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01573C01S04906Ip/img_L1125F01573C01S04906Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01581C01S05414Ip/img_L1122F01581C01S05414Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01602C01S01392Ip/img_L1124F01602C01S01392Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01636C01S04640Ip/img_L1122F01636C01S04640Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01637C01S01214Ip/img_L1124F01637C01S01214Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F01646C01S04972Ip/img_L1127F01646C01S04972Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01654C01S04907Ip/img_L1125F01654C01S04907Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01702C01S05013Ip/img_L1125F01702C01S05013Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01711C01S04556Ip/img_L1122F01711C01S04556Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F01747C01S05014Ip/img_L1125F01747C01S05014Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01786C01S01419Ip/img_L1123F01786C01S01419Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01786C01S03604Ip/img_L1123F01786C01S03604Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01789C01S01431Ip/img_L1123F01789C01S01431Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01789C01S04734Ip/img_L1123F01789C01S04734Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F01797C01S01255Ip/img_L1124F01797C01S01255Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F01871C01S01334Ip/img_L1122F01871C01S01334Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F01920C01S01402Ip/img_L1123F01920C01S01402Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02013C01S00904Ip/img_L1124F02013C01S00904Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02062C01S04623Ip/img_L1122F02062C01S04623Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02103C01S00994Ip/img_L1124F02103C01S00994Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02108C01S04335Ip/img_L1084F02108C01S04335Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02114C01S05128Ip/img_L1122F02114C01S05128Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02124C01S02995Ip/img_L1084F02124C01S02995Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02160C01S05017Ip/img_L1125F02160C01S05017Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02181C01S05135Ip/img_L1122F02181C01S05135Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02253C01S05019Ip/img_L1125F02253C01S05019Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02264C01S04726Ip/img_L1123F02264C01S04726Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02264C01S01230Ip/img_L1123F02264C01S01230Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02305C01S05020Ip/img_L1125F02305C01S05020Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02308C01S04721Ip/img_L1123F02308C01S04721Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02308C01S01235Ip/img_L1123F02308C01S01235Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02324C01S04332Ip/img_L1084F02324C01S04332Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02362C01S05021Ip/img_L1125F02362C01S05021Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02400C01S05023Ip/img_L1125F02400C01S05023Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02431C01S04329Ip/img_L1084F02431C01S04329Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02435C01S03072Ip/img_L1122F02435C01S03072Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02469C01S01390Ip/img_L1124F02469C01S01390Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02522C01S01453Ip/img_L1123F02522C01S01453Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02545C01S03613Ip/img_L1123F02545C01S03613Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02550C01S02991Ip/img_L1122F02550C01S02991Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02683C01S01644Ip/img_L1122F02683C01S01644Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1125F02695C01S05027Ip/img_L1125F02695C01S05027Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02722C01S05131Ip/img_L1122F02722C01S05131Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02737C01S03000Ip/img_L1122F02737C01S03000Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02797C01S00179Ip/img_L1122F02797C01S00179Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02808C01S00269Ip/img_L1124F02808C01S00269Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F02853C01S01013Ip/img_L1123F02853C01S01013Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02857C01S01328Ip/img_L1122F02857C01S01328Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F02870C01S01348Ip/img_L1122F02870C01S01348Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02910C01S00136Ip/img_L1084F02910C01S00136Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F02956C01S01398Ip/img_L1124F02956C01S01398Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1084F02977C01S04330Ip/img_L1084F02977C01S04330Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03005C01S04628Ip/img_L1122F03005C01S04628Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03010C01S05134Ip/img_L1122F03010C01S05134Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03018C01S01332Ip/img_L1122F03018C01S01332Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03028C01S04731Ip/img_L1123F03028C01S04731Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03028C01S01515Ip/img_L1123F03028C01S01515Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03040C01S01032Ip/img_L1123F03040C01S01032Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03266C01S04557Ip/img_L1122F03266C01S04557Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03281C01S00991Ip/img_L1123F03281C01S00991Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03285C01S02364Ip/img_L1122F03285C01S02364Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03330C01S01180Ip/img_L1124F03330C01S01180Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03372C01S04655Ip/img_L1122F03372C01S04655Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03403C01S00911Ip/img_L1124F03403C01S00911Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03429C01S01321Ip/img_L1122F03429C01S01321Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1127F03466C01S04969Ip/img_L1127F03466C01S04969Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03491C01S03973Ip/img_L1124F03491C01S03973Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1124F03527C01S02831Ip/img_L1124F03527C01S02831Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1123F03617C01S01455Ip/img_L1123F03617C01S01455Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03623C01S00195Ip/img_L1122F03623C01S00195Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_L1122F03625C01S03068Ip/img_L1122F03625C01S03068Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_initial_1_1054_1054/img_184_initial_1_1054_1054.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_184_initial_1_1186_1186/img_184_initial_1_1186_1186.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_initial_1_1148_1148/img_192_initial_1_1148_1148.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_initial_1_1127_1127/img_192_initial_1_1127_1127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_initial_1_2192_2192/img_192_initial_1_2192_2192.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_192_initial_1_2190_2190/img_192_initial_1_2190_2190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1590_1590/img_195_initial_1_1590_1590.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1591_1591/img_195_initial_1_1591_1591.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1592_1592/img_195_initial_1_1592_1592.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1593_1593/img_195_initial_1_1593_1593.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1594_1594/img_195_initial_1_1594_1594.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1595_1595/img_195_initial_1_1595_1595.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1373_1373/img_195_initial_1_1373_1373.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_195_initial_1_1374_1374/img_195_initial_1_1374_1374.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_initial_1_1336_1336/img_196_initial_1_1336_1336.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_initial_1_1323_1323/img_196_initial_1_1323_1323.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_196_initial_1_1330_1330/img_196_initial_1_1330_1330.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_initial_1_1377_1377/img_203_initial_1_1377_1377.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_initial_1_1378_1378/img_203_initial_1_1378_1378.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_203_initial_1_1108_1108/img_203_initial_1_1108_1108.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_initial_1_1056_1056/img_205_initial_1_1056_1056.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_205_initial_1_1105_1105/img_205_initial_1_1105_1105.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_initial_1_1129_1129/img_208_initial_1_1129_1129.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_208_initial_1_1130_1130/img_208_initial_1_1130_1130.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_initial_1_1369_1369/img_217_initial_1_1369_1369.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_217_initial_1_2052_2052/img_217_initial_1_2052_2052.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/img_244_initial_1_2083_2083/img_244_initial_1_2083_2083.json",
+      "type": "application/json"
+    },
+    {
       "rel": "self",
       "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Teso-North/collection.json",
       "type": "application/json"
@@ -160,8 +2975,8 @@
     "temporal": {
       "interval": [
         [
-          "2020-11-22T16:27:33Z",
-          "2021-01-13T18:58:40Z"
+          "2020-04-22T00:00:00Z",
+          "2021-02-01T12:25:21Z"
         ]
       ]
     }

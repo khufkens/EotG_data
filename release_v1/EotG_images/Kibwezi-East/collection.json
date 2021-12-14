@@ -1,0 +1,151 @@
+{
+  "type": "Collection",
+  "id": "Kibwezi-East",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp00294/img_L433F00454C01S01423Rp00294.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp01041/img_L433F00454C01S01423Rp01041.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp02076/img_L433F00454C01S01423Rp02076.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp03186/img_L433F00454C01S01423Rp03186.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp04543/img_L433F00454C01S01423Rp04543.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp06355/img_L433F00454C01S01423Rp06355.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp07452/img_L433F00454C01S01423Rp07452.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp08351/img_L433F00454C01S01423Rp08351.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp09410/img_L433F00454C01S01423Rp09410.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp11036/img_L433F00454C01S01423Rp11036.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp11909/img_L433F00454C01S01423Rp11909.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp12508/img_L433F00454C01S01423Rp12508.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp13121/img_L433F00454C01S01423Rp13121.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp13820/img_L433F00454C01S01423Rp13820.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Rp14791/img_L433F00454C01S01423Rp14791.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F02875C02S03389Rp01679/img_L433F02875C02S03389Rp01679.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F02875C02S03389Rp06986/img_L433F02875C02S03389Rp06986.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F02875C02S03389Rp11987/img_L433F02875C02S03389Rp11987.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F00454C01S01423Ip/img_L433F00454C01S01423Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/img_L433F02875C02S03389Ip/img_L433F02875C02S03389Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kibwezi-East/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.79639053,
+          -2.99221325,
+          38.51941681,
+          -2.32044816
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-07T00:00:00Z",
+          "2021-02-21T13:27:50Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

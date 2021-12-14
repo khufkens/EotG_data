@@ -1,0 +1,316 @@
+{
+  "type": "Collection",
+  "id": "Kajiado-East",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L428F00626C02S00208Rp13170/img_L428F00626C02S00208Rp13170.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L428F00626C02S00208Rp04956/img_L428F00626C02S00208Rp04956.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L428F00626C02S00208Rp05907/img_L428F00626C02S00208Rp05907.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L428F00626C02S00208Rp09489/img_L428F00626C02S00208Rp09489.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L428F00626C02S00208Rp02346/img_L428F00626C02S00208Rp02346.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00640C02S02684Rp14252/img_L435F00640C02S02684Rp14252.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00640C02S02684Rp04586/img_L435F00640C02S02684Rp04586.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00640C02S02684Rp09677/img_L435F00640C02S02684Rp09677.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00661C02S01946Rp14093/img_L435F00661C02S01946Rp14093.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00661C02S01946Rp01413/img_L435F00661C02S01946Rp01413.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00661C02S01946Rp02591/img_L435F00661C02S01946Rp02591.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00661C02S01946Rp08365/img_L435F00661C02S01946Rp08365.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00661C02S01946Rp09672/img_L435F00661C02S01946Rp09672.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F01108C02S03340Rp04588/img_L435F01108C02S03340Rp04588.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F01108C02S03340Rp09681/img_L435F01108C02S03340Rp09681.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F01108C02S03340Rp14519/img_L435F01108C02S03340Rp14519.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L436F02074C01S01353Rp06212/img_L436F02074C01S01353Rp06212.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L436F02074C01S01353Rp03418/img_L436F02074C01S01353Rp03418.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L436F02074C01S01353Rp12052/img_L436F02074C01S01353Rp12052.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L436F02074C01S01353Rp10343/img_L436F02074C01S01353Rp10343.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L436F02074C01S01353Rp08882/img_L436F02074C01S01353Rp08882.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02185C02S02682Rp04584/img_L435F02185C02S02682Rp04584.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02185C02S02682Rp09675/img_L435F02185C02S02682Rp09675.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02185C02S02682Rp14254/img_L435F02185C02S02682Rp14254.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02884C02S02687Rp04587/img_L435F02884C02S02687Rp04587.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02884C02S02687Rp09680/img_L435F02884C02S02687Rp09680.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02884C02S02687Rp14250/img_L435F02884C02S02687Rp14250.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03225C01S01940Rp14268/img_L435F03225C01S01940Rp14268.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03225C01S01940Rp08805/img_L435F03225C01S01940Rp08805.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03225C01S01940Rp01442/img_L435F03225C01S01940Rp01442.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03225C01S01940Rp03447/img_L435F03225C01S01940Rp03447.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03377C01S01968Rp14260/img_L435F03377C01S01968Rp14260.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03377C01S01968Rp01416/img_L435F03377C01S01968Rp01416.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03377C01S01968Rp06827/img_L435F03377C01S01968Rp06827.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03377C01S01968Rp09674/img_L435F03377C01S01968Rp09674.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_5207_3562/img_158_repeat_2_1491_5207_3562.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_1563_1147/img_158_repeat_2_1491_1563_1147.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_2602_1624/img_158_repeat_2_1491_2602_1624.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_978_653/img_158_repeat_2_1491_978_653.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_5507_3883/img_158_repeat_2_1491_5507_3883.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_5951_4293/img_158_repeat_2_1491_5951_4293.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_3257_2093/img_158_repeat_2_1491_3257_2093.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_repeat_2_1491_4716_3086/img_158_repeat_2_1491_4716_3086.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L428F00626C02S00208Ip/img_L428F00626C02S00208Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00640C02S02684Ip/img_L435F00640C02S02684Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F00661C02S01946Ip/img_L435F00661C02S01946Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F01108C02S03340Ip/img_L435F01108C02S03340Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L436F02074C01S01353Ip/img_L436F02074C01S01353Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02185C02S02682Ip/img_L435F02185C02S02682Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F02884C02S02687Ip/img_L435F02884C02S02687Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03225C01S01940Ip/img_L435F03225C01S01940Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_L435F03377C01S01968Ip/img_L435F03377C01S01968Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/img_158_initial_1_1491_1491/img_158_initial_1_1491_1491.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Kajiado-East/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          36.717659000000005,
+          -2.40265489,
+          37.72435379,
+          -1.38065326
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-29T00:00:00Z",
+          "2021-02-17T17:26:49Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

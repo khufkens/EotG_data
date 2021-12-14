@@ -1,0 +1,121 @@
+{
+  "type": "Collection",
+  "id": "Gatanga",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp00567/img_L134F04022C01S02960Rp00567.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp00569/img_L134F04022C01S02960Rp00569.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp00571/img_L134F04022C01S02960Rp00571.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp01381/img_L134F04022C01S02960Rp01381.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp02688/img_L134F04022C01S02960Rp02688.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp04400/img_L134F04022C01S02960Rp04400.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp06159/img_L134F04022C01S02960Rp06159.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp07419/img_L134F04022C01S02960Rp07419.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp08202/img_L134F04022C01S02960Rp08202.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp09448/img_L134F04022C01S02960Rp09448.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp11887/img_L134F04022C01S02960Rp11887.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp13606/img_L134F04022C01S02960Rp13606.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Rp14650/img_L134F04022C01S02960Rp14650.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/img_L134F04022C01S02960Ip/img_L134F04022C01S02960Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Gatanga/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          36.70660019,
+          -1.08935964,
+          37.42107391,
+          -0.67721796
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-11-13T00:00:00Z",
+          "2021-02-18T07:48:40Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}

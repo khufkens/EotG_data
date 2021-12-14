@@ -1,0 +1,1771 @@
+{
+  "type": "Collection",
+  "id": "Machakos-Town",
+  "stac_version": "1.0.0",
+  "description": "image data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp02247/img_L398F00102C01S01131Rp02247.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp03271/img_L398F00102C01S01131Rp03271.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp05422/img_L398F00102C01S01131Rp05422.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp06967/img_L398F00102C01S01131Rp06967.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp07910/img_L398F00102C01S01131Rp07910.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp07925/img_L398F00102C01S01131Rp07925.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp10563/img_L398F00102C01S01131Rp10563.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp10656/img_L398F00102C01S01131Rp10656.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp13276/img_L398F00102C01S01131Rp13276.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp13277/img_L398F00102C01S01131Rp13277.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp14613/img_L398F00102C01S01131Rp14613.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp14614/img_L398F00102C01S01131Rp14614.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp14995/img_L398F00102C01S01131Rp14995.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp14996/img_L398F00102C01S01131Rp14996.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp14997/img_L398F00102C01S01131Rp14997.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Rp14998/img_L398F00102C01S01131Rp14998.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp10621/img_L398F00103C02S02544Rp10621.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11077/img_L398F00103C02S02544Rp11077.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11090/img_L398F00103C02S02544Rp11090.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11127/img_L398F00103C02S02544Rp11127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11139/img_L398F00103C02S02544Rp11139.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11206/img_L398F00103C02S02544Rp11206.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11207/img_L398F00103C02S02544Rp11207.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11878/img_L398F00103C02S02544Rp11878.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp11947/img_L398F00103C02S02544Rp11947.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp12538/img_L398F00103C02S02544Rp12538.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp12548/img_L398F00103C02S02544Rp12548.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp12550/img_L398F00103C02S02544Rp12550.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp14893/img_L398F00103C02S02544Rp14893.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Rp14894/img_L398F00103C02S02544Rp14894.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp04182/img_L398F00104C02S01701Rp04182.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp05548/img_L398F00104C02S01701Rp05548.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp01995/img_L398F00104C02S01701Rp01995.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp08635/img_L398F00104C02S01701Rp08635.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp10436/img_L398F00104C02S01701Rp10436.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp11262/img_L398F00104C02S01701Rp11262.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp12094/img_L398F00104C02S01701Rp12094.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp12940/img_L398F00104C02S01701Rp12940.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Rp13463/img_L398F00104C02S01701Rp13463.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp10624/img_L398F00421C02S03351Rp10624.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11078/img_L398F00421C02S03351Rp11078.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11091/img_L398F00421C02S03351Rp11091.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11128/img_L398F00421C02S03351Rp11128.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11141/img_L398F00421C02S03351Rp11141.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11204/img_L398F00421C02S03351Rp11204.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11205/img_L398F00421C02S03351Rp11205.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11879/img_L398F00421C02S03351Rp11879.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp11948/img_L398F00421C02S03351Rp11948.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp12539/img_L398F00421C02S03351Rp12539.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp12549/img_L398F00421C02S03351Rp12549.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp14895/img_L398F00421C02S03351Rp14895.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Rp14896/img_L398F00421C02S03351Rp14896.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00551C01S05435Rp02922/img_L398F00551C01S05435Rp02922.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00551C01S05435Rp08654/img_L398F00551C01S05435Rp08654.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00551C01S05435Rp13242/img_L398F00551C01S05435Rp13242.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00551C01S05435Rp13909/img_L398F00551C01S05435Rp13909.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp06968/img_L398F00912C02S03455Rp06968.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp06969/img_L398F00912C02S03455Rp06969.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp07951/img_L398F00912C02S03455Rp07951.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp08145/img_L398F00912C02S03455Rp08145.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp10658/img_L398F00912C02S03455Rp10658.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp13278/img_L398F00912C02S03455Rp13278.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Rp13279/img_L398F00912C02S03455Rp13279.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00971C01S03360Rp02923/img_L398F00971C01S03360Rp02923.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00971C01S03360Rp08665/img_L398F00971C01S03360Rp08665.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00971C01S03360Rp13244/img_L398F00971C01S03360Rp13244.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp11882/img_L398F01012C01S03352Rp11882.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp10649/img_L398F01012C01S03352Rp10649.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp10675/img_L398F01012C01S03352Rp10675.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp10880/img_L398F01012C01S03352Rp10880.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp11089/img_L398F01012C01S03352Rp11089.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp11100/img_L398F01012C01S03352Rp11100.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp11101/img_L398F01012C01S03352Rp11101.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp11138/img_L398F01012C01S03352Rp11138.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp11199/img_L398F01012C01S03352Rp11199.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp12543/img_L398F01012C01S03352Rp12543.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Rp14903/img_L398F01012C01S03352Rp14903.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01059C01S02222Rp02941/img_L398F01059C01S02222Rp02941.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01059C01S02222Rp08753/img_L398F01059C01S02222Rp08753.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01059C01S02222Rp13478/img_L398F01059C01S02222Rp13478.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01144C01S02405Rp05593/img_L398F01144C01S02405Rp05593.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01144C01S02405Rp05588/img_L398F01144C01S02405Rp05588.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01144C01S02405Rp05590/img_L398F01144C01S02405Rp05590.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01144C01S02405Rp08626/img_L398F01144C01S02405Rp08626.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01215C02S03449Rp07952/img_L398F01215C02S03449Rp07952.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01215C02S03449Rp07958/img_L398F01215C02S03449Rp07958.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01215C02S03449Rp08146/img_L398F01215C02S03449Rp08146.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01215C02S03449Rp10659/img_L398F01215C02S03449Rp10659.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01215C02S03449Rp13280/img_L398F01215C02S03449Rp13280.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01259C02S03367Rp02930/img_L398F01259C02S03367Rp02930.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01259C02S03367Rp05551/img_L398F01259C02S03367Rp05551.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01259C02S03367Rp09143/img_L398F01259C02S03367Rp09143.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01259C02S03367Rp13465/img_L398F01259C02S03367Rp13465.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01349C01S03361Rp03794/img_L398F01349C01S03361Rp03794.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01349C01S03361Rp08666/img_L398F01349C01S03361Rp08666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01349C01S03361Rp13245/img_L398F01349C01S03361Rp13245.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp04184/img_L398F01379C02S01714Rp04184.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp01997/img_L398F01379C02S01714Rp01997.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp05545/img_L398F01379C02S01714Rp05545.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp05546/img_L398F01379C02S01714Rp05546.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp05550/img_L398F01379C02S01714Rp05550.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp08636/img_L398F01379C02S01714Rp08636.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp10437/img_L398F01379C02S01714Rp10437.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp11669/img_L398F01379C02S01714Rp11669.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp11598/img_L398F01379C02S01714Rp11598.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp12942/img_L398F01379C02S01714Rp12942.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Rp13464/img_L398F01379C02S01714Rp13464.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01538C02S03456Rp02249/img_L398F01538C02S03456Rp02249.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01538C02S03456Rp02248/img_L398F01538C02S03456Rp02248.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01538C02S03456Rp07975/img_L398F01538C02S03456Rp07975.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01538C02S03456Rp08152/img_L398F01538C02S03456Rp08152.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01538C02S03456Rp13288/img_L398F01538C02S03456Rp13288.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01569C02S03970Rp03801/img_L398F01569C02S03970Rp03801.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01569C02S03970Rp08746/img_L398F01569C02S03970Rp08746.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01569C02S03970Rp13476/img_L398F01569C02S03970Rp13476.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01671C01S03714Rp07977/img_L398F01671C01S03714Rp07977.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01671C01S03714Rp08153/img_L398F01671C01S03714Rp08153.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01671C01S03714Rp08154/img_L398F01671C01S03714Rp08154.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01671C01S03714Rp08155/img_L398F01671C01S03714Rp08155.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01671C01S03714Rp13289/img_L398F01671C01S03714Rp13289.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01925C02S02552Rp11749/img_L398F01925C02S02552Rp11749.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01925C02S02552Rp11750/img_L398F01925C02S02552Rp11750.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01961C01S01273Rp10499/img_L398F01961C01S01273Rp10499.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01961C01S01273Rp10660/img_L398F01961C01S01273Rp10660.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01961C01S01273Rp10664/img_L398F01961C01S01273Rp10664.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01997C02S03637Rp10915/img_L398F01997C02S03637Rp10915.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01997C02S03637Rp11109/img_L398F01997C02S03637Rp11109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01997C02S03637Rp11217/img_L398F01997C02S03637Rp11217.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01997C02S03637Rp11219/img_L398F01997C02S03637Rp11219.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01997C02S03637Rp12372/img_L398F01997C02S03637Rp12372.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02100C01S03712Rp08653/img_L398F02100C01S03712Rp08653.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02100C01S03712Rp10498/img_L398F02100C01S03712Rp10498.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02100C01S03712Rp13296/img_L398F02100C01S03712Rp13296.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02242C02S02040Rp11746/img_L398F02242C02S02040Rp11746.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02242C02S02040Rp13291/img_L398F02242C02S02040Rp13291.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02242C02S02040Rp13292/img_L398F02242C02S02040Rp13292.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp02484/img_L398F02251C01S01138Rp02484.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp01237/img_L398F02251C01S01138Rp01237.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp03274/img_L398F02251C01S01138Rp03274.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp05423/img_L398F02251C01S01138Rp05423.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp13293/img_L398F02251C01S01138Rp13293.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp13294/img_L398F02251C01S01138Rp13294.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp14616/img_L398F02251C01S01138Rp14616.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Rp14619/img_L398F02251C01S01138Rp14619.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02320C01S05687Rp10928/img_L398F02320C01S05687Rp10928.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02320C01S05687Rp11112/img_L398F02320C01S05687Rp11112.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02320C01S05687Rp11946/img_L398F02320C01S05687Rp11946.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02320C01S05687Rp12378/img_L398F02320C01S05687Rp12378.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02320C01S05687Rp12547/img_L398F02320C01S05687Rp12547.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02556C01S03369Rp02924/img_L398F02556C01S03369Rp02924.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02556C01S03369Rp08662/img_L398F02556C01S03369Rp08662.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02556C01S03369Rp13246/img_L398F02556C01S03369Rp13246.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp02442/img_L398F02597C01S02360Rp02442.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp08603/img_L398F02597C01S02360Rp08603.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp09666/img_L398F02597C01S02360Rp09666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp11529/img_L398F02597C01S02360Rp11529.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp11530/img_L398F02597C01S02360Rp11530.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp12059/img_L398F02597C01S02360Rp12059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp13075/img_L398F02597C01S02360Rp13075.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp14212/img_L398F02597C01S02360Rp14212.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp14213/img_L398F02597C01S02360Rp14213.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Rp14214/img_L398F02597C01S02360Rp14214.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp01240/img_L398F02699C01S01139Rp01240.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp02250/img_L398F02699C01S01139Rp02250.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp05425/img_L398F02699C01S01139Rp05425.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp07985/img_L398F02699C01S01139Rp07985.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp11766/img_L398F02699C01S01139Rp11766.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp13582/img_L398F02699C01S01139Rp13582.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp14622/img_L398F02699C01S01139Rp14622.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp14623/img_L398F02699C01S01139Rp14623.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp14624/img_L398F02699C01S01139Rp14624.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp14625/img_L398F02699C01S01139Rp14625.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp14626/img_L398F02699C01S01139Rp14626.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Rp14627/img_L398F02699C01S01139Rp14627.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02703C01S02401Rp03800/img_L398F02703C01S02401Rp03800.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02703C01S02401Rp03759/img_L398F02703C01S02401Rp03759.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02703C01S02401Rp09736/img_L398F02703C01S02401Rp09736.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02703C01S02401Rp13265/img_L398F02703C01S02401Rp13265.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02763C02S02361Rp13264/img_L398F02763C02S02361Rp13264.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02763C02S02361Rp03797/img_L398F02763C02S02361Rp03797.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02763C02S02361Rp08749/img_L398F02763C02S02361Rp08749.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03056C02S04945Rp02485/img_L398F03056C02S04945Rp02485.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03056C02S04945Rp03275/img_L398F03056C02S04945Rp03275.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03056C02S04945Rp07983/img_L398F03056C02S04945Rp07983.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp02284/img_L398F03091C02S02221Rp02284.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp04566/img_L398F03091C02S02221Rp04566.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp06147/img_L398F03091C02S02221Rp06147.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp08750/img_L398F03091C02S02221Rp08750.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp11253/img_L398F03091C02S02221Rp11253.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp09857/img_L398F03091C02S02221Rp09857.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp12155/img_L398F03091C02S02221Rp12155.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp12912/img_L398F03091C02S02221Rp12912.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Rp13263/img_L398F03091C02S02221Rp13263.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp03808/img_L398F03135C02S01787Rp03808.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp05544/img_L398F03135C02S01787Rp05544.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp02005/img_L398F03135C02S01787Rp02005.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp08632/img_L398F03135C02S01787Rp08632.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp10427/img_L398F03135C02S01787Rp10427.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp11259/img_L398F03135C02S01787Rp11259.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp12158/img_L398F03135C02S01787Rp12158.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp12934/img_L398F03135C02S01787Rp12934.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03135C02S01787Rp13462/img_L398F03135C02S01787Rp13462.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03176C01S02407Rp02960/img_L398F03176C01S02407Rp02960.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03176C01S02407Rp08624/img_L398F03176C01S02407Rp08624.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03176C01S02407Rp13495/img_L398F03176C01S02407Rp13495.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03252C02S04524Rp10940/img_L398F03252C02S04524Rp10940.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03252C02S04524Rp11116/img_L398F03252C02S04524Rp11116.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03252C02S04524Rp12388/img_L398F03252C02S04524Rp12388.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03252C02S04524Rp12573/img_L398F03252C02S04524Rp12573.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03252C02S04524Rp13846/img_L398F03252C02S04524Rp13846.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03345C02S03597Rp10497/img_L398F03345C02S03597Rp10497.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03345C02S03597Rp11744/img_L398F03345C02S03597Rp11744.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03345C02S03597Rp11745/img_L398F03345C02S03597Rp11745.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03345C02S03597Rp13584/img_L398F03345C02S03597Rp13584.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03353C02S02403Rp03505/img_L398F03353C02S02403Rp03505.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03353C02S02403Rp08629/img_L398F03353C02S02403Rp08629.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03408C02S03711Rp08651/img_L398F03408C02S03711Rp08651.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03408C02S03711Rp10496/img_L398F03408C02S03711Rp10496.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03408C02S03711Rp11739/img_L398F03408C02S03711Rp11739.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03408C02S03711Rp13586/img_L398F03408C02S03711Rp13586.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03412C01S03362Rp02927/img_L398F03412C01S03362Rp02927.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03412C01S03362Rp08667/img_L398F03412C01S03362Rp08667.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03412C01S03362Rp13247/img_L398F03412C01S03362Rp13247.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Rp11076/img_L398F03473C02S04519Rp11076.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Rp11122/img_L398F03473C02S04519Rp11122.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Rp12401/img_L398F03473C02S04519Rp12401.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Rp12571/img_L398F03473C02S04519Rp12571.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Rp12572/img_L398F03473C02S04519Rp12572.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Rp13842/img_L398F03473C02S04519Rp13842.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03522C02S03663Rp08652/img_L398F03522C02S03663Rp08652.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03522C02S03663Rp10495/img_L398F03522C02S03663Rp10495.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03522C02S03663Rp11738/img_L398F03522C02S03663Rp11738.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03536C02S02362Rp03760/img_L398F03536C02S02362Rp03760.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03536C02S02362Rp03939/img_L398F03536C02S02362Rp03939.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03536C02S02362Rp03940/img_L398F03536C02S02362Rp03940.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03536C02S02362Rp08745/img_L398F03536C02S02362Rp08745.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03536C02S02362Rp13482/img_L398F03536C02S02362Rp13482.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03555C02S02560Rp10494/img_L398F03555C02S02560Rp10494.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03555C02S02560Rp11737/img_L398F03555C02S02560Rp11737.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03555C02S02560Rp13295/img_L398F03555C02S02560Rp13295.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_1024_2864_1825/img_126_repeat_2_1024_2864_1825.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_1627_1029_708/img_126_repeat_2_1627_1029_708.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_865_528/img_126_repeat_2_2248_865_528.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_867_530/img_126_repeat_2_2248_867_530.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_2800_1773/img_126_repeat_2_2248_2800_1773.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_2882_1842/img_126_repeat_2_2248_2882_1842.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_3028_1913/img_126_repeat_2_2248_3028_1913.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_3568_2317/img_126_repeat_2_2248_3568_2317.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_4263_2843/img_126_repeat_2_2248_4263_2843.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_5336_3699/img_126_repeat_2_2248_5336_3699.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2248_6201_4565/img_126_repeat_2_2248_6201_4565.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_2811_1786/img_126_repeat_2_2846_2811_1786.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_2883_1843/img_126_repeat_2_2846_2883_1843.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_3029_1914/img_126_repeat_2_2846_3029_1914.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_3569_2318/img_126_repeat_2_2846_3569_2318.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_5337_3701/img_126_repeat_2_2846_5337_3701.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_6203_4568/img_126_repeat_2_2846_6203_4568.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_repeat_2_2846_6205_4570/img_126_repeat_2_2846_6205_4570.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_127_repeat_2_3121_5122_3445/img_127_repeat_2_3121_5122_3445.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_127_repeat_2_3121_5123_3446/img_127_repeat_2_3121_5123_3446.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_127_repeat_2_3121_5124_3447/img_127_repeat_2_3121_5124_3447.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_127_repeat_2_3337_5129_3450/img_127_repeat_2_3337_5129_3450.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_1167_870/img_148_repeat_2_1191_1167_870.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_2695_1692/img_148_repeat_2_1191_2695_1692.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_4891_3263/img_148_repeat_2_1191_4891_3263.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_5381_3758/img_148_repeat_2_1191_5381_3758.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_5790_4165/img_148_repeat_2_1191_5790_4165.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_5790_4165/img_148_repeat_2_1191_5790_4165.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_6321_4694/img_148_repeat_2_1191_6321_4694.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_6227_4595/img_148_repeat_2_1191_6227_4595.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_1191_6066_4434/img_148_repeat_2_1191_6066_4434.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_1166_869/img_148_repeat_2_2060_1166_869.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_2694_1691/img_148_repeat_2_2060_2694_1691.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_4890_3262/img_148_repeat_2_2060_4890_3262.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_5380_3757/img_148_repeat_2_2060_5380_3757.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_5789_4164/img_148_repeat_2_2060_5789_4164.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_6065_4433/img_148_repeat_2_2060_6065_4433.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_6226_4594/img_148_repeat_2_2060_6226_4594.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_repeat_2_2060_6320_4693/img_148_repeat_2_2060_6320_4693.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1134_4686_3060/img_149_repeat_2_1134_4686_3060.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1134_5512_3891/img_149_repeat_2_1134_5512_3891.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1134_5957_4301/img_149_repeat_2_1134_5957_4301.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1134_3369_2188/img_149_repeat_2_1134_3369_2188.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1134_2588_1603/img_149_repeat_2_1134_2588_1603.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1364_383_276/img_149_repeat_2_1364_383_276.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1364_545_397/img_149_repeat_2_1364_545_397.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1364_5065_3396/img_149_repeat_2_1364_5065_3396.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_repeat_2_1364_3892_2453/img_149_repeat_2_1364_3892_2453.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_238_repeat_2_1443_296_210/img_238_repeat_2_1443_296_210.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_238_repeat_2_1443_1142_839/img_238_repeat_2_1443_1142_839.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_238_repeat_2_1443_1781_1329/img_238_repeat_2_1443_1781_1329.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_238_repeat_2_1443_1782_1330/img_238_repeat_2_1443_1782_1330.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_238_repeat_2_1443_4221_2809/img_238_repeat_2_1443_4221_2809.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00102C01S01131Ip/img_L398F00102C01S01131Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00103C02S02544Ip/img_L398F00103C02S02544Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00104C02S01701Ip/img_L398F00104C02S01701Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00421C02S03351Ip/img_L398F00421C02S03351Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00551C01S05435Ip/img_L398F00551C01S05435Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00912C02S03455Ip/img_L398F00912C02S03455Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F00971C01S03360Ip/img_L398F00971C01S03360Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01012C01S03352Ip/img_L398F01012C01S03352Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01059C01S02222Ip/img_L398F01059C01S02222Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01144C01S02405Ip/img_L398F01144C01S02405Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01215C02S03449Ip/img_L398F01215C02S03449Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01259C02S03367Ip/img_L398F01259C02S03367Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01349C01S03361Ip/img_L398F01349C01S03361Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01379C02S01714Ip/img_L398F01379C02S01714Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01538C02S03456Ip/img_L398F01538C02S03456Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01569C02S03970Ip/img_L398F01569C02S03970Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01671C01S03714Ip/img_L398F01671C01S03714Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01925C02S02552Ip/img_L398F01925C02S02552Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01961C01S01273Ip/img_L398F01961C01S01273Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F01997C02S03637Ip/img_L398F01997C02S03637Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02100C01S03712Ip/img_L398F02100C01S03712Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02242C02S02040Ip/img_L398F02242C02S02040Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02251C01S01138Ip/img_L398F02251C01S01138Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02320C01S05687Ip/img_L398F02320C01S05687Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02556C01S03369Ip/img_L398F02556C01S03369Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02597C01S02360Ip/img_L398F02597C01S02360Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02699C01S01139Ip/img_L398F02699C01S01139Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02703C01S02401Ip/img_L398F02703C01S02401Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F02763C02S02361Ip/img_L398F02763C02S02361Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03056C02S04945Ip/img_L398F03056C02S04945Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03091C02S02221Ip/img_L398F03091C02S02221Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03176C01S02407Ip/img_L398F03176C01S02407Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03252C02S04524Ip/img_L398F03252C02S04524Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03345C02S03597Ip/img_L398F03345C02S03597Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03408C02S03711Ip/img_L398F03408C02S03711Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03412C01S03362Ip/img_L398F03412C01S03362Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03473C02S04519Ip/img_L398F03473C02S04519Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03522C02S03663Ip/img_L398F03522C02S03663Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03536C02S02362Ip/img_L398F03536C02S02362Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_L398F03555C02S02560Ip/img_L398F03555C02S02560Ip.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_initial_1_2248_2248/img_126_initial_1_2248_2248.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_126_initial_1_2846_2846/img_126_initial_1_2846_2846.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_initial_1_1191_1191/img_148_initial_1_1191_1191.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_148_initial_1_2060_2060/img_148_initial_1_2060_2060.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_initial_1_1134_1134/img_149_initial_1_1134_1134.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_initial_1_1364_1364/img_149_initial_1_1364_1364.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_initial_1_3062_3062/img_149_initial_1_3062_3062.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_initial_1_2331_2331/img_149_initial_1_2331_2331.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_initial_1_2666_2666/img_149_initial_1_2666_2666.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_149_initial_1_2667_2667/img_149_initial_1_2667_2667.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/img_238_initial_1_1443_1443/img_238_initial_1_1443_1443.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/Machakos-Town/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/EotG_images/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          37.1414032,
+          -1.71150804,
+          37.41309738,
+          -1.35909915
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-24T00:00:00Z",
+          "2021-03-05T08:50:54Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "machine learning",
+    "crop monitoring",
+    "validation",
+    "remote sensing"
+  ]
+}
