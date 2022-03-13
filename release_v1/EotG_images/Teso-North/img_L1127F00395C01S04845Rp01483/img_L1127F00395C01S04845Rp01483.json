@@ -104,7 +104,7 @@
       ]
     },
     "ARC": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/736443_4845_ARC.zip",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/arc/736443_4845_ARC.zip",
       "type": "application/zip",
       "title": "ARC precipitation estimates",
       "roles": [
@@ -112,7 +112,7 @@
       ]
     },
     "TAMSAT": {
-      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/sentinel/736443_4845_TAMSAT.zip",
+      "href": "https://raw.githubusercontent.com/khufkens/EotG_data/main/release_v1//ancillary_data/tamsat/736443_4845_TAMSAT.zip",
       "type": "application/zip",
       "title": "TAMSAT precipitation estimates",
       "roles": [
