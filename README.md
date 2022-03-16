@@ -60,6 +60,7 @@ Similar to Sentinel 2 data daily aggregates of climate variables were extracted 
 
 For units we refer to the source data on the [Google Earth Engine catalogue](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_DAILY).
 
-## ARC and TAMSAT data
+## ARC and TAMSAT precipitation climatology data
 
-We provide daily precipitation estimates as extracted from two remote sensing products.
+We provide daily precipitation estimates as extracted from two remote sensing products. We use both [TAMSAT](https://www.tamsat.org.uk/), where "TAMSAT produces daily rainfall estimates for all of Africa at 4km resolution." In addition, daily precipitation values are provided through [ARC2 data](http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCEP/.CPC/.FEWS/.Africa/.DAILY/.ARC2/.daily/) as provided by NOAA. Data are extracted at point locations, for units we refer to the product websites.
+
