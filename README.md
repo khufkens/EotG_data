@@ -1,3 +1,7 @@
+```diff
+! The formal release of this work can now be found on the Radiant Earth ML hub
+```
+
 # Eyes on the Ground STAC data catalogue (v1)
 
 The "Eyes on the Ground" project ([lacunafund.org](lacunafund.org)) is a collaboration between ACRE Africa, the International Food Policy Research Institute (IFPRI), and the Lacuna Fund, to create a large machine learning (ML) dataset of smallholder farmer's fields based upon previous work within the Picture Based Insurance framework (Ceballos, Kramer and Robles, 2019, [https://doi.org/10.1016/j.deveng.2019.100042](https://doi.org/10.1016/j.deveng.2019.100042)). This is a unique dataset of georeferenced crop images along with labels on input use, crop management, phenology, crop damage, and yields, collected across 8 counties in Kenya. The research leading to this dataset was undertaken as part of the CGIAR research program on Policies, Institutions and Markets (PIM)
@@ -12,7 +16,7 @@ Overall we provide:
 - ARC and TAMSAT precipitation estimates
 - ERA5 climate variables (limited to 09/07/2021)
 
-To browse the data visually visit the data repository in the [Radiant Earth ML hub](https://mlhub.earth/data/lacuna_fund_eotg_v1).
+To browse the data visually visit the data repository in the **[Radiant Earth ML hub](https://mlhub.earth/data/lacuna_fund_eotg_v1)**.
 
 # Labelled and curated images
 
