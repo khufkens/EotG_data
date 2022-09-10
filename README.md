@@ -12,7 +12,7 @@ Overall we provide:
 - ARC and TAMSAT precipitation estimates
 - ERA5 climate variables (limited to 09/07/2021)
 
-To browse the data visually visit the data repository in the [Radiant Earth STAC browser](https://radiantearth.github.io/stac-browser/#/external/raw.githubusercontent.com/khufkens/EotG_data/main/release_v1/catalog.json).
+To browse the data visually visit the data repository in the [Radiant Earth ML hub](https://mlhub.earth/data/lacuna_fund_eotg_v1).
 
 # Labelled and curated images
 
